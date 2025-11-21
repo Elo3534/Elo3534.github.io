@@ -1,0 +1,40 @@
+<nav>
+  {% for path in site.header_pages %}
+    {% assign nav_page = site.pages | where: "path", path | first %}
+    {% if nav_page.title %}
+      <a href="{{ nav_page.url | relative_url }}" 
+         {% if page.url == nav_page.url %}class="active"{% endif %}>
+        {{ nav_page.title }}
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>
+
+<style>
+nav {
+  margin: 1rem 0;
+  padding: 1rem 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #2c3e50;
+  font-weight: 500;
+}
+
+nav a:hover,
+nav a.active {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  nav a {
+    display: block;
+    margin: 0.5rem 0;
+  }
+}
+</style>
