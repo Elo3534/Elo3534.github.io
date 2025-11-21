@@ -4,8 +4,8 @@ baseurl: ""
 url: "https://elo3534.github.io"
 lang: fr
 
-# Thème GitHub Pages officiel Minimal
-remote_theme: pages-themes/Slate
+# Thème GitHub Pages officiel Cayman
+remote_theme: pages-themes/Cayman
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
