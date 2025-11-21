@@ -9,7 +9,7 @@ title: À Propos
 
 Ingénieure Data Analyste Junior, je me spécialise dans la transformation des données en décisions stratégiques. Mon parcours unique combine une solide formation scientifique en biologie analytique et une reconversion réussie vers la data science.
 
-### 🎓 Formations
+## 🎓 Formations
 
 **Formation Data Analysis** (2025)  
 *Certification Concepteur développeur en science des données - RNCP niveau 6*
@@ -24,13 +24,13 @@ Ingénieure Data Analyste Junior, je me spécialise dans la transformation des d
 **DUT Génie Biologique** (2009)  
 *IUT Clermont-Ferrand Auvergne*
 
-### 🏆 Certifications
+## 🏆 Certifications
 
 - **RNCP Niveau 6** - Concepteur développeur en science des données (2025)
 - **Hubspot CMR for Marketers** (2025)
 - **Google Analytics 4** (2025)
 
-### 🌟 Ce qui me distingue
+## 🌟 Ce qui me distingue
 
 **Double compétence scientifique et technique**  
 Mon background en biologie analytique m'a forgé un esprit d'analyse rigoureux et méthodique.
