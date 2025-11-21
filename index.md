@@ -1,6 +1,13 @@
 ---
+layout: home
 title: Accueil
 ---
+# 👋 Hello, je suis Élodie  
+### Data Analyst | Python | SQL | Power BI | Machine Learning débutant
+
+Bienvenue sur mon portfolio.  
+Vous trouverez ici mes projets, mon parcours et mes compétences techniques.
+
 
 # Elodie HEINRY  
 **Data Analyste**
