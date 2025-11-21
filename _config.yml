@@ -5,7 +5,7 @@ url: "https://elo3534.github.io"
 lang: fr
 
 # Thème GitHub Pages officiel Minimal
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/Slate
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
