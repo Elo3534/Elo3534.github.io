@@ -1,71 +1,39 @@
 # _config.yml pour le thème modernist v0.2.2
 
+# Informations du site
 title: "Mon Portfolio"
-description: "Portfolio de [Votre Nom] - Développeur/Designer/Créatif"
-baseurl: "" # Laissez vide si c'est pour votre domaine principal, sinon "/nom-du-repo"
-url: "https://votreusername.github.io" # Remplacez par votre URL GitHub Pages
+description: "Bienvenue sur mon portfolio !"
+baseurl: ""  # mettre "" si le site est à la racine, sinon "/monrepo"
+url: "https://Elo3534.github.io" # Remplacez par votre URL GitHub Pages
 
 # Thème
+theme: none
 remote_theme: pages-themes/modernist@v0.2.2
 plugins:
   - jekyll-remote-theme
 
+# Options du thème
+show_downloads: false
+
 # Informations personnelles
 author:
-  name: "[Votre Nom Complet]"
-  email: "votre.email@example.com"
-  github: "votreusername"
-  linkedin: "votre-linkedin" # Optionnel
-  twitter: "votre-twitter" # Optionnel
-
-# Configuration du site
-markdown: kramdown
-theme: modernist
-
-# Paramètres de construction
-future: false
-safe: true
-lsi: false
-incremental: false
-highlighter: rouge
-
-# Permalinks (structure des URLs)
-permalink: pretty
-
-# Navigation (vous pouvez personnaliser selon vos besoins)
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - contact.md
-
-# Paramètres spécifiques au thème modernist
-github:
-  is_project_page: false # Mettez true si c'est un projet, false pour un site personnel
-
-# Paramètres personnalisés pour votre portfolio
-portfolio:
-  tagline: "Développeur passionné par la création de solutions innovantes"
-  skills:
-    - "Développement Web"
-    - "Design UI/UX"
-    - "JavaScript"
-    - "React"
-    - "Node.js"
+  name: "Elodie HEINRY"
+  email: "heinryelodie@hotmail.fr"
+  github: "Elo3534"
+  linkedin: "https://www.linkedin.com/in/elodie-heinry" # Optionnel
   
-# Social links (optionnel)
-social_links:
-  github: "https://github.com/votreusername"
-  linkedin: "https://linkedin.com/in/votreprofil"
-  twitter: "https://twitter.com/votreprofil"
+# Navigation
+nav:
+  - name: "Accueil"
+    link: "/"
+  - name: "Projets"
+    link: "/projets"
+  - name: "À propos"
+    link: "/about"
+  - name: "Contact"
+    link: "/contact"
 
-# Exclude (fichiers à ignorer)
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
+# Plugins recommandés
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
