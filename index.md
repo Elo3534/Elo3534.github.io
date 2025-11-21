@@ -4,19 +4,23 @@ title: Accueil
 ---
 
 # Élodie HEINRY
-## Data Analyste | Power BI | Python | SQL
-
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue) 
-![Power BI](https://img.shields.io/badge/Power_BI-Expert-yellow) 
-![Python](https://img.shields.io/badge/Python-Advanced-green)
+**Data Analyste | Power BI | Python | SQL**
 
 ---
 
-### 🎯 Data Analyste Junior disponible à partir d'octobre 2024
+## 🎯 Data Analyste Junior disponible à partir d'octobre 2024
 
 Ingénieure Data Analyste passionnée par la transformation des données en insights actionnables. Mon parcours atypique, marqué par deux reconversions professionnelles réussies, témoigne de ma forte capacité d'adaptation et de ma résilience.
 
 **💼 En recherche active d'un poste de Data Analyste**
+
+<div class="badges">
+  <span class="badge">Power BI</span>
+  <span class="badge">Python</span>
+  <span class="badge">SQL</span>
+  <span class="badge">Tableau</span>
+  <span class="badge">Machine Learning</span>
+</div>
 
 ---
 
@@ -36,15 +40,24 @@ Ingénieure Data Analyste passionnée par la transformation des données en insi
 
 ## 💡 Compétences Clés
 
-| Domaines | Technologies |
-|----------|-------------|
-| **BI & Visualisation** | Power BI, Tableau, Looker Studio, DAX |
-| **Data Analysis** | Python, SQL, Statistiques, Machine Learning |
-| **Cloud & Data** | BigQuery, AWS, Snowflake |
-| **Soft Skills** | Rigueur, Autonomie, Adaptation, Résilience |
+**BI & Visualisation**  
+Power BI, Tableau, Looker Studio, DAX
+
+**Data Analysis**  
+Python, SQL, Statistiques, Machine Learning
+
+**Cloud & Data**  
+BigQuery, AWS, Snowflake
+
+**Soft Skills**  
+Rigueur, Autonomie, Adaptation, Résilience
 
 ---
 
 > *"Si je suis junior sur le papier, mon parcours est marqué par une détermination sans faille et une capacité à rebondir qui font de moi une collaboratrice résiliente et engagée."*
 
-[📧 Me contacter](contact) | [👨‍💻 Voir mes projets](projects) | [📄 Mon parcours](experience)
+<div class="navigation-links">
+  <a href="{{ '/contact' | relative_url }}" class="btn">📧 Me contacter</a>
+  <a href="{{ '/projects' | relative_url }}" class="btn">👨‍💻 Voir mes projets</a>
+  <a href="{{ '/experience' | relative_url }}" class="btn">📄 Mon parcours</a>
+</div>
