@@ -3,21 +3,22 @@ title: "Élodie HEINRY | Data Analyste"
 layout: default
 ---
 
+<section>
 # Élodie HEINRY – Data Analyste Junior
 
 Ingénieure Data Analyste Junior, rigoureuse et passionnée par la donnée.  
 Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
+</section>
 
----
-
+<section>
 ## À propos de moi
 
 - Deux reconversions professionnelles réussies, forte capacité d’adaptation et résilience.
 - Autonomie, rigueur et sens de l’organisation.
 - Passionnée par la Data, avec un excellent esprit analytique.
+</section>
 
----
-
+<section>
 ## Parcours et Expériences
 
 **Agent de Maîtrise – Laboratoires de sciences (2017 – 2024)**  
@@ -39,9 +40,9 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
 - Concepteur développeur en science des données – RNCP niveau 6 (2025, en cours)  
 - Hubspot CMR for Marketers (2025)  
 - Google Analytics 4 (2025)
+</section>
 
----
-
+<section>
 ## Compétences
 
 **Techniques :** Python, SQL, DAX, HTML, Power BI, Tableau, Looker Studio, Big Query, AWS, Snowflake, Machine Learning  
@@ -52,9 +53,9 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
 - Curiosité & Innovation  
 - Collaboration  
 - Mindset Data (Persévérance, Prise d’initiatives, Orientation solutions)
+</section>
 
----
-
+<section>
 ## Projets Data
 
 1. **[Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)**  
@@ -64,9 +65,9 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
    Dashboard PowerBI avec mesures DAX avancées et analyses de performance.
 
 3. **LinkedIn Portfolio :** [Voir tous mes projets](https://www.linkedin.com/in/elodie-heinry-data-analyste/)
+</section>
 
----
-
+<section>
 ## Contact
 
 - **Email :** heinryelodie@hotmail.fr  
@@ -75,8 +76,5 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
 - **LinkedIn :** [Élodie HEINRY](https://www.linkedin.com/in/elodie-heinry)  
 - **GitHub :** [Elo3534](https://github.com/Elo3534)  
 
----
-
-## Téléchargement du CV
-
 [Télécharger mon CV en PDF](assets/pdf/CV_Elodie_HEINRY.pdf)
+</section>
