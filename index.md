@@ -1,24 +1,23 @@
 ---
-title: "Élodie HEINRY | Data Analyste"
 layout: default
+title: "Élodie HEINRY | Data Analyste"
 ---
 
-<section>
 # Élodie HEINRY – Data Analyste Junior
 
 Ingénieure Data Analyste Junior, rigoureuse et passionnée par la donnée.  
 Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
-</section>
 
-<section>
+---
+
 ## À propos de moi
 
 - Deux reconversions professionnelles réussies, forte capacité d’adaptation et résilience.
 - Autonomie, rigueur et sens de l’organisation.
 - Passionnée par la Data, avec un excellent esprit analytique.
-</section>
 
-<section>
+---
+
 ## Parcours et Expériences
 
 **Agent de Maîtrise – Laboratoires de sciences (2017 – 2024)**  
@@ -40,9 +39,9 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
 - Concepteur développeur en science des données – RNCP niveau 6 (2025, en cours)  
 - Hubspot CMR for Marketers (2025)  
 - Google Analytics 4 (2025)
-</section>
 
-<section>
+---
+
 ## Compétences
 
 **Techniques :** Python, SQL, DAX, HTML, Power BI, Tableau, Looker Studio, Big Query, AWS, Snowflake, Machine Learning  
@@ -53,21 +52,21 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
 - Curiosité & Innovation  
 - Collaboration  
 - Mindset Data (Persévérance, Prise d’initiatives, Orientation solutions)
-</section>
 
-<section>
+---
+
 ## Projets Data
 
-1. **[Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)**  
+1. [Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)  
    Analyse exploratoire, visualisations interactives et rapport Word.
 
-2. **[Netflix – PowerBI & DAX](https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice)**  
+2. [Netflix – PowerBI & DAX](https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice)  
    Dashboard PowerBI avec mesures DAX avancées et analyses de performance.
 
-3. **LinkedIn Portfolio :** [Voir tous mes projets](https://www.linkedin.com/in/elodie-heinry-data-analyste/)
-</section>
+3. [Voir tous mes projets LinkedIn](https://www.linkedin.com/in/elodie-heinry-data-analyste/)
 
-<section>
+---
+
 ## Contact
 
 - **Email :** heinryelodie@hotmail.fr  
@@ -77,4 +76,3 @@ Disponible dès début octobre 2024 grâce à mon avance sur ma formation.
 - **GitHub :** [Elo3534](https://github.com/Elo3534)  
 
 [Télécharger mon CV en PDF](assets/pdf/CV_Elodie_HEINRY.pdf)
-</section>
