@@ -5,7 +5,7 @@ title: "Portfolio - Elodie HEINRY"
 description: "Bienvenue sur mon portfolio !"
 baseurl: ""  # mettre "" si le site est à la racine, sinon "/monrepo"
 url: "https://Elo3534.github.io" # Remplacez par votre URL GitHub Pages
-theme: slate
+remote_theme: pages-themes/slate
 
 # Thème
 
@@ -14,10 +14,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
+markdown: kramdown
 
 
-# Options du thème
-show_downloads: false
 
 # Informations personnelles
 author:
