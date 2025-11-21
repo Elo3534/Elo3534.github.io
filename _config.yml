@@ -50,4 +50,3 @@ exclude:
   - node_modules
   - vendor/
 
-  - vendor/ruby/
