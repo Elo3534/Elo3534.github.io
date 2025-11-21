@@ -1,13 +1,13 @@
-# _config.yml pour le thème modernist v0.2.2
+# _config.yml pour le thème modernist 
 
 # Informations du site
-title: "Mon Portfolio"
+title: "Portfolio - Elodie HEINRY"
 description: "Bienvenue sur mon portfolio !"
 baseurl: ""  # mettre "" si le site est à la racine, sinon "/monrepo"
 url: "https://Elo3534.github.io" # Remplacez par votre URL GitHub Pages
 
 # Thème
-remote_theme: pages-themes/modernist@v0.2.2
+remote_theme: pages-themes/modernist
 plugins:
   - jekyll-remote-theme
 
