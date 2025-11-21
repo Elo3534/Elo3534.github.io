@@ -1,12 +1,12 @@
 title: "Élodie HEINRY | Data Analyste"
-description: "Ingénieure Data Analyste Junior spécialisée en Power BI, Python et analyse de données"
+description: "Data Analyste Junior spécialisée en Power BI, Python et analyse de données"
 baseurl: ""
 url: "https://elo3534.github.io"
 github_username: "Elo3534"
 
 # Configuration Jekyll
 markdown: kramdown
-theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal
 
 # Paramètres personnalisés
 name: "Élodie HEINRY"
