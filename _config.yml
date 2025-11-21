@@ -28,6 +28,10 @@ social:
     icon: github
     url: https://github.com/Elo3534
 
+# CSS personnalisé
+sass:
+  style: compressed
+
 # Markdown
 markdown: kramdown
 
