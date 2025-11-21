@@ -1,0 +1,49 @@
+title: "Élodie HEINRY | Data Analyste"
+description: "Ingénieure Data Analyste Junior spécialisée en Power BI, Python et analyse de données"
+baseurl: ""
+url: "https://elo3534.github.io"
+github_username: "Elo3534"
+
+# Configuration Jekyll
+markdown: kramdown
+theme: jekyll-theme-slate
+
+# Paramètres personnalisés
+name: "Élodie HEINRY"
+email: "heinryelodie@hotmail.fr"
+phone: "06 18 70 42 77"
+location: "Montpellier"
+linkedin: "elodie-heinry"
+github: "Elo3534"
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - experience.md
+  - skills.md
+  - projects.md
+  - contact.md
+
+# Social links
+social:
+  - name: LinkedIn
+    icon: linkedin
+    url: https://linkedin.com/in/elodie-heinry
+  - name: GitHub
+    icon: github
+    url: https://github.com/Elo3534
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

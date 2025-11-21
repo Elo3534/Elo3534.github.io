@@ -1,0 +1,162 @@
+---
+---
+
+// Custom styles for Slate theme
+
+// Variables
+$primary-color: #2c3e50;
+$secondary-color: #3498db;
+$accent-color: #e74c3c;
+$text-color: #333;
+$light-bg: #f8f9fa;
+
+// Header enhancements
+header {
+    background: linear-gradient(135deg, $primary-color 0%, #34495e 100%);
+    
+    h1 {
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+    }
+    
+    p {
+        opacity: 0.9;
+        font-size: 1.1em;
+    }
+}
+
+// Main content styles
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+// Section styling
+section {
+    margin: 3rem 0;
+    
+    h2 {
+        color: $primary-color;
+        border-bottom: 2px solid $secondary-color;
+        padding-bottom: 0.5rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
+// Project cards
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.project-card {
+    background: white;
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+    
+    h3 {
+        margin-top: 0;
+        color: $primary-color;
+    }
+}
+
+// Skills grid
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.skill-category {
+    background: $light-bg;
+    padding: 1.5rem;
+    border-radius: 6px;
+    
+    h4 {
+        color: $primary-color;
+        margin-top: 0;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 0.5rem;
+    }
+}
+
+// Badges
+.badge {
+    display: inline-block;
+    background: $secondary-color;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.8em;
+    margin: 0.25rem;
+    
+    &.expert { background: #27ae60; }
+    &.advanced { background: #3498db; }
+    &.intermediate { background: #f39c12; }
+    &.basic { background: #95a5a6; }
+}
+
+// Contact links
+.contact-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.contact-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.5rem;
+    background: $primary-color;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background 0.2s;
+    
+    &:hover {
+        background: darken($primary-color, 10%);
+        color: white;
+        text-decoration: none;
+    }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+    .project-grid,
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .contact-links {
+        flex-direction: column;
+    }
+    
+    header h1 {
+        font-size: 2em;
+    }
+}
+
+// Print styles
+@media print {
+    .no-print {
+        display: none;
+    }
+    
+    body {
+        font-size: 12pt;
+        line-height: 1.4;
+    }
+}
