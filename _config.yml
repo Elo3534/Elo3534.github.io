@@ -1,8 +1,10 @@
 title: "Élodie HEINRY | Data Analyste"
+logo: assets/images/"Capture d'écran 2025-04-04 161355.png"
 description: "Data Analyste Junior spécialisée en Power BI, Python et analyse de données"
 baseurl: ""
 url: "https://elo3534.github.io"
 github_username: "Elo3534"
+lang: fr
 
 # Configuration Jekyll
 markdown: kramdown
