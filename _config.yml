@@ -1,17 +1,20 @@
 title: "Élodie HEINRY | Data Analyste"
-logo: assets/images/"Capture d'écran 2025-04-04 161355.png"
 description: "Data Analyste Junior spécialisée en Power BI, Python et analyse de données"
 baseurl: ""
 url: "https://elo3534.github.io"
-github_username: "Elo3534"
 lang: fr
-show_downloads: true
 
-# Configuration Jekyll
-markdown: kramdown
-theme: jekyll-theme-minimal
+# Thème GitHub Pages officiel Minimal
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Paramètres personnalisés
+# Logo (évite les espaces dans le nom de fichier)
+logo: assets/images/logo.png
+
+# Infos perso
 name: "Élodie HEINRY"
 email: "heinryelodie@hotmail.fr"
 phone: "06 18 70 42 77"
@@ -28,7 +31,7 @@ header_pages:
   - projects.md
   - contact.md
 
-# Social links
+# Liens sociaux
 social:
   - name: LinkedIn
     icon: linkedin
@@ -37,16 +40,14 @@ social:
     icon: github
     url: https://github.com/Elo3534
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Paramètres Markdown
+markdown: kramdown
 
-# Exclude from processing
+# Exclude
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
+  - vendor/
+
   - vendor/ruby/
