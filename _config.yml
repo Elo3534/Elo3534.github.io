@@ -1,35 +1,23 @@
+# Informations du site
 title: "Élodie HEINRY | Data Analyste"
-description: "Data Analyste Junior spécialisée en Power BI, Python et analyse de données"
+description: "Portfolio professionnel d'une Data Analyste Junior"
 baseurl: ""
 url: "https://elo3534.github.io"
 lang: fr
 
-# Thème GitHub Pages officiel Cayman
-remote_theme: pages-themes/Cayman
+# Thème officiel GitHub Pages
+remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Logo (évite les espaces dans le nom de fichier)
+# Logo (évite les espaces)
 logo: assets/images/logo.png
-
-# Infos perso
-name: "Élodie HEINRY"
-email: "heinryelodie@hotmail.fr"
-phone: "06 18 70 42 77"
-location: "Montpellier"
-linkedin: "elodie-heinry"
-github: "Elo3534"
 
 # Navigation
 header_pages:
-  - index.md
-  - about.md
-  - experience.md
-  - skills.md
-  - projects.md
-  - contact.md
+  - README.md
 
 # Liens sociaux
 social:
@@ -40,13 +28,14 @@ social:
     icon: github
     url: https://github.com/Elo3534
 
-# Paramètres Markdown
+# Markdown
 markdown: kramdown
 
-# Exclude
+# Exclusions
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor/
+
 
