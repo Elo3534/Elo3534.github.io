@@ -1,5 +1,71 @@
-remote_theme: pages-themes/modernist@v0.2.0
+# _config.yml pour le thème modernist v0.2.2
+
+title: "Mon Portfolio"
+description: "Portfolio de [Votre Nom] - Développeur/Designer/Créatif"
+baseurl: "" # Laissez vide si c'est pour votre domaine principal, sinon "/nom-du-repo"
+url: "https://votreusername.github.io" # Remplacez par votre URL GitHub Pages
+
+# Thème
+remote_theme: pages-themes/modernist@v0.2.2
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Elodie HEINRY's homepage
-description: Bookmark this to keep an eye on my project updates!
+  - jekyll-remote-theme
+
+# Informations personnelles
+author:
+  name: "[Votre Nom Complet]"
+  email: "votre.email@example.com"
+  github: "votreusername"
+  linkedin: "votre-linkedin" # Optionnel
+  twitter: "votre-twitter" # Optionnel
+
+# Configuration du site
+markdown: kramdown
+theme: modernist
+
+# Paramètres de construction
+future: false
+safe: true
+lsi: false
+incremental: false
+highlighter: rouge
+
+# Permalinks (structure des URLs)
+permalink: pretty
+
+# Navigation (vous pouvez personnaliser selon vos besoins)
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
+# Paramètres spécifiques au thème modernist
+github:
+  is_project_page: false # Mettez true si c'est un projet, false pour un site personnel
+
+# Paramètres personnalisés pour votre portfolio
+portfolio:
+  tagline: "Développeur passionné par la création de solutions innovantes"
+  skills:
+    - "Développement Web"
+    - "Design UI/UX"
+    - "JavaScript"
+    - "React"
+    - "Node.js"
+  
+# Social links (optionnel)
+social_links:
+  github: "https://github.com/votreusername"
+  linkedin: "https://linkedin.com/in/votreprofil"
+  twitter: "https://twitter.com/votreprofil"
+
+# Exclude (fichiers à ignorer)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
