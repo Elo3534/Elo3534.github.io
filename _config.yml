@@ -7,7 +7,6 @@ baseurl: ""  # mettre "" si le site est à la racine, sinon "/monrepo"
 url: "https://Elo3534.github.io" # Remplacez par votre URL GitHub Pages
 
 # Thème
-theme: none
 remote_theme: pages-themes/modernist@v0.2.2
 plugins:
   - jekyll-remote-theme
