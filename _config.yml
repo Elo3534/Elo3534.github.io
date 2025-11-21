@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://elo3534.github.io"
 github_username: "Elo3534"
 lang: fr
+show_downloads: true
 
 # Configuration Jekyll
 markdown: kramdown
