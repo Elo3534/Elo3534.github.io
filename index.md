@@ -199,7 +199,13 @@ Compétences d'avant
 
 |  | 👨‍💻 | **GitHub :** <a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>
 
+<div class="social-icons">
+  <a href="https://github.com/Elo3534" target="_blank"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"><i class="fab fa-linkedin"></i></a>
+</div>
 
+<!-- Inclure Font Awesome pour les icônes -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
 
