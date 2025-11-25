@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}"; // importe Cayman
+// Ici, tu peux ajouter tes styles perso
+.hero-banner {
+  background: linear-gradient(135deg, #159957, #2bbbad, #1a73e8);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
