@@ -34,11 +34,9 @@ description: "Nouvelle direction, Même détermination !"
 
 ---
 <div style="text-align:center;">
-## <span id="apropos">👋 À PROPOS DE MOI</span>
-
-Je suis **Data Analyst en reconversion**, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
-
-Je transforme la donnée en **outils décisionnels simples, fiables, élégants et utiles**.
+  <h1><span id="apropos">👋 À PROPOS DE MOI</span></h1>
+  <a>Je suis **Data Analyst en reconversion**, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
+Je transforme la donnée en **outils décisionnels simples, fiables, élégants et utiles**.</a>
 </div>
 
 
