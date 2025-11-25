@@ -24,38 +24,38 @@ description: "Nouvelle direction, Même détermination !"
 <div class="contact-icons" style="text-align:center; margin-top:2rem;">
 
   <!-- Email -->
-  <a href="mailto:heinryelodie@hotmail.fr" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="Email">
-    <i class="fas fa-envelope"></i>
-  </a>
+<a href="mailto:heinryelodie@hotmail.fr" target="_blank"
+   style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     title="email">
+  <img src="assets/images/email.png" alt="Email" style="width: 30px; height: 30px;">
+</a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="LinkedIn">
-    <i class="fab fa-linkedin-in"></i>
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     title="Mon linkedIn">
+   <img src="assets/images/in.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/Elo3534" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="GitHub">
-    <i class="fab fa-github"></i>
+    style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     title="Mon GitHub">
+   <img src="assets/images/github.png" alt="GitHub" style="width: 30px; height: 30px;">
   </a>
 
   <!-- CV -->
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="Télécharger CV">
-    <i class="fas fa-file-alt"></i>
+    style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     title="Mon CV">
+   <img src="assets/images/cv.png" alt="CV" style="width: 30px; height: 30px;">
   </a>
 
   <!-- Localisation -->
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="Localisation">
-    <i class="fas fa-map-marker-alt"></i>
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     title="Ma localisation">
+    <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 
 </div>
