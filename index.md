@@ -3,20 +3,20 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
-
-<div style="text-align: center; margin-bottom: 2rem;">
+<div style="text-align:center;">
+<div style="margin-bottom: 2rem;">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
 
 
 
 
-<div style="text-align: center; margin: 3rem 0; line-height: 1.6;">
-  <h2 style="color: #159957;">Ma Reconversion en DATA, une évidence</h2>
+<div style=margin: 3rem 0; line-height: 1.6;">
+  <h2 style="color: #159957;">De la reconversion à la révélation : Mon pari gagnant</h2>
   <p style="font-size: 1.1rem;">
-    <strong>Rigueur scientifique • Analyse métier • Visualisation claire • Innovation • Collaboration</strong><br>
+    <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong><br>
     <br>
-    <strong><em>Disponible pour un CDI/CDD sur Montpellier et sa région</em></strong>
+    <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
   </p>
 </div>
 
@@ -32,28 +32,17 @@ description: "Nouvelle direction, Même détermination !"
 </div>
 
 
-<!-- Menu Navigation -->
-<div class="nav-buttons">
-  <a href="#apropos" class="button">À Propos</a>
-  <a href="#competences" class="button">Compétences</a>
-  <a href="#projets" class="button">Projets</a>
-  <a href="#formation" class="button">Formation</a>
-  <a href="#experiences" class="button">Expériences</a>
-  <a href="#contact" class="button">Contact</a>
-</div>
 ---
 
-<div class="card">
 ## <span id="apropos">👋 À PROPOS DE MOI</span>
 
 Je suis **Data Analyst en reconversion**, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
 
 Je transforme la donnée en **outils décisionnels simples, fiables, élégants et utiles**.
-</div>
+
 
 
 ### 🧩 Ce qui me définit
-<div class="card">
 <table class="qualites-table">
   <tr><td>🎯</td><td><strong>Rigueur & amélioration continue</strong></td></tr>
   <tr><td>🔍</td><td><strong>Analyse & structuration</strong></td></tr>
@@ -62,9 +51,9 @@ Je transforme la donnée en **outils décisionnels simples, fiables, élégants 
   <tr><td>🤝</td><td><strong>Collaboration & autonomie</strong></td></tr>
   <tr><td>💪</td><td><strong>Adaptation & Curiosité intellectuelle</strong></td></tr>
 </table>
-</div>
 
-<div class="card">
+
+
 ### 🚀  Ce que j’apporte
 
        ✔ Une vision data claire, concrète et orientée valeur métier  
@@ -74,14 +63,14 @@ Je transforme la donnée en **outils décisionnels simples, fiables, élégants 
        ✔ Une profonde rigueur
 <br>
 <br>
-</div>
 
-<div class="card">
+
+
 ### 🌱  Ce que je recherche
 
 Un environnement où la Data sert l’action : des projets concrets, utiles, qui combinent logique, impact et collaboration.  
 <br>
-</div>
+
 ### 📌 Ligne directrice de mon travail  
 **Comprendre. Analyser. Clarifier.**  
 
@@ -90,10 +79,6 @@ Un environnement où la Data sert l’action : des projets concrets, utiles, qu
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a>
-</div>  
-<br>  
-<br>  
-<div style="text-align: center; margin: 2rem 0;">
   <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
 
@@ -122,12 +107,12 @@ Compétences d'avant
 
 
 
-<a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
-
-
-
-<br>  
-<br>  
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+    📄 Téléchargez mon CV
+  </a>
+</div>
+ 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
@@ -138,15 +123,26 @@ Compétences d'avant
 ## <span id="projets"><strong> 🚀 Projets Data</strong></span>
 
 
-1. [Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)  
+1. 👉 [Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)  
    Analyse exploratoire, visualisations interactives et rapport Word.
 
-2. [Netflix – PowerBI & DAX](https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice)  
+2. 👉 [Netflix – PowerBI & DAX](https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice)  
    Dashboard PowerBI avec mesures DAX avancées et analyses de performance.
 
-3. [Voir tous mes projets LinkedIn](https://www.linkedin.com/in/elodie-heinry-data-analyste/)
+3. 👉 [Voir tous mes projets LinkedIn](https://www.linkedin.com/in/elodie-heinry-data-analyste/)
 
-[... votre contenu ...]
+
+
+1. **Attrition IBM – Tableau & Python**  
+   Analyse exploratoire et visualisations interactives  
+   👉 <a href="https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word" target="_blank">Voir le projet</a>
+
+2. **Netflix – PowerBI & DAX**  
+   Dashboard PowerBI avec mesures avancées  
+   👉 <a href="https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice" target="_blank">Voir le projet</a>
+
+3. **Portfolio LinkedIn**  
+   👉 <a href="https://www.linkedin.com/in/elodie-heinry-data-analyste/" target="_blank">Voir tous mes projets</a>
 
 <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
 
@@ -240,4 +236,5 @@ Compétences d'avant
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
   <br>
+</div>
 </div>
