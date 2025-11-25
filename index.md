@@ -64,12 +64,12 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- menu pour navigation rapide-->
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
-  <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
-  <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Projets</a>
-  <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Formation</a>
-  <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
-  <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
+  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
+  <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
+  <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Projets</a>
+  <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Formation</a>
+  <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
+  <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
   <br>
   <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
@@ -121,11 +121,11 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   <!-- Haut de page -->  
-  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 ___
 ---
@@ -159,12 +159,12 @@ Compétences d'avant
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a>
   <br>
 <!-- Haut de page -->  
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 
@@ -172,14 +172,14 @@ Compétences d'avant
 
 
 <div style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a>
 </div>
 
 <!-- Haut de page -->  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 
@@ -214,7 +214,7 @@ Compétences d'avant
 <br>  
 <br>  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 <!-- Mes formations et certifications -->
@@ -230,7 +230,7 @@ Compétences d'avant
 <br>  
 <!-- Haut de page -->  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 
@@ -266,7 +266,7 @@ Compétences d'avant
 <br>
 <!-- Haut de page -->  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 <!-- Mon contact -->
