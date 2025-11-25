@@ -1,0 +1,12 @@
+title: "Élodie HEINRY | DATA Analyst"
+description: "Nouvelle direction, Même détermination !"
+baseurl: ""
+url: "https://Elo3534.github.io"
+lang: fr
+
+# Thème officiel Cayman
+remote_theme: pages-themes/cayman
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
