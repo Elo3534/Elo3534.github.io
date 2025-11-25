@@ -16,7 +16,7 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- l'accroche -->
 <div style="text-align: center; margin: 3rem 0; line-height: 1.6;">
-  <h2 style="color: #159957;">De la reconversion à la révélation : Mon pari gagnant</h2>
+  <h2 style="color: #159957;">De la Reconversion à la Révélation : Mon Pari Gagnant</h2>
   <p style="font-size: 1.1rem;">
     <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong><br>
   </p>
@@ -25,11 +25,11 @@ description: "Nouvelle direction, Même détermination !"
 <div class="contact-icons" style="text-align:center; margin-top:2rem;">
 
   <!-- Email -->
-<a href="mailto:heinryelodie@hotmail.fr" target="_blank"
-   style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+  <a href="mailto:heinryelodie@hotmail.fr" target="_blank"
+    style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
      title="email">
-  <img src="assets/images/email.png" alt="Email" style="width: 30px; height: 30px;">
-</a>
+    <img src="assets/images/email.png" alt="Email" style="width: 30px; height: 30px;">
+  </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"
@@ -73,52 +73,72 @@ description: "Nouvelle direction, Même détermination !"
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
   <br>
-  <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
+  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </div>
 
 * * *
 
 <!-- À propos -->
 <div style="text-align:center; margin:3rem 0;">
-  <h1><span id="apropos">👋 À PROPOS DE MOI</span></h1>
+  <h1><span id="apropos"><strong>👋 À Propos de moi</strong></span></h1>
 
-  <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation. 
-  Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants et utiles</strong>.<p>
-
-
-
- <h3>🧩  Ce qui me définit</h3>
+  <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation.<br> 
+  Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong><br>
+  <br>
+  Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data : 
+  <ul style="text-align: left; display: inline-block;">
+    <li>ma <strong>persévérance</strong>  et ma <strong>motivation</strong> face aux défis complexes, </li>
+    <li>ma <strong>forte capacité d’adaptation</strong> et <strong>d’apprentissage</strong>,</li>
+    <li>ma <strong>curiosité intellectuelle</strong> toujours en éveil.</li>
+  </ul> 
   <p>
-    <strong>Rigueur 🎯 Amélioration continue</strong>
-    <strong>Analyse 🔍 Structuration</strong>
-    <strong>Ingéniosité 💡 Sens pratique</strong>
-    <strong>Visualisation 📊 Pédagogie</strong>
-    <strong>Collaboration 🤝 Autonomie</strong>
-    <strong>Adaptation 💪 Curiosité intellectuelle</strong>
+
+
+ <h3>🧩 Ce qui me définit</h3>
+  <p>
+    <strong>Rigueur 🎯 Amélioration continue</strong><br> 
+    <strong>Analyse 🔍 Structuration</strong><br> <br> 
+    <strong>Ingéniosité 💡 Sens pratique</strong><br>
+    <strong>Visualisation 📊 Pédagogie</strong><br>
+    <strong>Collaboration 🤝 Autonomie</strong><br>
+    <strong>Adaptation 💪 Curiosité intellectuelle</strong><br> 
   </p>
 
 
- <h3>🚀  Ce que j’apporte</h3>
+ <h3>🚀 Ma valeur ajoutée</h3>
  <p>
-       ✔ Une vision data claire, concrète et orientée valeur métier  
-
-       ✔ Une capacité à rendre les données compréhensibles et actionnables  
-
-       ✔ Une double approche : technique & pédagogique  
-
-       ✔ Des solutions fiables, documentées et faciles à maintenir  
-
+       ✔ Une vision data claire, concrète et orientée valeur métier  <br> 
+       ✔ Une capacité à rendre les données compréhensibles et actionnables  <br> 
+       ✔ Une double approche : technique & pédagogique  <br> 
+       ✔ Des solutions fiables, documentées et faciles à maintenir  <br>
        ✔ Une profonde rigueur
 </p>
+<ul style="text-align: left; display: inline-block;">
+    <li><strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.</li>
+    <li><strong>Traduire des données complexes</strong> en insights clairs et compréhensibles pour une prise de décision éclairée.</li>
+    <li>Allier <strong>expertise technique</strong> (SQL, Python, outils de BI type Power BI) et <strong>pédagogie</strong> pour autonomiser les équipes.</li>
+    <li><strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.</li>
+  </ul>
 
 
+ <h3>🌱 Ce que je recherche</h3>
+ <p>Un environnement où la Data sert l’<strong>ACTION</strong> : des projets concrets, utiles, qui combinent <emp>logique</emp>, <emp>impact</emp> et <emp>collaboration.</emp></p> 
+  <p>Un poste de <strong>Data Analyst</strong> dans un environnement exigeant où la data est au cœur de la stratégie et de la prise de décision. Je souhaite m'investir dans des projets concrets, à fort impact, alliant logique, innovation et travail d'équipe.</p> 
 
- <h3>🌱  Ce que je recherche</h3>
- <p>Un environnement où la Data sert l’action : des projets concrets, utiles, qui combinent logique, impact et collaboration.</p> 
+ <h3>📌 Ma méthodologie</h3>
+<p><strong>Comprendre le besoin </strong><br>
+|<br>
+V<br>
+<strong>Analyser les données</strong><br>
+|<br>
+V<br>
+<strong>Clarifier et transmettre les résultats</strong><br>
+|<br>
+V<br>
+<strong>Proposer des actions</strong>
+</p>
+</div>
 
-
- <h3>📌  Ligne directrice de mon travail</h3>
-<p>Comprendre. Analyser. Clarifier.</p>
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
@@ -128,76 +148,31 @@ description: "Nouvelle direction, Même détermination !"
   <!-- Haut de page -->  
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
-___
----
 
+* * *
 
-
-***
 <!-- Mes compétences -->
 <h1><span id="competences"><strong> 🛠️ Compétences</strong></span></h1>
 <br> 
-
-Compétences techniques
-
-Compétences linguistiques
-
-Compétences relationnelles
-
-Compétences d'avant
-
-**Techniques :** Python, SQL, DAX, HTML, Power BI, Tableau, Looker Studio, Big Query, AWS, Snowflake, Machine Learning  
-**Langues :** Français (natif), Anglais (B2)
-
-**Transversales :**  
-
-- Rigueur & Organisation  
-- Curiosité & Innovation  
-- Collaboration  
-- Mindset Data (Persévérance, Prise d’initiatives, Orientation solutions)
-
 </div>
+
+* * *
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
-  </a>
-  <br>
-<!-- Haut de page -->  
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
+  </a><br>
+  <!-- Haut de page -->  
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 
 
+* * *
 
-
-<div style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
-    📄 Téléchargez mon CV
-  </a>
-</div>
-
-<!-- Haut de page -->  
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</div>
-
-
----
 <!-- Mes projets DATA -->
 <h1><span id="projets"><strong> 🚀 Projets Data</strong></span></h1>
-
-
-1. 👉 [Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)  
-   Analyse exploratoire, visualisations interactives et rapport Word.
-
-2. 👉 [Netflix – PowerBI & DAX](https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice)  
-   Dashboard PowerBI avec mesures DAX avancées et analyses de performance.
-
-3. 👉 [Voir tous mes projets LinkedIn](https://www.linkedin.com/in/elodie-heinry-data-analyste/)
-
-
 
 1. **Attrition IBM – Tableau & Python**  
    Analyse exploratoire et visualisations interactives  
@@ -212,11 +187,17 @@ Compétences d'avant
 
 <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
 
-<br>  
-<br>  
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
+  
+<!-- Mon CV -->
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+    📄 Téléchargez mon CV
+  </a><br>
+  <!-- Haut de page -->  
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
+
+* * *
 
 <!-- Mes formations et certifications -->
 <h1><span id="formation"><strong> 🎓 Formations & Certifications</strong></span></h1>
@@ -226,59 +207,43 @@ Compétences d'avant
 <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
 
 
-
-<br>  
-<br>  
-<!-- Haut de page -->  
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
+<!-- Mon CV -->
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+    📄 Téléchargez mon CV
+  </a><br>
+  <!-- Haut de page -->  
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
 
----
+
+* * *
+
 <!-- Mes expériences professionnelles -->
 <h1><span id="experiences"><strong> 🤝 Expériences Professionnelles</strong></span></h1>
 
-**Agent de Maîtrise – Laboratoires de sciences (2017 – 2024)**
 
-- Référencement produits chimiques, sécurité des laboratoires, gestion du matériel et budget, intégration d’outil informatisé.
-
-**Opératrice de fabrication – Laboratoire pharmaceutique Ipsen (2015 – 2016)**
-
-**Ingénieure d’étude – Cytogénétique, INRA (2010 – 2013)**
-
-- Analyses statistiques, gestion de 3 laboratoires, visualisation des résultats, étude bibliographique en anglais.
-
-**Conductrice de lignes semi-automatisées – Thalès / Oberthur (2002 – 2005)**
-
-**Formations :**
-
-- Formation Data Analysis – 2025
-- Licence Professionnelle – Biologie Analytique et Expérimentale (2010)
-- DUT Génie Biologique – Analyses Biologiques et Biochimiques (2009)
-
-**Certifications :**
-
-- Concepteur développeur en science des données – RNCP niveau 6 (2025, en cours)
-- Hubspot CMR for Marketers (2025)
-- Google Analytics 4 (2025)
-
-<br>  
-<br>
-<!-- Haut de page -->  
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
+<!-- Mon CV -->
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+    📄 Téléchargez mon CV
+  </a><br>
+  <!-- Haut de page -->  
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
+
+* * *
 
 <!-- Mon contact -->
 <h1><span id="contact"><strong> 📫 Contactez-moi</strong></span></h1>
 
+| 📧 | <strong>Email :</strong> |heinryelodie@hotmail.fr|
 |:----|:------------------|:-------|
-| 📧 | **Email :** |heinryelodie@hotmail.fr|
-| 📞 | **Téléphone :** |06 18 70 42 77|
-| 🌐 | **Localisation :** |Montpellier|
-| 💼 | **LinkedIn :** |<a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>|
-| 👨‍💻 | **GitHub :** |<a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>|
+| 📞 | <strong>Téléphone :</strong> |06 18 70 42 77|
+| 🌐 | <strong>Localisation :</strong> |Montpellier|
+| 💼 | <strong>LinkedIn :</strong> |<a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>|
+| 👨‍💻 | <strong>GitHub :</strong> |<a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>|
 
 
 
@@ -287,4 +252,14 @@ Compétences d'avant
 <!-- Haut de page -->
 <div style="text-align: center; margin: 2rem 0;">
   <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+</div>
+
+<!-- menu pour navigation rapide-->
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
+  <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
+  <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Projets</a>
+  <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Formation</a>
+  <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
+  <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
 </div>
