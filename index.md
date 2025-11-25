@@ -3,7 +3,12 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
-
+<!-- Hero Banner -->
+<div class="hero-banner">
+  <h1>Élodie HEINRY</h1>
+  <h2>DATA Analyst</h2>
+  <p>Nouvelle direction, Même détermination !</p>
+</div>
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
