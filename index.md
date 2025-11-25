@@ -5,8 +5,7 @@ description: "Nouvelle direction, Même détermination !"
 ---
 <!-- Inclure Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-papn2c7X9Dxl1Wx6lO3PlE3p/Nz2P+R0yfs6uQ06ZQqg7sH6lG2+Xkjq7k6jvW8vBkYejgMZmOq3j4+Z/pS5Kg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<!-- Ajout Font Awesome -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
 
 <div id="top">
   <!-- ma photo -->
@@ -280,6 +279,10 @@ Compétences d'avant
 | 🌐 | **Localisation :** |Montpellier|
 | 💼 | **LinkedIn :** |<a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>|
 | 👨‍💻 | **GitHub :** |<a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>|
+
+
+<!-- Ajout Font Awesome -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 
 
