@@ -2,14 +2,16 @@
 ---
 
 /* =========================================================
-   1. Charger Font Awesome (indispensable pour les icônes)
+   1. Importer le thème Cayman (styles de base)
+========================================================= */
+@import "{{ site.theme }}";
+
+
+/* =========================================================
+   2. Charger Font Awesome (indispensable pour les icônes)
 ========================================================= */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css");
 
-/* =========================================================
-   2. Importer le thème Cayman (styles de base)
-========================================================= */
-@import "{{ site.theme }}";
 
 /* =========================================================
    3. STYLES PERSONNALISÉS POUR TON PORTFOLIO
