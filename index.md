@@ -76,7 +76,7 @@ description: "Nouvelle direction, Même détermination !"
   <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </div>
 
-* * *
+<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
 
 <!-- À propos -->
 <div style="text-align:center; margin:3rem 0;">
@@ -111,7 +111,7 @@ description: "Nouvelle direction, Même détermination !"
     ✔ <strong>Traduire des données complexes</strong> en insights clairs et compréhensibles pour une prise de décision éclairée.<br>
     ✔ Allier <strong>expertise technique</strong> (SQL, Python, outils de BI type Power BI) et <strong>pédagogie</strong> pour autonomiser les équipes.<br>
     ✔ <strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.<br>
-    ✔ Une profonde rigueur
+    ✔ <strong>Garantir</strong> une profonde rigueur analytique et méthodologique sur l'ensemble des processus.
 </p>
 
 
@@ -130,7 +130,7 @@ description: "Nouvelle direction, Même détermination !"
 <strong>Proposer des actions</strong>
 </p>
 
-</div>
+
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
@@ -143,17 +143,14 @@ description: "Nouvelle direction, Même détermination !"
 
 
 
----
+<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
 
 <!-- Mes compétences -->
 <h1><span id="competences"><strong> 🛠️ Compétences</strong></span></h1>
 <br> 
 
----
----
-* * * 
-___ 
-------------------
+
+<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
 
 
 
