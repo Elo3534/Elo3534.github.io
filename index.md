@@ -3,20 +3,19 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
-<div style="text-align:center;">
-<div style="margin-bottom: 2rem;">
+
+<div style="text-align: center; margin-bottom: 2rem;">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
 
 
 
 
-<div style=margin: 3rem 0; line-height: 1.6;">
+<div style="text-align: center; margin: 3rem 0; line-height: 1.6;">
   <h2 style="color: #159957;">De la reconversion à la révélation : Mon pari gagnant</h2>
   <p style="font-size: 1.1rem;">
     <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong><br>
     <br>
-    <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
   </p>
 </div>
 
@@ -28,18 +27,19 @@ description: "Nouvelle direction, Même détermination !"
   <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
+  <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
   <br>
 </div>
 
 
 ---
-
+<div style="text-align:center;">
 ## <span id="apropos">👋 À PROPOS DE MOI</span>
 
 Je suis **Data Analyst en reconversion**, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
 
 Je transforme la donnée en **outils décisionnels simples, fiables, élégants et utiles**.
-
+</div>
 
 
 ### 🧩 Ce qui me définit
@@ -237,4 +237,20 @@ Compétences d'avant
   <br>
   <br>
 </div>
+
+
+<!-- Bloc des icônes sociales -->
+<div style="text-align:center; margin-top: 3rem;">
+  <a href="https://github.com/Elo3534" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
+    <i class="fab fa-github"></i>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
+    <i class="fab fa-linkedin-in"></i>
+  </a>
 </div>
+
+<!-- Ajout de Font Awesome pour les icônes -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
