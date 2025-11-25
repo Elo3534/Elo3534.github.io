@@ -65,12 +65,12 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- menu pour navigation rapide-->
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
-  <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
-  <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Projets</a>
-  <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Formation</a>
-  <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
-  <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
+  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">À Propos</a>
+  <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">Compétences</a>
+  <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">Projets</a>
+  <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">Formation</a>
+  <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">Expériences</a>
+  <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: black; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
   <br>
   <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
