@@ -3,11 +3,7 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
-<!-- Inclure Font Awesome CSS-->
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIKqdNq+qwT9XW5yYGWZ0dYp1N9dLuccaZK6AjxZr8flA=="
-crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 <i class="fa-solid fa-envelope"></i>
 <div id="top">
@@ -284,8 +280,6 @@ Compétences d'avant
 | 👨‍💻 | **GitHub :** |<a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>|
 
 
-<!-- Ajout Font Awesome -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 
 
