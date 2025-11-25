@@ -3,10 +3,15 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
+<!-- Inclure Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-papn2c7X9Dxl1Wx6lO3PlE3p/Nz2P+R0yfs6uQ06ZQqg7sH6lG2+Xkjq7k6jvW8vBkYejgMZmOq3j4+Z/pS5Kg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<!-- ma photo -->
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+
+<div id="top">
+  <!-- ma photo -->
+  <div style="text-align: center; margin-bottom: 2rem;">
+    <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+  </div>
 </div>
 
 <!-- l'accroche -->
@@ -15,6 +20,46 @@ description: "Nouvelle direction, Même détermination !"
   <p style="font-size: 1.1rem;">
     <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong><br>
   </p>
+</div>
+
+<div class="contact-icons" style="text-align:center; margin-top:2rem;">
+
+  <!-- Email -->
+  <a href="mailto:heinryelodie@hotmail.fr" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="LinkedIn">
+    <i class="fab fa-linkedin-in"></i>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Elo3534" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+
+  <!-- CV -->
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.2rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Télécharger CV">
+    📄
+  </a>
+
+  <!-- Localisation cliquable -->
+  <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1rem; margin:10px; text-align:center; padding:5px; text-decoration:none;" 
+     title="Localisation">
+    🌍
+  </a>
+
 </div>
 
 <!-- menu pour navigation rapide-->
@@ -26,37 +71,42 @@ description: "Nouvelle direction, Même détermination !"
   <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
+  <br>
   <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
 </div>
 
 * * *
-***
+
 <!-- À propos -->
 <div style="text-align:center; margin:3rem 0;">
   <h1><span id="apropos">👋 À PROPOS DE MOI</span></h1>
 
-  <p>Je suis <strong>Data Analyst en reconversion</strong>, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
+  <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation. 
   Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants et utiles</strong>.<p>
 
 
 
  <h3>🧩  Ce qui me définit</h3>
-<table style="margin:0 auto;">
-  <tr><td>🎯</td><td><strong>Rigueur & amélioration continue</strong></td></tr>
-  <tr><td>🔍</td><td><strong>Analyse & structuration</strong></td></tr>
-  <tr><td>💡</td><td><strong>Ingéniosité & sens pratique</strong></td></tr>
-  <tr><td>📊</td><td><strong>Visualisation & pédagogie</strong></td></tr>
-  <tr><td>🤝</td><td><strong>Collaboration & autonomie</strong></td></tr>
-  <tr><td>💪</td><td><strong>Adaptation & Curiosité intellectuelle</strong></td></tr>
-</table>
+  <p>
+    <strong>Rigueur 🎯 Amélioration continue</strong>
+    <strong>Analyse 🔍 Structuration</strong>
+    <strong>Ingéniosité 💡 Sens pratique</strong>
+    <strong>Visualisation 📊 Pédagogie</strong>
+    <strong>Collaboration 🤝 Autonomie</strong>
+    <strong>Adaptation 💪 Curiosité intellectuelle</strong>
+  </p>
 
 
  <h3>🚀  Ce que j’apporte</h3>
  <p>
        ✔ Une vision data claire, concrète et orientée valeur métier  
+
        ✔ Une capacité à rendre les données compréhensibles et actionnables  
+
        ✔ Une double approche : technique & pédagogique  
+
        ✔ Des solutions fiables, documentées et faciles à maintenir  
+
        ✔ Une profonde rigueur
 </p>
 
@@ -67,18 +117,23 @@ description: "Nouvelle direction, Même détermination !"
 
 
  <h3>📌  Ligne directrice de mon travail</h3>
-<p><em>Comprendre. Analyser. Clarifier.</em></p>
+<p>Comprendre. Analyser. Clarifier.</p>
 
-
+<!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
-  </a>
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  </a><br>
+  <!-- Haut de page -->  
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
+___
+---
+
+
 
 ***
-
+<!-- Mes compétences -->
 <h1><span id="competences"><strong> 🛠️ Compétences</strong></span></h1>
 <br> 
 
@@ -102,7 +157,15 @@ Compétences d'avant
 
 </div>
 
-
+<!-- Mon CV -->
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #159957; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+    📄 Téléchargez mon CV
+  </a>
+  <br>
+<!-- Haut de page -->  
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+</div>
 
 
 
@@ -113,15 +176,16 @@ Compétences d'avant
     📄 Téléchargez mon CV
   </a>
 </div>
- 
+
+<!-- Haut de page -->  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
 
 
 ---
-
-## <span id="projets"><strong> 🚀 Projets Data</strong></span>
+<!-- Mes projets DATA -->
+<h1><span id="projets"><strong> 🚀 Projets Data</strong></span></h1>
 
 
 1. 👉 [Attrition IBM – Tableau & Python](https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word)  
@@ -150,10 +214,11 @@ Compétences d'avant
 <br>  
 <br>  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
 
-## <span id="formation"><strong> 🎓 Formations & Certifications</strong></span>
+<!-- Mes formations et certifications -->
+<h1><span id="formation"><strong> 🎓 Formations & Certifications</strong></span></h1>
 
 
 
@@ -163,14 +228,15 @@ Compétences d'avant
 
 <br>  
 <br>  
+<!-- Haut de page -->  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
 
 
 ---
-
-## <span id="experiences"><strong> 🤝 Expériences Professionnelles</strong></span>
+<!-- Mes expériences professionnelles -->
+<h1><span id="experiences"><strong> 🤝 Expériences Professionnelles</strong></span></h1>
 
 **Agent de Maîtrise – Laboratoires de sciences (2017 – 2024)**
 
@@ -197,109 +263,25 @@ Compétences d'avant
 - Google Analytics 4 (2025)
 
 <br>  
-<br>  
+<br>
+<!-- Haut de page -->  
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
 
-## <span id="contact"><strong> 📫 Contact</strong></span>
+<!-- Mon contact -->
+<h1><span id="contact"><strong> 📫 Contactez-moi</strong></span></h1>
 
-|  | 📧 | **Email :** heinryelodie@hotmail.fr
+|:----|:------------------|:-------|
+| 📧 | **Email :** |heinryelodie@hotmail.fr|
+| 📞 | **Téléphone :** |06 18 70 42 77|
+| 🌐 | **Localisation :** |Montpellier|
+| 💼 | **LinkedIn :** |<a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>|
+| 👨‍💻 | **GitHub :** |<a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>|
 
-|  | 📞 | **Téléphone :** 06 18 70 42 77
 
-|  | 🌐 | **Localisation :** Montpellier
 
-|  | 💼 | **LinkedIn :** <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>
-
-|  | 👨‍💻 | **GitHub :** <a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>
-
-<div class="social-icons">
-  <a href="https://github.com/Elo3534" target="_blank"><i class="fab fa-github"></i></a>
-  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"><i class="fab fa-linkedin"></i></a>
-</div>
-
-<!-- Inclure Font Awesome pour les icônes -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
-<a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
-
-<!-- Bloc des icônes sociales -->
-<div style="text-align:center; margin-top: 3rem;">
-  <a href="https://github.com/Elo3534" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
-    <i class="fab fa-github"></i>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
-    <i class="fab fa-linkedin-in"></i>
-  </a>
-</div>
-
-<!-- Ajout de Font Awesome pour les icônes -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
-<br>  
-<br>  
+<!-- Haut de page -->
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
-  <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
-  <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Projets</a>
-  <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Formation</a>
-  <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
-  <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
-  <br>
-  <br>
+  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
-
-
-## <span id="contact"><strong>📫 Contact</strong></span>
-
-<div class="contact-icons" style="text-align:center; margin-top:2rem;">
-
-  <!-- Email -->
-  <a href="mailto:heinryelodie@hotmail.fr" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="Email">
-    <i class="fas fa-envelope"></i>
-  </a>
-
-  <!-- Téléphone -->
-  <a href="tel:0618704277" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="Téléphone">
-    <i class="fas fa-phone"></i>
-  </a>
-
-  <!-- Localisation -->
-  <div style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1rem; margin:10px; text-align:center; padding:5px;" 
-       title="Localisation">
-    🌍<br>Montpellier
-  </div>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="LinkedIn">
-    <i class="fab fa-linkedin-in"></i>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Elo3534" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="GitHub">
-    <i class="fab fa-github"></i>
-  </a>
-
-  <!-- CV -->
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.2rem; margin:10px; text-decoration:none; transition:0.3s;" 
-     title="Télécharger CV">
-    📄
-  </a>
-
-</div>
-
-<!-- Inclure Font Awesome pour les icônes -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
