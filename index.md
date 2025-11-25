@@ -3,12 +3,7 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
-<!-- Hero Banner -->
-<div class="hero-banner">
-  <h1>Élodie HEINRY</h1>
-  <h2>DATA Analyst</h2>
-  <p>Nouvelle direction, Même détermination !</p>
-</div>
+
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
@@ -35,16 +30,30 @@ description: "Nouvelle direction, Même détermination !"
   <br>
   <br>
 </div>
+
+
+<!-- Menu Navigation -->
+<div class="nav-buttons">
+  <a href="#apropos" class="button">À Propos</a>
+  <a href="#competences" class="button">Compétences</a>
+  <a href="#projets" class="button">Projets</a>
+  <a href="#formation" class="button">Formation</a>
+  <a href="#experiences" class="button">Expériences</a>
+  <a href="#contact" class="button">Contact</a>
+</div>
 ---
 
+<div class="card">
 ## <span id="apropos">👋 À PROPOS DE MOI</span>
 
 Je suis **Data Analyst en reconversion**, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
 
 Je transforme la donnée en **outils décisionnels simples, fiables, élégants et utiles**.
+</div>
+
 
 ### 🧩 Ce qui me définit
-
+<div class="card">
 <table class="qualites-table">
   <tr><td>🎯</td><td><strong>Rigueur & amélioration continue</strong></td></tr>
   <tr><td>🔍</td><td><strong>Analyse & structuration</strong></td></tr>
@@ -53,7 +62,9 @@ Je transforme la donnée en **outils décisionnels simples, fiables, élégants 
   <tr><td>🤝</td><td><strong>Collaboration & autonomie</strong></td></tr>
   <tr><td>💪</td><td><strong>Adaptation & Curiosité intellectuelle</strong></td></tr>
 </table>
+</div>
 
+<div class="card">
 ### 🚀  Ce que j’apporte
 
        ✔ Une vision data claire, concrète et orientée valeur métier  
@@ -63,12 +74,14 @@ Je transforme la donnée en **outils décisionnels simples, fiables, élégants 
        ✔ Une profonde rigueur
 <br>
 <br>
- 
+</div>
+
+<div class="card">
 ### 🌱  Ce que je recherche
 
 Un environnement où la Data sert l’action : des projets concrets, utiles, qui combinent logique, impact et collaboration.  
 <br>
-
+</div>
 ### 📌 Ligne directrice de mon travail  
 **Comprendre. Analyser. Clarifier.**  
 
