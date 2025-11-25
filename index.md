@@ -3,10 +3,13 @@ layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
-<!-- Inclure Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-papn2c7X9Dxl1Wx6lO3PlE3p/Nz2P+R0yfs6uQ06ZQqg7sH6lG2+Xkjq7k6jvW8vBkYejgMZmOq3j4+Z/pS5Kg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- Inclure Font Awesome CSS-->
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIKqdNq+qwT9XW5yYGWZ0dYp1N9dLuccaZK6AjxZr8flA=="
+crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
+<i class="fa-solid fa-envelope"></i>
 <div id="top">
   <!-- ma photo -->
   <div style="text-align: center; margin-bottom: 2rem;">
