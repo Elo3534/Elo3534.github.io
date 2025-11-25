@@ -97,7 +97,7 @@ description: "Nouvelle direction, Même détermination !"
  <h3>🧩 Ce qui me définit</h3>
   <p>
     <strong>Rigueur 🎯 Amélioration continue</strong><br> 
-    <strong>Analyse 🔍 Structuration</strong><br> <br> 
+    <strong>Analyse 🔍 Structuration</strong><br>
     <strong>Ingéniosité 💡 Sens pratique</strong><br>
     <strong>Visualisation 📊 Pédagogie</strong><br>
     <strong>Collaboration 🤝 Autonomie</strong><br>
@@ -107,38 +107,30 @@ description: "Nouvelle direction, Même détermination !"
 
  <h3>🚀 Ma valeur ajoutée</h3>
  <p>
-       ✔ Une vision data claire, concrète et orientée valeur métier  <br> 
-       ✔ Une capacité à rendre les données compréhensibles et actionnables  <br> 
-       ✔ Une double approche : technique & pédagogique  <br> 
-       ✔ Des solutions fiables, documentées et faciles à maintenir  <br>
-       ✔ Une profonde rigueur
+    ✔ <strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.<br>
+    ✔ <strong>Traduire des données complexes</strong> en insights clairs et compréhensibles pour une prise de décision éclairée.<br>
+    ✔ Allier <strong>expertise technique</strong> (SQL, Python, outils de BI type Power BI) et <strong>pédagogie</strong> pour autonomiser les équipes.<br>
+    ✔ <strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.<br>
+    ✔ Une profonde rigueur
 </p>
-<ul style="text-align: left; display: inline-block;">
-    <li><strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.</li>
-    <li><strong>Traduire des données complexes</strong> en insights clairs et compréhensibles pour une prise de décision éclairée.</li>
-    <li>Allier <strong>expertise technique</strong> (SQL, Python, outils de BI type Power BI) et <strong>pédagogie</strong> pour autonomiser les équipes.</li>
-    <li><strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.</li>
-  </ul>
+
+
 
 
  <h3>🌱 Ce que je recherche</h3>
- <p>Un environnement où la Data sert l’<strong>ACTION</strong> : des projets concrets, utiles, qui combinent <emp>logique</emp>, <emp>impact</emp> et <emp>collaboration.</emp></p> 
-  <p>Un poste de <strong>Data Analyst</strong> dans un environnement exigeant où la data est au cœur de la stratégie et de la prise de décision. Je souhaite m'investir dans des projets concrets, à fort impact, alliant logique, innovation et travail d'équipe.</p> 
+  <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision. Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p> 
 
  <h3>📌 Ma méthodologie</h3>
 <p><strong>Comprendre le besoin </strong><br>
-|<br>
-V<br>
+<strong>↓</strong><br>
 <strong>Analyser les données</strong><br>
-|<br>
-V<br>
+<strong>↓</strong><br>
 <strong>Clarifier et transmettre les résultats</strong><br>
-|<br>
-V<br>
+<strong>↓</strong><br>
 <strong>Proposer des actions</strong>
 </p>
-</div>
 
+</div>
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
@@ -149,14 +141,23 @@ V<br>
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </div>
 
-* * *
+
+
+---
 
 <!-- Mes compétences -->
 <h1><span id="competences"><strong> 🛠️ Compétences</strong></span></h1>
 <br> 
-</div>
 
-* * *
+---
+---
+* * * 
+___ 
+------------------
+
+
+
+
 
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
@@ -171,8 +172,8 @@ V<br>
 
 * * *
 
-<!-- Mes projets DATA -->
-<h1><span id="projets"><strong> 🚀 Projets Data</strong></span></h1>
+  <!-- Mes projets DATA -->
+  <h1><span id="projets"><strong> 🚀 Projets Data</strong></span></h1>
 
 1. **Attrition IBM – Tableau & Python**  
    Analyse exploratoire et visualisations interactives  
@@ -186,7 +187,6 @@ V<br>
    👉 <a href="https://www.linkedin.com/in/elodie-heinry-data-analyste/" target="_blank">Voir tous mes projets</a>
 
 <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
-
   
 <!-- Mon CV -->
 <div style="text-align: center; margin: 1rem 0;">
