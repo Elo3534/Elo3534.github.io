@@ -5,7 +5,8 @@ description: "Nouvelle direction, Même détermination !"
 ---
 <!-- Inclure Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-papn2c7X9Dxl1Wx6lO3PlE3p/Nz2P+R0yfs6uQ06ZQqg7sH6lG2+Xkjq7k6jvW8vBkYejgMZmOq3j4+Z/pS5Kg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+<!-- Ajout Font Awesome -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 <div id="top">
   <!-- ma photo -->
@@ -25,42 +26,43 @@ description: "Nouvelle direction, Même détermination !"
 <div class="contact-icons" style="text-align:center; margin-top:2rem;">
 
   <!-- Email -->
-  <a href="mailto:heinryelodie@hotmail.fr" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+  <a href="mailto:heinryelodie@hotmail.fr" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Email">
     <i class="fas fa-envelope"></i>
   </a>
 
-
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
      title="LinkedIn">
     <i class="fab fa-linkedin-in"></i>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Elo3534" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+  <a href="https://github.com/Elo3534" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
      title="GitHub">
     <i class="fab fa-github"></i>
   </a>
 
   <!-- CV -->
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5em; margin:10px; text-decoration:none; transition:0.3s;" 
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Télécharger CV">
-    📄
+    <i class="fas fa-file-alt"></i>
   </a>
 
-  <!-- Localisation cliquable -->
-  <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+  <!-- Localisation -->
+  <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.6rem; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Localisation">
-    🌍
+    <i class="fas fa-map-marker-alt"></i>
   </a>
 
 </div>
+
+
 
 <!-- menu pour navigation rapide-->
 <div style="text-align: center; margin: 2rem 0;">
