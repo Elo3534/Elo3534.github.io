@@ -6,12 +6,3 @@
 ========================= */
 @import "{{ site.theme }}";
 
-/* Centrage global du texte */
-body, .wrapper {
-  text-align: center;
-}
-
-/* Centrage des listes si nécessaire */
-ul, ol {
-  text-align: center;
-}
