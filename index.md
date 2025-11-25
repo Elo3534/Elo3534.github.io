@@ -4,21 +4,20 @@ title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
 
+<!-- ma photo -->
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 </div>
 
-
-
-
+<!-- l'accroche -->
 <div style="text-align: center; margin: 3rem 0; line-height: 1.6;">
   <h2 style="color: #159957;">De la reconversion à la révélation : Mon pari gagnant</h2>
   <p style="font-size: 1.1rem;">
     <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong><br>
-    <br>
   </p>
 </div>
 
+<!-- menu pour navigation rapide-->
 <div style="text-align: center; margin: 2rem 0;">
   <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
   <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
@@ -28,20 +27,21 @@ description: "Nouvelle direction, Même détermination !"
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #159957; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
   <strong>Disponible pour un CDI/CDD sur Montpellier et sa région</strong>
-  <br>
 </div>
 
-
----
-<div style="text-align:center;">
+* * *
+***
+<!-- À propos -->
+<div style="text-align:center; margin:3rem 0;">
   <h1><span id="apropos">👋 À PROPOS DE MOI</span></h1>
-  <a>Je suis **Data Analyst en reconversion**, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
-Je transforme la donnée en **outils décisionnels simples, fiables, élégants et utiles**.</a>
-</div>
+
+  <p>Je suis <strong>Data Analyst en reconversion</strong>, avec un parcours scientifique et une forte capacité à apprendre vite, structurer et clarifier. 
+  Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants et utiles</strong>.<p>
 
 
-### 🧩 Ce qui me définit
-<table class="qualites-table">
+
+ <h3>🧩  Ce qui me définit</h3>
+<table style="margin:0 auto;">
   <tr><td>🎯</td><td><strong>Rigueur & amélioration continue</strong></td></tr>
   <tr><td>🔍</td><td><strong>Analyse & structuration</strong></td></tr>
   <tr><td>💡</td><td><strong>Ingéniosité & sens pratique</strong></td></tr>
@@ -51,26 +51,23 @@ Je transforme la donnée en **outils décisionnels simples, fiables, élégants 
 </table>
 
 
-
-### 🚀  Ce que j’apporte
-
+ <h3>🚀  Ce que j’apporte</h3>
+ <p>
        ✔ Une vision data claire, concrète et orientée valeur métier  
        ✔ Une capacité à rendre les données compréhensibles et actionnables  
        ✔ Une double approche : technique & pédagogique  
        ✔ Des solutions fiables, documentées et faciles à maintenir  
        ✔ Une profonde rigueur
-<br>
-<br>
+</p>
 
 
 
-### 🌱  Ce que je recherche
+ <h3>🌱  Ce que je recherche</h3>
+ <p>Un environnement où la Data sert l’action : des projets concrets, utiles, qui combinent logique, impact et collaboration.</p> 
 
-Un environnement où la Data sert l’action : des projets concrets, utiles, qui combinent logique, impact et collaboration.  
-<br>
 
-### 📌 Ligne directrice de mon travail  
-**Comprendre. Analyser. Clarifier.**  
+ <h3>📌  Ligne directrice de mon travail</h3>
+<p><em>Comprendre. Analyser. Clarifier.</em></p>
 
 
 <div style="text-align: center; margin: 1rem 0;">
@@ -80,9 +77,9 @@ Un environnement où la Data sert l’action : des projets concrets, utiles, qu
   <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
 </div>
 
----
+***
 
-## <span id="competences"><strong> 🛠️ Compétences</strong></span>
+<h1><span id="competences"><strong> 🛠️ Compétences</strong></span></h1>
 <br> 
 
 Compétences techniques
@@ -102,6 +99,12 @@ Compétences d'avant
 - Curiosité & Innovation  
 - Collaboration  
 - Mindset Data (Persévérance, Prise d’initiatives, Orientation solutions)
+
+</div>
+
+
+
+
 
 
 
@@ -221,7 +224,21 @@ Compétences d'avant
 
 <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
 
+<!-- Bloc des icônes sociales -->
+<div style="text-align:center; margin-top: 3rem;">
+  <a href="https://github.com/Elo3534" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
+    <i class="fab fa-github"></i>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
+    <i class="fab fa-linkedin-in"></i>
+  </a>
+</div>
 
+<!-- Ajout de Font Awesome pour les icônes -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
 <br>  
 <br>  
@@ -237,18 +254,52 @@ Compétences d'avant
 </div>
 
 
-<!-- Bloc des icônes sociales -->
-<div style="text-align:center; margin-top: 3rem;">
-  <a href="https://github.com/Elo3534" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
-    <i class="fab fa-github"></i>
+## <span id="contact"><strong>📫 Contact</strong></span>
+
+<div class="contact-icons" style="text-align:center; margin-top:2rem;">
+
+  <!-- Email -->
+  <a href="mailto:heinryelodie@hotmail.fr" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Email">
+    <i class="fas fa-envelope"></i>
   </a>
-  
+
+  <!-- Téléphone -->
+  <a href="tel:0618704277" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Téléphone">
+    <i class="fas fa-phone"></i>
+  </a>
+
+  <!-- Localisation -->
+  <div style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1rem; margin:10px; text-align:center; padding:5px;" 
+       title="Localisation">
+    🌍<br>Montpellier
+  </div>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#159957; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;">
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="LinkedIn">
     <i class="fab fa-linkedin-in"></i>
   </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Elo3534" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+
+  <!-- CV -->
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.2rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Télécharger CV">
+    📄
+  </a>
+
 </div>
 
-<!-- Ajout de Font Awesome pour les icônes -->
+<!-- Inclure Font Awesome pour les icônes -->
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
