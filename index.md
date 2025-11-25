@@ -48,14 +48,14 @@ description: "Nouvelle direction, Même détermination !"
 
   <!-- CV -->
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.2rem; margin:10px; text-decoration:none; transition:0.3s;" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5em; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Télécharger CV">
     📄
   </a>
 
   <!-- Localisation cliquable -->
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" 
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1rem; margin:10px; text-align:center; padding:5px; text-decoration:none;" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; color:white; font-size:1.5rem; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Localisation">
     🌍
   </a>
