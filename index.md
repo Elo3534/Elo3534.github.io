@@ -81,13 +81,11 @@ description: "Nouvelle direction, Même détermination !"
   <article style="text-align: center;">
     <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation.<br> 
     Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong></p>
-    
-    <p>Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p>
-    
+    <p>Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p><br>
     <ul style="text-align: left; display: inline-block;">
       <li>ma <strong>persévérance</strong> et ma <strong>motivation</strong> face aux défis complexes,</li>
       <li>ma <strong>forte capacité d'adaptation</strong> et <strong>d'apprentissage</strong>,</li>
-      <li>ma <strong>curiosité intellectuelle</strong> toujours en éveil.</li>
+      <li>ma <strong>curiosité intellectuelle</strong> toujours en éveil.</li><br>
     </ul>
   </article>
 
@@ -99,7 +97,7 @@ description: "Nouvelle direction, Même détermination !"
       <tbody>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Rigueur</strong>
+            <strong>     Rigueur</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             🎯
@@ -110,7 +108,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Analyse</strong>
+            <strong>     Analyse</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             🔍
@@ -121,7 +119,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Ingéniosité</strong>
+            <strong>     Ingéniosité</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             💡
@@ -132,7 +130,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Visualisation</strong>
+            <strong>     Visualisation</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             📊
@@ -143,7 +141,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Collaboration</strong>
+            <strong>     Collaboration</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             🤝
@@ -154,7 +152,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Adaptation</strong>
+            <strong>     Adaptation</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             💪
@@ -166,7 +164,7 @@ description: "Nouvelle direction, Même détermination !"
       </tbody>
     </table>
   </div>
-</article>
+</article><br>
 
   <article style="text-align: center;">
     <h3>🚀 Ma valeur ajoutée</h3>
@@ -177,12 +175,12 @@ description: "Nouvelle direction, Même détermination !"
       ✔ <strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.<br>
       ✔ <strong>Garantir</strong> une profonde rigueur analytique et méthodologique sur l'ensemble des processus.
     </p>
-  </article>
+  </article><br>
 
   <article style="text-align: center;">
     <h3>🌱 Ce que je recherche</h3>
     <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision. Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p>
-  </article>
+  </article><br>
 
   <article style="text-align: center;">
     <h3>📌 Ma méthodologie</h3>
