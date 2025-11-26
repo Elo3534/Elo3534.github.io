@@ -94,11 +94,11 @@ description: "Nouvelle direction, Même détermination !"
     </ul>
   </article>
 
-  <article>
+  <article style="text-align: center;">
     <h3>🧩 Ce qui me définit</h3>
     
     <div style="width: 100%; text-align: center;">
-      <table style="border-collapse: collapse; border: none; margin: 0 auto;">
+      <table style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
         <tbody>
           <tr>
             <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
