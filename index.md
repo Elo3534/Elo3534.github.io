@@ -72,6 +72,9 @@ description: "Nouvelle direction, Même détermination !"
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
+
+
+
 <!-- À propos -->
 <section id="apropos" style="margin:3rem 0;">
   <header style="text-align: center;">
@@ -89,10 +92,10 @@ description: "Nouvelle direction, Même détermination !"
     </ul>
   </article>
 
-  <article style="text-align: center; margin-left: 40px;">
+  <article style="text-align: center;">
   <h3>🧩 Ce qui me définit</h3>
   
-  <div style="display: inline-block; text-align: center;">
+  <div style="display: inline-block; text-align: center; margin-left: 40px;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tbody>
         <tr>
@@ -196,168 +199,266 @@ description: "Nouvelle direction, Même détermination !"
   </article>
 </section>
 
-<!-- Actions -->
+<!-- CV et haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer>
+</footer><br>
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
+
+
+
+
+
+
 <!-- Mes compétences -->
-<section id="competences" style="text-align: center;">
-  <h1><strong>🛠️ Compétences</strong></h1>
-</section>
+<section id="competences" style="margin:3rem 0;">
+  <header style="text-align: center;">
+    <h1><strong> 🛠️ Compétences</strong></h1>
+  </header>
 
 
-<!-- Mon CV -->
-<div style="text-align: center; margin: 1rem 0;">
+
+
+
+<!-- CV et haut de page -->
+<footer style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
-  <!-- Haut de page -->  
+  
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</div>
+</footer><br>
+
+<!-- Séparation -->
+<hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
 
 
 
 
-<!--séparation-->
-<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
 
   <!-- Mes projets DATA -->
-  <h1><span id="projets"><strong> 🚀 Projets Data</strong></span></h1>
-<div style="display: flex; flex-direction: column; gap: 2rem; margin: 2rem 0;">
-
+<section id="projets" style="margin:3rem 0;">
+  <header style="text-align: center;">
+    <h1><strong> 🚀 Projets Data</strong></h1>
+  </header>  
 
 
   <!-- Projet 1 Netflix-->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🎬 Netflix – Analyse stratégique → → PowerBI & DAX - ONLYOFFICE</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🎬 Netflix – Analyse stratégique → → PowerBI & DAX – ONLYOFFICE</h3>
         <p style="margin: 0.5rem 0; color: #555;">
-          <strong>Dashboard interactif Power BI</strong> Power BI avec mesures DAX avancées via Power Querypour analyser la stratégie de contenu de Netflix.
+          <strong>Dashboard interactif Power BI</strong> Power BI avec mesures DAX avancées via Power Query pour analyser la stratégie de contenu de Netflix.
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
-        <strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.
-      </p>
-        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0;">
-          <span style="background: #f13232; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Power BI</span>
-          <span style="background: #f13232; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">DAX</span>
-          <span style="background: #f13232; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Power Query</span>
-          <span style="background: #f13232; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Data Modeling</span>
-          <span style="background: #f13232; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Dashboard</span>
-          <span style="background: #f13232; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Visualisation</span>
-      </div>
-      <a href="https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice" target="_blank" 
-         style="background: #2c3e50; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap;">
-        Voir le projet →
-      </a>
-    </div>
-  </div>
-
-
-
-  <!-- Projet 3 IBM-->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa;">
-    <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
-      <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">📊 Attrition IBM – Analyse prédictive → → Tableau & Python - Microsoft Power Point et Word</h3>
-        <p style="margin: 0.5rem 0; color: #555;">
-          <strong>Identification des drivers d'attrition</strong> chez IBM grâce au feature engineering, 
-        à l'analyse exploratoire (EDA) et à la modélisation prédictive (Machine Learning).
-      </p>
-      <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
-        <strong>Objectif métier :</strong> Déterminer les facteurs-clés influençant le turnover et fournir 
-        des insights actionnables pour anticiper la rétention des talents.
-        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0;">
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Machine Learning</span>
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Feature Engineering</span>
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse Prédictive</span>
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">EDA</span>
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Tableau</span>
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
-          <span style="background: #37ccf2; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
+          <strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.
+        </p><br>
+        <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Power BI</span>
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">DAX</span>
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Power Query</span>
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Data Modeling</span>
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Dashboard</span>
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Visualisation</span>
+        </div><br>
+        <!-- Bouton centré -->
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice" target="_blank" 
+             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+            Voir le projet sur GitHub
+          </a>
         </div>
       </div>
-      <a href="https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word" target="_blank" 
-         style="background: #2c3e50; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap;">
-        Voir le projet →
-      </a>
     </div>
   </div>
+
+  <!-- Projet 2 Aircraft-->
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+      <div style="flex: 1;">
+        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">🚀 Aircraft – ..... → → ......................</h3>
+        <p style="margin: 0.5rem 0; color: #555;">
+          <strong>................................
+        </p>
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+          <strong>Objectif métier :</strong> ..................
+        </p><br>
+        <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
+          <span style="background: #4b75ffdb; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">.....</span>
+          <span style="background: #4b75ffdb; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">.....</span>
+          <span style="background: #4b75ffdb; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">.....</span>
+          <span style="background: #4b75ffdb; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">......</span>
+        </div><br>        
+        <!-- Bouton centré -->
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="https://github.com/Elo3534/...................." target="_blank" 
+             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+            Voir le projet sur GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  
+
+  <!-- Projet 3 Tinder-->
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+      <div style="flex: 1;">
+        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🔴 Tinder – Analyse inférentielle → → Python .............................</h3>
+        <p style="margin: 0.5rem 0; color: #555;">
+          <strong>................................
+        </p>
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+          <strong>Objectif métier :</strong> ..................
+        </p><br>
+        <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
+          <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
+          <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
+          <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse descriptive</span>
+          <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse inférentielle</span>
+        </div><br>        
+        <!-- Bouton centré -->
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="https://github.com/Elo3534/TINDER_python" target="_blank" 
+             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+            Voir le projet sur GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  
+
+  <!-- Projet 4 IBM-->
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+      <div style="flex: 1;">
+        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">📊 Attrition IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</h3>
+        <p style="margin: 0.5rem 0; color: #555;">
+          <strong>Identification des drivers d'attrition</strong> chez IBM grâce au feature engineering, 
+          à l'analyse exploratoire (EDA) et à la modélisation prédictive (Machine Learning).
+        </p>
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+          <strong>Objectif métier :</strong> Déterminer les facteurs-clés influençant le turnover et fournir 
+          des insights actionnables pour anticiper la rétention des talents.
+        </p><br>
+        <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Machine Learning</span>
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Feature Engineering</span>
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse Prédictive</span>
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">EDA</span>
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Tableau</span>
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
+          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
+        </div><br>        
+        <!-- Bouton centré -->
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word" target="_blank" 
+             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+            Voir le projet sur GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   
   
 
 
 
 
-<!-- Mon CV -->
-<div style="text-align: center; margin: 1rem 0;">
+<!-- CV et haut de page -->
+<footer style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
-  <!-- Haut de page -->  
+  
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</div>
+</footer><br>
+
+<!-- Séparation -->
+<hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
 
 
 
-<!--séparation-->
-<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
+
 
 <!-- Mes formations et certifications -->
-<h1><span id="formation"><strong> 🎓 Formations & Certifications</strong></span></h1>
+<section id="formation" style="margin:3rem 0;">
+  <header style="text-align: center;">
+    <h1><strong> 🎓 Formations & Certifications</strong></h1>
+  </header>
 
 
 
-<a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"> 📄 Téléchargez mon CV</a>
 
-
-<!-- Mon CV -->
-<div style="text-align: center; margin: 1rem 0;">
+<!-- CV et haut de page -->
+<footer style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
-  <!-- Haut de page -->  
+  
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</div>
+</footer><br>
+
+<!-- Séparation -->
+<hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
 
 
 
 
-<!--séparation-->
-<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
+
 
 <!-- Mes expériences professionnelles -->
-<h1><span id="experiences"><strong> 🤝 Expériences Professionnelles</strong></span></h1>
+<section id="experiences" style="margin:3rem 0;">
+  <header style="text-align: center;">
+    <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
+  </header>
 
 
-<!-- Mon CV -->
-<div style="text-align: center; margin: 1rem 0;">
+
+
+<!-- CV et haut de page -->
+<footer style="text-align: center; margin: 1rem 0;">
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
-  <!-- Haut de page -->  
+  
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</div>
+</footer><br>
 
-<!--séparation-->
-<div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
+<!-- Séparation -->
+<hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
+
 
 
 
 
 <!-- Mon contact -->
-<h1><span id="contact"><strong> 📫 Contactez-moi</strong></span></h1>
+<section id="contact" style="margin:3rem 0;">
+  <header style="text-align: center;">
+    <h1><strong> 📫 Contactez-moi</strong></h1>
+  </header>
+
 
 | 📧 | <strong>Email :</strong> |heinryelodie@hotmail.fr|
 |:----|:------------------|:-------|
@@ -385,17 +486,58 @@ description: "Nouvelle direction, Même détermination !"
 
 
 
-<!-- Haut de page -->
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="#top" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #f5f5f5; color: #159957; text-decoration: none; border-radius: 5px; border: 1px solid #159957;">↑ Haut de page</a>
-</div>
+<!-- haut de page -->
+<footer style="text-align: center; margin: 1rem 0;">
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
+</footer><br><br>
 
-<!-- menu pour navigation rapide-->
-<div style="text-align: center; margin: 2rem 0;">
+<!-- Navigation rapide -->
+<nav style="text-align: center; margin: 2rem 0;" aria-label="Navigation principale">
   <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
   <a href="#competences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Compétences</a>
   <a href="#projets" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Projets</a>
   <a href="#formation" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Formation</a>
   <a href="#experiences" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Expériences</a>
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
-</div>
+</nav>
+
+
+<!-- Icônes de contact -->
+<nav style="text-align:center; margin-top:2rem;">
+  <!-- Email -->
+  <a href="mailto:heinryelodie@hotmail.fr" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Email">
+    <img src="assets/images/email.png" alt="Email" style="width: 30px; height: 30px;">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Mon LinkedIn">
+    <img src="assets/images/in.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Elo3534" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Mon GitHub">
+    <img src="assets/images/github.png" alt="GitHub" style="width: 30px; height: 30px;">
+  </a>
+
+  <!-- CV -->
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Mon CV">
+    <img src="assets/images/cv.png" alt="CV" style="width: 30px; height: 30px;">
+  </a>
+
+  <!-- Localisation -->
+  <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank"
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Ma localisation">
+    <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
+  </a>
+</nav>
+
+
