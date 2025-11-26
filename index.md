@@ -4,7 +4,6 @@ title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
 
-
 <!-- En-tête avec photo -->
 <header style="text-align: center; margin-bottom: 2rem;">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" 
@@ -57,8 +56,6 @@ description: "Nouvelle direction, Même détermination !"
   </a>
 </nav>
 
-
-
 <!-- Navigation rapide -->
 <nav style="text-align: center; margin: 2rem 0;" aria-label="Navigation principale">
   <a href="#apropos" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">À Propos</a>
@@ -76,12 +73,12 @@ description: "Nouvelle direction, Même détermination !"
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
 <!-- À propos -->
-<section id="apropos" style="text-align:center; margin:3rem 0;">
-  <header>
+<section id="apropos" style="margin:3rem 0;">
+  <header style="text-align: center;">
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article>
+  <article style="text-align: center;">
     <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation.<br> 
     Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong></p>
     
@@ -98,7 +95,7 @@ description: "Nouvelle direction, Même détermination !"
     <h3>🧩 Ce qui me définit</h3>
     
     <div style="display: flex; justify-content: center; width: 100%;">
-      <table style="border-collapse: collapse; border: none; margin: 0 auto;">
+      <table style="border-collapse: collapse; border: none;">
         <tbody>
           <tr>
             <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
@@ -171,7 +168,7 @@ description: "Nouvelle direction, Même détermination !"
     </div>
   </article>
 
-  <article>
+  <article style="text-align: center;">
     <h3>🚀 Ma valeur ajoutée</h3>
     <p>
       ✔ <strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.<br>
@@ -182,12 +179,12 @@ description: "Nouvelle direction, Même détermination !"
     </p>
   </article>
 
-  <article>
+  <article style="text-align: center;">
     <h3>🌱 Ce que je recherche</h3>
     <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision. Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p>
   </article>
 
-  <article>
+  <article style="text-align: center;">
     <h3>📌 Ma méthodologie</h3>
     <p>
       <strong>Comprendre le besoin</strong><br>
@@ -207,19 +204,16 @@ description: "Nouvelle direction, Même détermination !"
     📄 Téléchargez mon CV
   </a><br>
   
-  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9x;">↑ Haut de page</a>
+  <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
 </footer>
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
 
-
-
-
-
 <!-- Mes compétences -->
-<h1><span id="competences"><strong> 🛠️ Compétences</strong></span></h1>
-<br> 
+<section id="competences" style="text-align: center;">
+  <h1><strong>🛠️ Compétences</strong></h1>
+</section>
 
 
 <!-- Mon CV -->
