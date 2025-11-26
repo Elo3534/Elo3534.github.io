@@ -5,59 +5,57 @@ description: "Nouvelle direction, Même détermination !"
 ---
 
 
-<div id="top">
-  <!-- ma photo -->
-  <div style="text-align: center; margin-bottom: 2rem;">
-    <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-  </div>
-</div>
+<!-- En-tête avec photo -->
+<header style="text-align: center; margin-bottom: 2rem;">
+  <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" 
+       style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+</header>
 
-<!-- l'accroche -->
-<div style="text-align: center; margin: 3rem 0; line-height: 1.6;">
+<!-- Accroche -->
+<section style="text-align: center; margin: 3rem 0; line-height: 1.6;">
   <h2 style="color: #159957;">De la Reconversion à la Révélation : Mon Pari Gagnant</h2>
   <p style="font-size: 1.1rem;">
-    <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong><br>
+    <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong>
   </p>
-</div>
+</section>
 
-<div class="contact-icons" style="text-align:center; margin-top:2rem;">
-
+<!-- Icônes de contact -->
+<nav style="text-align:center; margin-top:2rem;">
   <!-- Email -->
   <a href="mailto:heinryelodie@hotmail.fr" target="_blank"
-    style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
-     title="email">
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Email">
     <img src="assets/images/email.png" alt="Email" style="width: 30px; height: 30px;">
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
-     title="Mon linkedIn">
-   <img src="assets/images/in.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
+     title="Mon LinkedIn">
+    <img src="assets/images/in.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/Elo3534" target="_blank"
-    style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Mon GitHub">
-   <img src="assets/images/github.png" alt="GitHub" style="width: 30px; height: 30px;">
+    <img src="assets/images/github.png" alt="GitHub" style="width: 30px; height: 30px;">
   </a>
 
   <!-- CV -->
   <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank"
-    style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Mon CV">
-   <img src="assets/images/cv.png" alt="CV" style="width: 30px; height: 30px;">
+    <img src="assets/images/cv.png" alt="CV" style="width: 30px; height: 30px;">
   </a>
 
   <!-- Localisation -->
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank"
-     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none;transition:0.3s;" 
+     style="display:inline-flex; justify-content:center; align-items:center; width:60px; height:60px; border-radius:50%; background:#1abc9c; margin:10px; text-decoration:none; transition:0.3s;" 
      title="Ma localisation">
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
-
-</div>
+</nav>
 
 
 
