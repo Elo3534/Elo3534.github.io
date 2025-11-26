@@ -89,7 +89,7 @@ description: "Nouvelle direction, Même détermination !"
     </ul>
   </article>
 
-  <article style="text-align: center;">
+  <article style="text-align: center; margin-left: 40px;">
   <h3>🧩 Ce qui me définit</h3>
   
   <div style="display: inline-block; text-align: center;">
