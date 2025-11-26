@@ -105,7 +105,9 @@ description: "Nouvelle direction, Même détermination !"
     <strong>Adaptation 💪 Curiosité intellectuelle</strong><br> 
   </p>
 
-  <div style="display: flex; justify-content: center;  width: 100%;">
+
+<div style="width: 100%; text-align: center;">
+  <table style="border-collapse: collapse; border: none; display: inline-table;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tr>
         <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
@@ -173,8 +175,8 @@ description: "Nouvelle direction, Même détermination !"
           <strong>Curiosité intellectuelle</strong>
         </td>
       </tr>
-    </table>
-  </div>
+  </table>
+</div>
 
 
 
