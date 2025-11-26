@@ -104,39 +104,76 @@ description: "Nouvelle direction, Même détermination !"
     <strong>Collaboration 🤝 Autonomie</strong><br>
     <strong>Adaptation 💪 Curiosité intellectuelle</strong><br> 
   </p>
-<div style="display: flex; flex-direction: column; align-items: center; gap: 0.8rem;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; white-space: nowrap;">
-    <strong style="text-align: right; min-width: 100px;">Rigueur</strong>
-    <span style="font-size: 1.3em; min-width: 40px;">🎯</span>
-    <strong style="text-align: left; min-width: 140px;">Amélioration continue</strong>
-  </div>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; white-space: nowrap;">
-    <strong style="text-align: right; min-width: 100px;">Analyse</strong>
-    <span style="font-size: 1.3em; min-width: 40px;">🔍</span>
-    <strong style="text-align: left; min-width: 140px;">Structuration</strong>
-  </div>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; white-space: nowrap;">
-    <strong style="text-align: right; min-width: 100px;">Ingéniosité</strong>
-    <span style="font-size: 1.3em; min-width: 40px;">💡</span>
-    <strong style="text-align: left; min-width: 140px;">Sens pratique</strong>
-  </div>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; white-space: nowrap;">
-    <strong style="text-align: right; min-width: 100px;">Visualisation</strong>
-    <span style="font-size: 1.3em; min-width: 40px;">📊</span>
-    <strong style="text-align: left; min-width: 140px;">Pédagogie</strong>
-  </div>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; white-space: nowrap;">
-    <strong style="text-align: right; min-width: 100px;">Collaboration</strong>
-    <span style="font-size: 1.3em; min-width: 40px;">🤝</span>
-    <strong style="text-align: left; min-width: 140px;">Autonomie</strong>
-  </div>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; white-space: nowrap;">
-    <strong style="text-align: right; min-width: 100px;">Adaptation</strong>
-    <span style="font-size: 1.3em; min-width: 40px;">💪</span>
-    <strong style="text-align: left; min-width: 140px;">Curiosité intellectuelle</strong>
-  </div>
+<div style="display: flex; justify-content: center;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Rigueur</strong>
+      </td>
+      <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+        🎯
+      </td>
+      <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Amélioration continue</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Analyse</strong>
+      </td>
+      <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+        🔍
+      </td>
+      <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Structuration</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Ingéniosité</strong>
+      </td>
+      <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+        💡
+      </td>
+      <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Sens pratique</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Visualisation</strong>
+      </td>
+      <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+        📊
+      </td>
+      <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Pédagogie</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Collaboration</strong>
+      </td>
+      <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+        🤝
+      </td>
+      <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Autonomie</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Adaptation</strong>
+      </td>
+      <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+        💪
+      </td>
+      <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+        <strong>Curiosité intellectuelle</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
  <h3>🚀 Ma valeur ajoutée</h3>
  <p>
     ✔ <strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.<br>
