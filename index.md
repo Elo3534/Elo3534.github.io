@@ -243,7 +243,6 @@ description: "Nouvelle direction, Même détermination !"
         <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🎬 Netflix – Analyse stratégique → → PowerBI & DAX - ONLYOFFICE</h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>Dashboard interactif Power BI</strong> Power BI avec mesures DAX avancées via Power Querypour analyser la stratégie de contenu de Netflix.
-
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
         <strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.
