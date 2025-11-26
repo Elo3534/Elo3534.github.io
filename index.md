@@ -105,77 +105,76 @@ description: "Nouvelle direction, Même détermination !"
     <strong>Adaptation 💪 Curiosité intellectuelle</strong><br> 
   </p>
 
-    <div style="display: flex; justify-content: center;">
-      <table style="border-collapse: collapse; border: none;">
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Rigueur</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            🎯
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Amélioration continue</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Analyse</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            🔍
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Structuration</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Ingéniosité</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            💡
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Sens pratique</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Visualisation</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            📊
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Pédagogie</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Collaboration</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            🤝
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Autonomie</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Adaptation</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            💪
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Curiosité intellectuelle</strong>
-          </td>
-        </tr>
-      </table>
-    </div>
-
+  <div style="display: flex; justify-content: center;">
+    <table style="border-collapse: collapse; border: none; margin: 0 auto;">
+      <tr>
+        <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Rigueur</strong>
+        </td>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+          🎯
+        </td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Amélioration continue</strong>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Analyse</strong>
+        </td>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+          🔍
+        </td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Structuration</strong>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Ingéniosité</strong>
+        </td>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+          💡
+        </td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Sens pratique</strong>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Visualisation</strong>
+        </td>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+          📊
+        </td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Pédagogie</strong>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Collaboration</strong>
+        </td>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+          🤝
+        </td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Autonomie</strong>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Adaptation</strong>
+        </td>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+          💪
+        </td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <strong>Curiosité intellectuelle</strong>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 
 
