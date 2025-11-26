@@ -104,7 +104,38 @@ description: "Nouvelle direction, Même détermination !"
     <strong>Collaboration 🤝 Autonomie</strong><br>
     <strong>Adaptation 💪 Curiosité intellectuelle</strong><br> 
   </p>
-
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0.8rem;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <strong style="text-align: right; width: 100px;">Rigueur</strong>
+    <span style="font-size: 1.3em; min-width: 40px;">🎯</span>
+    <strong style="text-align: left; width: 140px;">Amélioration continue</strong>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <strong style="text-align: right; width: 100px;">Analyse</strong>
+    <span style="font-size: 1.3em; min-width: 40px;">🔍</span>
+    <strong style="text-align: left; width: 140px;">Structuration</strong>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <strong style="text-align: right; width: 100px;">Ingéniosité</strong>
+    <span style="font-size: 1.3em; min-width: 40px;">💡</span>
+    <strong style="text-align: left; width: 140px;">Sens pratique</strong>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <strong style="text-align: right; width: 100px;">Visualisation</strong>
+    <span style="font-size: 1.3em; min-width: 40px;">📊</span>
+    <strong style="text-align: left; width: 140px;">Pédagogie</strong>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <strong style="text-align: right; width: 100px;">Collaboration</strong>
+    <span style="font-size: 1.3em; min-width: 40px;">🤝</span>
+    <strong style="text-align: left; width: 140px;">Autonomie</strong>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <strong style="text-align: right; width: 100px;">Adaptation</strong>
+    <span style="font-size: 1.3em; min-width: 40px;">💪</span>
+    <strong style="text-align: left; width: 140px;">Curiosité intellectuelle</strong>
+  </div>
+</div>
 
  <h3>🚀 Ma valeur ajoutée</h3>
  <p>
