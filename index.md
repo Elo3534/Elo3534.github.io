@@ -6,7 +6,6 @@ description: "Nouvelle direction, Même détermination !"
 
 
 
-<i class="fa-solid fa-envelope"></i>
 <div id="top">
   <!-- ma photo -->
   <div style="text-align: center; margin-bottom: 2rem;">
