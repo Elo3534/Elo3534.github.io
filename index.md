@@ -71,7 +71,7 @@ description: "Nouvelle direction, Même détermination !"
   <a href="#contact" style="display: inline-block; padding: 6px 14px; margin: 5px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px;">Contact</a>
   <br>
   <br>
-  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
+  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong><br>
 </div>
 
 
