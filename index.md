@@ -271,7 +271,7 @@ description: "Nouvelle direction, Même détermination !"
           Création d'un <strong>dashboard interactif Power BI</strong> avec mesures <strong>DAX</strong> avancées via <strong>Power Query</strong> pour analyser la stratégie de contenu de Netflix.
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
-          <strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.
+          <em><strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -305,7 +305,7 @@ description: "Nouvelle direction, Même détermination !"
           <strong>................................</strong>
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
-          <strong>Objectif métier :</strong> ..................
+          <em><strong>Objectif métier :</strong> ..................</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -339,7 +339,7 @@ description: "Nouvelle direction, Même détermination !"
           <strong>................................</strong>
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
-          <strong>Objectif métier :</strong> ..................
+          <em><strong>Objectif métier :</strong> ..................</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -374,8 +374,8 @@ description: "Nouvelle direction, Même détermination !"
           à l'analyse exploratoire (<strong>EDA</strong>) et à la modélisation prédictive (<strong>Machine Learning</strong>).
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
-          <strong>Objectif métier :</strong> Déterminer les facteurs-clés influençant le turnover et fournir 
-          des insights actionnables pour anticiper la rétention des talents.
+          <em><strong>Objectif métier :</strong> Déterminer les facteurs-clés influençant le turnover et fournir 
+          des insights actionnables pour anticiper la rétention des talents.</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -433,7 +433,7 @@ description: "Nouvelle direction, Même détermination !"
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">   
     <!-- Parcours DATA -->
     <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
-      <h3 style="color: #3498db; margin-bottom: 1rem;"><strong>📈 Parcours DATA</strong></h3>    
+      <h3 style="color: #3498db; text-align: center;"><strong>📈 Parcours DATA</strong></h3>    
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
         <h4 style="color: #1abc9c; margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h4>
         <p>Montpellier — 2025</p>
@@ -453,19 +453,19 @@ description: "Nouvelle direction, Même détermination !"
     </div>
     <!-- Parcours scientifique -->
     <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
-      <h3 style="color: #3498db; margin-bottom: 1rem;"><strong>🔬 Parcours Scientifique</strong></h3>    
+      <h3 style="color: #3498db; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h3>    
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
-        <h4 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</h4>
+        <h4 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</strong></h4>
         <p>Angers — 2010</p>
       </div>   
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
-        <h4 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</h4>
+        <h4 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</strong></h4>
         <p>Clermont-Ferrand — 2009</p>
       </div>
     </div>
     <!-- Reprise d'étude -->
     <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
-      <h3 style="color: #9b59b6; margin-bottom: 1rem;"><strong>💪 Démarche Reprise d'étude</strong></h3>     
+      <h3 style="color: #9b59b6; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h3>     
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
         <p style="color: #555; line-height: 1.6; margin-bottom: 1rem;">
           <strong>Licence Biologie Première Année</strong><br>
@@ -478,7 +478,7 @@ description: "Nouvelle direction, Même détermination !"
         </p>
       </div>      
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-top: 1rem;">
-        <h4 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 DAEU B</h4>
+        <h4 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B</strong></h4>
         <p style="color: #555; margin: 0;">Diplôme d'Accès aux Études Universitaires</p>
         <p>Rennes — 2006</p>
       </div>
@@ -535,10 +535,9 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- Mon contact -->
 <section id="contact" style="margin:3rem 0;">
-  <header style="text-align: center;">
+  <header style="text-align: left; padding: 100px;">
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
-<section>
   <div style="text-align: center;">
     <p>📧 <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a></p>
     <div style="height: 0.3rem;"></div>
@@ -560,8 +559,8 @@ description: "Nouvelle direction, Même détermination !"
 <!-- Moi, en plus -->
   <header style="text-align: center;">
     <h1><strong>👁️ Vous vouliez en savoir plus ?</strong></h1>
-  </header>
-  <div style="height: 0.3rem;"></div>
+  </header><br>
+  
   <article style="text-align: center;">
    <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
     <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect...
@@ -580,8 +579,8 @@ description: "Nouvelle direction, Même détermination !"
     <br><br>
     En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
   </p>
-  </article>
-<div style="height: 0.3rem;"></div>
+  </article><br>
+
 
 <!-- haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
@@ -636,5 +635,8 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
+
+
+
 
 
