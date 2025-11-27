@@ -477,7 +477,7 @@ description: "Nouvelle direction, Même détermination !"
   </header>
 
   <div style="text-align: center;">
-    <table style="border-collapse: collapse; border: none; margin: 0 auto;">
+    <table style="border-collapse: collapse; border: none; margin: 35px;">
       <tbody>
         <tr>
           <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
