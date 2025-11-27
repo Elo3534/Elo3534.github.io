@@ -265,10 +265,10 @@ description: "Nouvelle direction, Même détermination !"
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
           <img src="assets/images/netflix.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-          <strong>🎬 Netflix – Analyse stratégique → → PowerBI & DAX – ONLYOFFICE</strong>
+          <strong>🎬 Netflix – Analyse stratégique → → POWER BI & DAX – ONLYOFFICE</strong>
         </h3>
         <p style="margin: 0.5rem 0; color: #555;">
-          <strong>Dashboard interactif Power BI</strong> Power BI avec mesures DAX avancées via Power Query pour analyser la stratégie de contenu de Netflix.
+          Création d'un <strong>dashboard interactif Power BI</strong> avec mesures <strong>DAX</strong> avancées via <strong>Power Query</strong> pour analyser la stratégie de contenu de Netflix.
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
           <strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.
@@ -364,8 +364,8 @@ description: "Nouvelle direction, Même détermination !"
           <strong>Attrition IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
         </h3>
         <p style="margin: 0.5rem 0; color: #555;">
-          <strong>Identification des drivers d'attrition</strong> chez IBM grâce au feature engineering, 
-          à l'analyse exploratoire (EDA) et à la modélisation prédictive (Machine Learning).
+          <strong>Identification des drivers d'attrition</strong> chez IBM grâce au <strong>feature engineering</strong>, 
+          à l'analyse exploratoire (<strong>EDA</strong>) et à la modélisation prédictive (<strong>Machine Learning</strong>).
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
           <strong>Objectif métier :</strong> Déterminer les facteurs-clés influençant le turnover et fournir 
@@ -422,6 +422,59 @@ description: "Nouvelle direction, Même détermination !"
   </header>
 
 
+  <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">   
+    <!-- Parcours DATA -->
+    <div style="border-left: 4px solid #1abc9c; padding-left: 1.5rem; margin-bottom: 2.5rem;">
+      <h3 style="color: #3498db; margin-bottom: 1rem;">📈 Parcours DATA</h3>    
+      <h4 style="color: #1abc9c; margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h4>
+      <p>Montpellier — 2025</p>
+      <ul style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
+        <li>Analyse exploratoire, descriptive et inférentielle de données</li>
+        <li>Direction de projets de gestion de données</li>
+      </ul>
+      <p>Titre professionnel de niveau bac +4 enregistré au RNCP, 
+      Formation en Bootcamp : FULLSTACK DATA ANALYSIS chez Jedha Academy 
+      </p>
+      <h4>🏅 Certifications Editeurs</h4>
+      <ul style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
+        <li>Google Analytics 4 (GA4) — 2025</li>
+        <li>Hubspot CMR for Marketers — 2025</li>
+      </ul>
+    </div>
+    <!-- Parcours scientifique -->
+    <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
+      <h3 style="color: #3498db; margin-bottom: 1rem;">🔬 Parcours Scientifique</h3>    
+      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+        <h4 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</h4>
+        <p>Angers — 2010</p>
+      </div>   
+      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+        <h4 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</h4>
+        <p>Clermont-Ferrand — 2009</p>
+      </div>
+    </div>
+    <!-- Reprise d'étude -->
+    <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
+      <h3 style="color: #9b59b6; margin-bottom: 1rem;">💪 Démarche Reprise d'étude</h3>     
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+        <p style="color: #555; line-height: 1.6; margin-bottom: 1rem;">
+          <strong>Licence Biologie Première Année</strong><br>
+          <p>Rennes — 2007</p>
+          <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante, cela m'a également permis de remettre mes bases à niveau."</em>
+        </p>
+        <p style="color: #666; font-size: 0.9rem;">
+          ✅ Année validée - Admissible en L2<br>
+          📝 Cette année de faculté ne donnait pas lieu à l'obtention d'un diplôme
+        </p>
+      </div>      
+      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-top: 1rem;">
+        <h4 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 DAEU B</h4>
+        <p style="color: #555; margin: 0;">Diplôme d'Accès aux Études Universitaires</p>
+        <p>Rennes — 2006</p>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 <!-- CV et haut de page -->
@@ -477,7 +530,7 @@ description: "Nouvelle direction, Même détermination !"
   </header>
 
   <div style="text-align: center;">
-    <table style="border-collapse: collapse; border: none; margin: 35px;">
+    <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tbody>
         <tr>
           <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
@@ -537,15 +590,17 @@ description: "Nouvelle direction, Même détermination !"
 
   <article style="text-align: center;">
    <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
-    <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect.
+    <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect...
     <br><br>
     <strong>🌿🐾 L'Émerveillée</strong> - La nature est ma source d'inspiration préférée ! Je m'extasie devant un documentaire animalier et j'adore observer les animaux. Spoiler : ils sont meilleurs acteurs que nous.
     <br><br>
     <strong>✈️🧳 L'Aventurière</strong> - Mon passeport a plus de tampons que mon carnet de notes. Mon sens de l'orientation ? 'Aller là où mon œil est attiré'. Prochaine destination : là où il y a de l'eau et des sourires à partager.
     <br><br>
-    <strong>💦💧 La Sirène</strong> - Si on me cherche, checkez les plans d'eau. Mon élément de prédilection où je puise énergie et sérénité, que ce soit en nageant, en pratiquant une activité nautique ou simplement en contemplant.
+    <strong>💦💧 La Sirène</strong> - Si on me cherche, checkez les plans d'eau. C'est mon élément de prédilection, là où je puise énergie et sérénité, que ce soit en nageant, en pratiquant une activité nautique ou simplement en le contemplant.
     <br><br>
     <strong>💬🤝 La Social Butterfly</strong> - Une bonne conversation, des fous rires, des débats passionnés... c'est mon carburant social préféré.
+    <br><br>
+    <strong>📚 La Curieuse Littéraire</strong> - Entre deux datasets, mon esprit analytique s'évade dans les enquêtes policières, se nourrit de journalisme d'investigation et s'émeut devant la vérité humaine des romans intimistes.
     <br><br>
     <strong>🔧🔨 La Bricoleuse Philosophe</strong> - Mes mains aiment créer pendant que mon cerveau déconstruit les problèmes. Et parfois, les deux s'emmêlent ! 75% de réussite en bricolage, 100% en détermination !
     <br><br>
@@ -607,3 +662,5 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
+
+
