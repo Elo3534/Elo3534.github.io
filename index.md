@@ -477,7 +477,6 @@ description: "Nouvelle direction, Même détermination !"
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-top: 1rem;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
         <p>Rennes — 2006</p>
-      </div>
     </div>
   </div>
 </section>
