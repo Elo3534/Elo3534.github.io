@@ -267,10 +267,10 @@ description: "Nouvelle direction, Même détermination !"
           <img src="assets/images/netflix.png" alt="IBM" style="height: 25px; vertical-align: middle; margin-right: 8px;">
           <strong>NETFLIX – Analyse stratégique → → POWER BI & DAX – ONLYOFFICE</strong>
         </h3><br>
-        <p style="margin: 0.5rem 0; color: #555;">
+        <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           Création d'un <strong>dashboard interactif Power BI</strong> avec mesures <strong>DAX</strong> avancées via <strong>Power Query</strong> pour analyser la stratégie de contenu de Netflix.
         </p>
-        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
           <em><strong>Objectif métier :</strong> Décrypter la stratégie du géant du streaming pour créer l'engagement addictif de ses abonnés.</em>
         </p>
         <div style="height: 0.3rem;"></div>
@@ -301,10 +301,10 @@ description: "Nouvelle direction, Même détermination !"
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;"><strong>✈️  AIRCRAFT – ..... → → ......................</strong></h3><br>
-        <p style="margin: 0.5rem 0; color: #555;">
+        <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
-        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
           <em><strong>Objectif métier :</strong> ..................</em>
         </p>
         <div style="height: 0.3rem;"></div>
@@ -335,10 +335,10 @@ description: "Nouvelle direction, Même détermination !"
           <img src="assets/images/tinder.png" alt="IBM" style="height: 25px; vertical-align: middle; margin-right: 8px;">
           <strong>TINDER – Analyse inférentielle → → Python .............................</strong>
         </h3><br>
-        <p style="margin: 0.5rem 0; color: #555;">
+        <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
-        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
           <em><strong>Objectif métier :</strong> ..................</em>
         </p>
         <div style="height: 0.3rem;"></div>
@@ -369,11 +369,11 @@ description: "Nouvelle direction, Même détermination !"
           <img src="assets/images/ibm.png" alt="IBM" style="height: 25px; vertical-align: middle; margin-right: 8px;">
           <strong>ATTRITION CHEZ IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
         </h3><br>
-        <p style="margin: 0.5rem 0; color: #555;">
+        <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au <strong>feature engineering</strong>, 
           à l'analyse exploratoire (<strong>EDA</strong>) et à la modélisation prédictive (<strong>Machine Learning</strong>).
         </p>
-        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
+        <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
           <em><strong>Objectif métier :</strong> Déterminer les facteurs-clés influençant le turnover et fournir 
           des insights actionnables pour anticiper la rétention des talents.</em>
         </p>
@@ -437,20 +437,18 @@ description: "Nouvelle direction, Même détermination !"
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
         <h3 style="color: #1abc9c; margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3>
         <p>Montpellier — 2025</p>
-        <ul style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
-          <li>Analyse exploratoire, descriptive et inférentielle de données.</li>
-          <li>Direction de projets de gestion de données.</li>
-        </ul>
+        <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
+          Analyse exploratoire, descriptive et inférentielle de données.<br>
+          Direction de projets de gestion de données.</p><br>
         <p>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
         Formation en Bootcamp : FULLSTACK DATA ANALYSIS chez Jedha Academy 
         </p>
         </div>
       <h3><strong>🏅 Certifications Editeurs</strong></h3>
-      <ul style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
-        <li>Google Analytics 4 (GA4) — 2025</li>
-        <li>Hubspot CMR for Marketers — 2025</li>
-      </ul>
-    </div>
+      <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
+        Google Analytics 4 (GA4) — 2025<br>
+        Hubspot CMR for Marketers — 2025</p>
+    </div><br>
     <!-- Parcours scientifique -->
     <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498db; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>    
@@ -462,13 +460,13 @@ description: "Nouvelle direction, Même détermination !"
         <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</strong></h3>
         <p>Clermont-Ferrand — 2009</p>
       </div>
-    </div>
+    </div><br>
     <!-- Reprise d'étude -->
     <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
       <h2 style="color: #9b59b6; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>     
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
         <p style="color: #555; line-height: 1.6; margin-bottom: 1rem;">
-          <strong>Licence Biologie Première Année</strong><br>
+          <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;"><strong>Licence Biologie Première Année</strong><h3><br>
           <p>Rennes — 2007</p>
           <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante, cela m'a également permis de remettre mes bases à niveau."</em>
         </p>
@@ -534,7 +532,7 @@ description: "Nouvelle direction, Même détermination !"
   <header style="text-align: center;">
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header><br>
-  <div style="text-align: left; margin: 100px">
+  <div style="text-align: left; margin: 300px">
     <p>📧 <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a></p>
     <div style="height: 0.3rem;"></div>
     <p>📞 06 18 70 42 77</p>
