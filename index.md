@@ -230,7 +230,7 @@ description: "Nouvelle direction, Même détermination !"
   <header style="text-align: center;">
     <h1><strong> 🛠️ Compétences</strong></h1>
   </header>
-
+</section>
 
 
 
@@ -427,7 +427,7 @@ description: "Nouvelle direction, Même détermination !"
 <section id="formation" style="margin:3rem 0;">
   <header style="text-align: center;">
     <h1><strong> 🎓 Formations & Certifications</strong></h1>
-  </header><br>
+  </header><br><br>
 
 
   <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 0 1rem;">   
@@ -466,19 +466,18 @@ description: "Nouvelle direction, Même détermination !"
       <h2 style="color: #9b59b6; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>     
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
         <p style="color: #555; line-height: 1.6; margin-bottom: 1rem;">
-          <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;"><strong>Licence Biologie Première Année</strong><h3><br>
-          <p>Rennes — 2007</p>
-          <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante, cela m'a également permis de remettre mes bases à niveau."</em>
-        </p>
+          <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;"><strong>Licence Biologie Première Année</strong><h3></p>
+          <p style="color: #2c3e50;">Rennes — 2007
+          <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante, cela m'a également permis de remettre mes bases à niveau."</em></p>
         <p style="color: #666; font-size: 0.9rem; text-align: center;">
           ✅ Année validée - Admissible en L2  —  📝 Cette année de faculté ne donnait pas lieu à l'obtention d'un diplôme
         </p>
       </div>      
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-top: 1rem;">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
-        <p>Rennes — 2006</p>
+        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
+        <p style="color: #2c3e50;">>Rennes — 2006</p>
       </div>
-    </div>
+    </div>fffffffffffffffffff
   </div>
 </section>
 
@@ -507,7 +506,7 @@ description: "Nouvelle direction, Même détermination !"
   <header style="text-align: center;">
     <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
   </header>
-
+</section>
 
 
 
@@ -558,7 +557,7 @@ description: "Nouvelle direction, Même détermination !"
   </header><br>
   
   <article style="text-align: center;">
-   <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
+    <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
     <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect...
     <br><br>
     <strong>🌿🐾 L'Émerveillée</strong> - La nature est ma source d'inspiration préférée ! Je m'extasie devant un documentaire animalier et j'adore observer les animaux. Spoiler : ils sont meilleurs acteurs que nous.
@@ -574,7 +573,7 @@ description: "Nouvelle direction, Même détermination !"
     <strong>🔧🔨 La Bricoleuse Philosophe</strong> - Mes mains aiment créer pendant que mon cerveau déconstruit les problèmes. Et parfois, les deux s'emmêlent ! 75% de réussite en bricolage, 100% en détermination !
     <br><br>
     En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
-  </p>
+    </p>
   </article><br>
 
 
@@ -631,8 +630,3 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
-
-
-
-
-
