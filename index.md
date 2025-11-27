@@ -83,8 +83,8 @@ description: "Nouvelle direction, Même détermination !"
 
   <article style="text-align: center;">
     <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation.<br> 
-    Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong></p>
-    <p>Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p><br>
+    Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong><br>
+    Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p><br>
     <ul style="text-align: left; display: inline-block;">
       <li>ma <strong>persévérance</strong> et ma <strong>motivation</strong> face aux défis complexes,</li>
       <li>ma <strong>forte capacité d'adaptation</strong> et <strong>d'apprentissage</strong>,</li>
@@ -100,18 +100,18 @@ description: "Nouvelle direction, Même détermination !"
       <tbody>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>     Rigueur</strong>
+            <strong>Rigueur</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             🎯
           </td>
           <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Amélioration continue</strong>
+            <strong>Amélioration</strong>
           </td>
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>     Analyse</strong>
+            <strong>Analyse</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             🔍
@@ -122,7 +122,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>     Ingéniosité</strong>
+            <strong>Ingéniosité</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             💡
@@ -133,7 +133,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>     Visualisation</strong>
+            <strong>Visualisation</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             📊
@@ -144,7 +144,7 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>     Collaboration</strong>
+            <strong>Collaboration</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             🤝
@@ -155,13 +155,13 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>     Adaptation</strong>
+            <strong>Adaptation</strong>
           </td>
           <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
             💪
           </td>
           <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Curiosité intellectuelle</strong>
+            <strong>Curiosité</strong>
           </td>
         </tr>
       </tbody>
@@ -201,7 +201,7 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- CV et haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 6px 14px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   
@@ -229,7 +229,7 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- CV et haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 6px 14px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   
@@ -255,7 +255,9 @@ description: "Nouvelle direction, Même détermination !"
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🎬 Netflix – Analyse stratégique → → PowerBI & DAX – ONLYOFFICE</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
+         <img src="assets/images/netflix.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+         🎬 Netflix – Analyse stratégique → → PowerBI & DAX – ONLYOFFICE</h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>Dashboard interactif Power BI</strong> Power BI avec mesures DAX avancées via Power Query pour analyser la stratégie de contenu de Netflix.
         </p>
@@ -274,7 +276,7 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice" target="_blank" 
-             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
             Voir le projet sur GitHub
           </a>
         </div>
@@ -286,7 +288,7 @@ description: "Nouvelle direction, Même détermination !"
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">🚀 Aircraft – ..... → → ......................</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">✈️ Aircraft – ..... → → ......................</h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>................................
         </p>
@@ -303,21 +305,23 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/...................." target="_blank" 
-             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
             Voir le projet sur GitHub
           </a>
         </div>
       </div>
     </div>
   </div>
-</section>
+
   
 
   <!-- Projet 3 Tinder-->
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🔴 Tinder – Analyse inférentielle → → Python .............................</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
+        <img src="assets/images/tinder.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+        🔥❤️‍🔥💘 Tinder – Analyse inférentielle → → Python .............................</h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>................................
         </p>
@@ -334,21 +338,23 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/TINDER_python" target="_blank" 
-             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
             Voir le projet sur GitHub
           </a>
         </div>
       </div>
     </div>
   </div>
-</section>
+
   
 
   <!-- Projet 4 IBM-->
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #2c3e50;">📊 Attrition IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
+        <img src="assets/images/ibm.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+        Attrition IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au feature engineering, 
           à l'analyse exploratoire (EDA) et à la modélisation prédictive (Machine Learning).
@@ -359,18 +365,18 @@ description: "Nouvelle direction, Même détermination !"
         </p><br>
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Machine Learning</span>
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Feature Engineering</span>
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse Prédictive</span>
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">EDA</span>
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Tableau</span>
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
-          <span style="background: #20ddefff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Machine Learning</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Feature Engineering</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse Prédictive</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">EDA</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Tableau</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
         </div><br>        
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word" target="_blank" 
-             style="background: #1abc9c; color: white; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
             Voir le projet sur GitHub
           </a>
         </div>
@@ -386,7 +392,7 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- CV et haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 6px 14px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   
@@ -412,7 +418,7 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- CV et haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 6px 14px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   
@@ -439,7 +445,7 @@ description: "Nouvelle direction, Même détermination !"
 
 <!-- CV et haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
+  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" style="display: inline-block; padding: 6px 14px; background: #1abc9c; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">
     📄 Téléchargez mon CV
   </a><br>
   
@@ -459,31 +465,96 @@ description: "Nouvelle direction, Même détermination !"
     <h1><strong> 📫 Contactez-moi</strong></h1>
   </header>
 
-
-| 📧 | <strong>Email :</strong> |heinryelodie@hotmail.fr|
-|:----|:------------------|:-------|
-| 📞 | <strong>Téléphone :</strong> |06 18 70 42 77|
-| 🌐 | <strong>Localisation :</strong> |Montpellier|
-| 💼 | <strong>LinkedIn :</strong> |<a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>|
-| 👨‍💻 | <strong>GitHub :</strong> |<a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>|
-
-
-
+  <div style="display: inline-block; text-align: center; margin-left: 40px;">
+    <table style="border-collapse: collapse; border: none; margin: 0 auto;">
+      <tbody>
+        <tr>
+          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            📧
+          </td>
+          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+            Email :
+          </td>
+          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            heinryelodie@hotmail.fr
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            📞
+          </td>
+          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+            Téléphone :
+          </td>
+          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            06 18 70 42 77
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            🌐
+          </td>
+          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+            Localisation :
+          </td>
+          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            Montpellier
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            💼
+          </td>
+          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+            LinkedIn : 
+          </td>
+          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            👨‍💻
+          </td>
+          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
+            GitHub :
+          </td>
+          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+            <a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
 
 
 <!--séparation-->
 <div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
-<!-- Moi, en plus -->
-<h1><strong> 👁️ Vous vouliez en savoir plus ?</strong></span></h1>
-   <p>Je suis fan de jeux et d'énigmes.<br> 
-    Je reste subjugée devant la nature et le comportement animal. <br>
-    J'aime autant voyager pour découvrir de nouvelles cultures que pour m'amuser et en prendre plein les yeux. <br>
-    Amoureuse des étendues d'eau, j'adore toutes les activités nautiques. <br>
-    Je me nourris d'intéractions sociales, que ce soit pour passer un bon moment, rire, aider ou apporter mon soutien, 
-    ou bien tout simplement réfléchir à des sujets divers.<br>
-    J'aime aussi le bricolage, la lecture (avec une nette préférence 
-    pour le journalisme d'investigation romancé), les casse-têtes et accorder du temps à la réflexion. </p>
 
+
+<!-- Moi, en plus -->
+  <header style="text-align: center;">
+    <h1><strong>👁️ Vous vouliez en savoir plus ?</strong></h1>
+  </header>
+
+  <article style="text-align: center;">
+   <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto;">
+    <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect.
+    <br><br>
+    <strong>🌿🐾 L'Émerveillée</strong> - La nature est ma source d'inspiration préférée ! Je m'extasie devant un documentaire animalier et j'adore observer les animaux. Spoiler : ils sont meilleurs acteurs que nous.
+    <br><br>
+    <strong>✈️🧳 L'Aventurière</strong> - Mon passeport a plus de tampons que mon carnet de notes. Mon sens de l'orientation ? 'Aller là où mon œil est attiré'. Prochaine destination : là où il y a de l'eau et des sourires à partager.
+    <br><br>
+    <strong>💦💧 La Sirène</strong> - Si on me cherche, checkez les plans d'eau. Mon élément de prédilection où je puise énergie et sérénité, que ce soit en nageant, en pratiquant une activité nautique ou simplement en contemplant.
+    <br><br>
+    <strong>💬🤝 La Social Butterfly</strong> - Une bonne conversation, des fous rires, des débats passionnés... c'est mon carburant social préféré.
+    <br><br>
+    <strong>🔧🔨 La Bricoleuse Philosophe</strong> - Mes mains aiment créer pendant que mon cerveau déconstruit les problèmes. Et parfois, les deux s'emmêlent ! 75% de réussite en bricolage, 100% en détermination !
+    <br><br>
+    En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
+  </p>
+  </article>
 
 
 <!-- haut de page -->
