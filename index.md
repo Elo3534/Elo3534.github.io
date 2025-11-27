@@ -94,7 +94,7 @@ description: "Nouvelle direction, Même détermination !"
   </article><br><br>
 
   <article style="text-align: center;">
-  <h3>🧩 Ce qui me définit</h3>
+  <h2>🧩 Ce qui me définit</h2>
   
   <div style="display: inline-block; text-align: center; margin-left: 30px;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
