@@ -84,7 +84,8 @@ description: "Nouvelle direction, Même détermination !"
   <article style="text-align: center;">
     <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation.<br> 
     Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong><br>
-    Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p><br>
+    Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p>
+    <div style="height: 0.3rem;"></div>
     <ul style="text-align: left; display: inline-block;">
       <li>ma <strong>persévérance</strong> et ma <strong>motivation</strong> face aux défis complexes,</li>
       <li>ma <strong>forte capacité d'adaptation</strong> et <strong>d'apprentissage</strong>,</li>
@@ -95,7 +96,7 @@ description: "Nouvelle direction, Même détermination !"
   <article style="text-align: center;">
   <h3>🧩 Ce qui me définit</h3>
   
-  <div style="display: inline-block; text-align: center; margin-left: 40px;">
+  <div style="display: inline-block; text-align: center; margin-left: 35px;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tbody>
         <tr>
@@ -173,16 +174,22 @@ description: "Nouvelle direction, Même détermination !"
     <h3>🚀 Ma valeur ajoutée</h3>
     <p>
       ✔ <strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.<br>
+          <div style="height: 0.1rem;"></div>
       ✔ <strong>Traduire des données complexes</strong> en insights clairs et compréhensibles pour une prise de décision éclairée.<br>
+          <div style="height: 0.1rem;"></div>
       ✔ Allier <strong>expertise technique</strong> (SQL, Python, outils de BI type Power BI) et <strong>pédagogie</strong> pour autonomiser les équipes.<br>
+          <div style="height: 0.1rem;"></div>
       ✔ <strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.<br>
+          <div style="height: 0.1rem;"></div>
       ✔ <strong>Garantir</strong> une profonde rigueur analytique et méthodologique sur l'ensemble des processus.
     </p>
   </article><br>
 
   <article style="text-align: center;">
     <h3>🌱 Ce que je recherche</h3>
-    <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision. Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p>
+    <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision.<br>
+        <div style="height: 0.1rem;"></div>
+      Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p>
   </article><br>
 
   <article style="text-align: center;">
@@ -244,20 +251,20 @@ description: "Nouvelle direction, Même détermination !"
 
 
 
-  <!-- Mes projets DATA -->
+<!-- Mes projets DATA -->
 <section id="projets" style="margin:3rem 0;">
   <header style="text-align: center;">
-    <h1><strong> 🚀 Projets Data</strong></h1>
-  </header>  
-
+    <h1><strong>🚀 Mes Projets Data</strong></h1>
+  </header>
 
   <!-- Projet 1 Netflix-->
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
-         <img src="assets/images/netflix.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-         🎬 Netflix – Analyse stratégique → → PowerBI & DAX – ONLYOFFICE</h3>
+          <img src="assets/images/netflix.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+          <strong>🎬 Netflix – Analyse stratégique → → PowerBI & DAX – ONLYOFFICE</strong>
+        </h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>Dashboard interactif Power BI</strong> Power BI avec mesures DAX avancées via Power Query pour analyser la stratégie de contenu de Netflix.
         </p>
@@ -272,6 +279,7 @@ description: "Nouvelle direction, Même détermination !"
           <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Data Modeling</span>
           <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Dashboard</span>
           <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Visualisation</span>
+          <span style="background: #e50914; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire EDA</span>
         </div><br>
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
@@ -282,15 +290,15 @@ description: "Nouvelle direction, Même détermination !"
         </div>
       </div>
     </div>
-  </div>
+  </div> <!-- Fin Projet 1 -->
 
   <!-- Projet 2 Aircraft-->
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">✈️ Aircraft – ..... → → ......................</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;"><strong>✈️ Aircraft – ..... → → ......................</strong></h3>
         <p style="margin: 0.5rem 0; color: #555;">
-          <strong>................................
+          <strong>................................</strong>
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
           <strong>Objectif métier :</strong> ..................
@@ -311,19 +319,18 @@ description: "Nouvelle direction, Même détermination !"
         </div>
       </div>
     </div>
-  </div>
-
-  
+  </div> <!-- Fin Projet 2 -->
 
   <!-- Projet 3 Tinder-->
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
-        <img src="assets/images/tinder.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-        🔥❤️‍🔥💘 Tinder – Analyse inférentielle → → Python .............................</h3>
+          <img src="assets/images/tinder.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+          <strong>🔥❤️‍🔥💘 Tinder – Analyse inférentielle → → Python .............................</strong>
+        </h3>
         <p style="margin: 0.5rem 0; color: #555;">
-          <strong>................................
+          <strong>................................</strong>
         </p>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5;">
           <strong>Objectif métier :</strong> ..................
@@ -331,7 +338,7 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
           <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
-          <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
+          <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire EDA</span>
           <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse descriptive</span>
           <span style="background: #FF4B91; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse inférentielle</span>
         </div><br>        
@@ -344,17 +351,16 @@ description: "Nouvelle direction, Même détermination !"
         </div>
       </div>
     </div>
-  </div>
-
-  
+  </div> <!-- Fin Projet 3 -->
 
   <!-- Projet 4 IBM-->
   <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
-        <img src="assets/images/ibm.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-        Attrition IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</h3>
+          <img src="assets/images/ibm.png" alt="IBM" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+          <strong>Attrition IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
+        </h3>
         <p style="margin: 0.5rem 0; color: #555;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au feature engineering, 
           à l'analyse exploratoire (EDA) et à la modélisation prédictive (Machine Learning).
@@ -368,10 +374,9 @@ description: "Nouvelle direction, Même détermination !"
           <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Machine Learning</span>
           <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Feature Engineering</span>
           <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse Prédictive</span>
-          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">EDA</span>
           <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Tableau</span>
           <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Python</span>
-          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire</span>
+          <span style="background: #4DA3FF; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem;">Analyse exploratoire EDA</span>
         </div><br>        
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
@@ -382,7 +387,7 @@ description: "Nouvelle direction, Même détermination !"
         </div>
       </div>
     </div>
-  </div>
+  </div> <!-- Fin Projet 4 -->
 </section>
   
   
@@ -462,65 +467,50 @@ description: "Nouvelle direction, Même détermination !"
 <!-- Mon contact -->
 <section id="contact" style="margin:3rem 0;">
   <header style="text-align: center;">
-    <h1><strong> 📫 Contactez-moi</strong></h1>
+    <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
 
-  <div style="display: inline-block; text-align: center; margin-left: 40px;">
+  <div style="text-align: center;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tbody>
         <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
             📧
           </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            Email :
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            heinryelodie@hotmail.fr
+          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
+            <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a>
           </td>
         </tr>
         <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
             📞
           </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            Téléphone :
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
             06 18 70 42 77
           </td>
         </tr>
         <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
             🌐
           </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            Localisation :
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
             Montpellier
           </td>
         </tr>
         <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
             💼
           </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            LinkedIn : 
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Elodie HEINRY</a>
+          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
+            <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Mon LinkedIn</a>
           </td>
         </tr>
         <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
+          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
             👨‍💻
           </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            GitHub :
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <a href="https://github.com/Elo3534" target="_blank">Elodie HEINRY</a>
+          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
+            <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a>
           </td>
         </tr>
       </tbody>
@@ -539,7 +529,7 @@ description: "Nouvelle direction, Même détermination !"
   </header>
 
   <article style="text-align: center;">
-   <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto;">
+   <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
     <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect.
     <br><br>
     <strong>🌿🐾 L'Émerveillée</strong> - La nature est ma source d'inspiration préférée ! Je m'extasie devant un documentaire animalier et j'adore observer les animaux. Spoiler : ils sont meilleurs acteurs que nous.
@@ -610,5 +600,7 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
+
+
 
 
