@@ -89,14 +89,14 @@ description: "Nouvelle direction, Même détermination !"
     <ul style="text-align: left; display: inline-block;">
       <li>ma <strong>persévérance</strong> et ma <strong>motivation</strong> face aux défis complexes,</li>
       <li>ma <strong>forte capacité d'adaptation</strong> et <strong>d'apprentissage</strong>,</li>
-      <li>ma <strong>curiosité intellectuelle</strong> toujours en éveil.</li><br>
+      <li>ma <strong>curiosité intellectuelle</strong> toujours en éveil.</li>
     </ul>
-  </article>
+  </article><br><br>
 
   <article style="text-align: center;">
   <h3>🧩 Ce qui me définit</h3>
   
-  <div style="display: inline-block; text-align: center; margin-left: 35px;">
+  <div style="display: inline-block; text-align: center; margin-left: 30px;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tbody>
         <tr>
@@ -168,7 +168,7 @@ description: "Nouvelle direction, Même détermination !"
       </tbody>
     </table>
   </div>
-</article><br>
+</article><br><br>
 
   <article style="text-align: center;">
     <h3>🚀 Ma valeur ajoutée</h3>
@@ -183,14 +183,14 @@ description: "Nouvelle direction, Même détermination !"
           <div style="height: 0.1rem;"></div>
       ✔ <strong>Garantir</strong> une profonde rigueur analytique et méthodologique sur l'ensemble des processus.
     </p>
-  </article><br>
+  </article><br><br>
 
   <article style="text-align: center;">
     <h3>🌱 Ce que je recherche</h3>
     <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision.<br>
         <div style="height: 0.1rem;"></div>
       Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p>
-  </article><br>
+  </article><br><br>
 
   <article style="text-align: center;">
     <h3>📌 Ma méthodologie</h3>
@@ -213,7 +213,8 @@ description: "Nouvelle direction, Même détermination !"
   </a><br>
   
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer><br>
+</footer>
+<div style="height: 0.3rem;"></div>
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
@@ -241,7 +242,8 @@ description: "Nouvelle direction, Même détermination !"
   </a><br>
   
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer><br>
+</footer>
+<div style="height: 0.3rem;"></div>
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
@@ -258,7 +260,7 @@ description: "Nouvelle direction, Même détermination !"
   </header>
 
   <!-- Projet 1 Netflix-->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+  <div style="border: 1px solid #e50914; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
@@ -284,8 +286,8 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/NETFLIX_PowerBI_DAX_OnlyOffice" target="_blank" 
-             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
-            Voir le projet sur GitHub
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; white-space: nowrap; display: inline-block;">
+            👨‍💻 Voir le projet sur GitHub
           </a>
         </div>
       </div>
@@ -293,7 +295,7 @@ description: "Nouvelle direction, Même détermination !"
   </div> <!-- Fin Projet 1 -->
 
   <!-- Projet 2 Aircraft-->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+  <div style="border: 1px solid #4b75ffdb; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;"><strong>✈️ Aircraft – ..... → → ......................</strong></h3>
@@ -313,8 +315,8 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/...................." target="_blank" 
-             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
-            Voir le projet sur GitHub
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px;  white-space: nowrap; display: inline-block;">
+            👨‍💻 Voir le projet sur GitHub
           </a>
         </div>
       </div>
@@ -322,7 +324,7 @@ description: "Nouvelle direction, Même détermination !"
   </div> <!-- Fin Projet 2 -->
 
   <!-- Projet 3 Tinder-->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+  <div style="border: 1px solid #FF4B91; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
@@ -345,8 +347,8 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/TINDER_python" target="_blank" 
-             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
-            Voir le projet sur GitHub
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px;  white-space: nowrap; display: inline-block;">
+            👨‍💻 Voir le projet sur GitHub
           </a>
         </div>
       </div>
@@ -354,7 +356,7 @@ description: "Nouvelle direction, Même détermination !"
   </div> <!-- Fin Projet 3 -->
 
   <!-- Projet 4 IBM-->
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+  <div style="border: 1px solid #4DA3FF; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
@@ -381,8 +383,8 @@ description: "Nouvelle direction, Même détermination !"
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
           <a href="https://github.com/Elo3534/Attrition-IBM_Tableau_Python_Word" target="_blank" 
-             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px; font-weight: bold; white-space: nowrap; display: inline-block;">
-            Voir le projet sur GitHub
+             style="background: #1abc9c; color: white; padding: 6px 14px; text-decoration: none; border-radius: 5px;  white-space: nowrap; display: inline-block;">
+            👨‍💻 Voir le projet sur GitHub
           </a>
         </div>
       </div>
@@ -402,7 +404,8 @@ description: "Nouvelle direction, Même détermination !"
   </a><br>
   
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer><br>
+</footer>
+<div style="height: 0.3rem;"></div>
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
@@ -428,7 +431,8 @@ description: "Nouvelle direction, Même détermination !"
   </a><br>
   
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer><br>
+</footer>
+<div style="height: 0.3rem;"></div>
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
@@ -455,7 +459,9 @@ description: "Nouvelle direction, Même détermination !"
   </a><br>
   
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer><br>
+</footer>
+<div style="height: 0.3rem;"></div>
+
 
 <!-- Séparation -->
 <hr style="border-top: 2px solid #1abc9c; margin: 2rem 0;">
@@ -491,14 +497,6 @@ description: "Nouvelle direction, Même détermination !"
         </tr>
         <tr>
           <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
-            🌐
-          </td>
-          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
-            Montpellier
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
             💼
           </td>
           <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
@@ -513,14 +511,23 @@ description: "Nouvelle direction, Même détermination !"
             <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a>
           </td>
         </tr>
+        <tr>
+          <td style="text-align: right; padding: 0.5rem 0.8rem; border: none; white-space: nowrap;">
+            🌐
+          </td>
+          <td style="text-align: left; padding: 0.5rem 0.8rem; border: none;">
+            Montpellier
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
 </section>
-
+<div style="height: 0.3rem;"></div>
 
 <!--séparation-->
 <div style="border-top: 2px solid #1abc9c; margin: 2rem 0;"></div>
+
 
 
 <!-- Moi, en plus -->
@@ -550,7 +557,7 @@ description: "Nouvelle direction, Même détermination !"
 <!-- haut de page -->
 <footer style="text-align: center; margin: 1rem 0;">
   <a href="#top" style="display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: #1abc9c; text-decoration: none; border-radius: 5px; border: 1px solid #1abc9c;">↑ Haut de page</a>
-</footer><br><br>
+</footer><br>
 
 <!-- Navigation rapide -->
 <nav style="text-align: center; margin: 2rem 0;" aria-label="Navigation principale">
@@ -600,7 +607,3 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
-
-
-
-
