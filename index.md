@@ -257,7 +257,7 @@ description: "Nouvelle direction, Même détermination !"
 <section id="projets" style="margin:3rem 0;">
   <header style="text-align: center;">
     <h1><strong>🚀 Mes Projets Data</strong></h1>
-  </header>
+  </header><br>
 
   <!-- Projet 1 Netflix-->
   <div style="border: 1px solid #e50914; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
@@ -426,9 +426,9 @@ description: "Nouvelle direction, Même détermination !"
 <!-- Mes formations et certifications -->
 <section id="formation" style="margin:3rem 0;">
   <header style="text-align: center;">
-    <h1><strong> 🎓 Formations & Certifications</strong></h1>
-  </header><br><br>
-
+    <h1><strong>🎓 Formations & Certifications</strong></h1>
+  </header>
+  <br><br>
 
   <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 0 1rem;">   
     <!-- Parcours DATA -->
@@ -436,48 +436,52 @@ description: "Nouvelle direction, Même détermination !"
       <h2 style="color: #3498db; text-align: center;"><strong>📈 Parcours DATA</strong></h2>    
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
         <h3 style="color: #1abc9c; margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3>
-        <p>Montpellier — 2025</p>
         <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
           Analyse exploratoire, descriptive et inférentielle de données.<br>
-          Direction de projets de gestion de données.</p><br>
-        <p>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
-        Formation en Bootcamp : FULLSTACK DATA ANALYSIS chez Jedha Academy 
+          Direction de projets de gestion de données.
         </p>
-        </div>
+        <p><strong>Montpellier — 2025</strong></p>
+        <p style="color: #555;">
+          Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
+          Formation en Bootcamp : FULLSTACK DATA ANALYSIS chez Jedha Academy 
+        </p>
+      </div>
       <h3><strong>🏅 Certifications Editeurs</strong></h3>
       <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
         Google Analytics 4 (GA4) — 2025<br>
-        Hubspot CMR for Marketers — 2025</p>
-    </div><br>
+        Hubspot CMR for Marketers — 2025
+      </p>
+    </div>
     <!-- Parcours scientifique -->
     <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498db; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>    
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
-        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</strong></h3>
-        <p>Angers — 2010</p>
+        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
+        <p><strong>Angers — 2010</strong></p>
       </div>   
       <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
-        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</strong></h3>
-        <p>Clermont-Ferrand — 2009</p>
+        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
+        <p><strong>Clermont-Ferrand — 2009</strong></p>
       </div>
-    </div><br>
+    </div>
     <!-- Reprise d'étude -->
     <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
-      <h2 style="color: #9b59b6; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>     
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
-        <p style="color: #555; line-height: 1.6; margin-bottom: 1rem;">
-          <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;"><strong>Licence Biologie Première Année</strong><h3></p>
-          <p style="color: #2c3e50;">Rennes — 2007
-          <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante, cela m'a également permis de remettre mes bases à niveau."</em></p>
-        <p style="color: #666; font-size: 0.9rem; text-align: center;">
-          ✅ Année validée - Admissible en L2  —  📝 Cette année de faculté ne donnait pas lieu à l'obtention d'un diplôme
+      <h2 style="color: #9b59b6; text-align: center; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>     
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem;">
+        <h3 style="color: #1abc9c; margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
+        <p><strong>Rennes — 2007</strong></p>
+        <p style="color: #555; line-height: 1.6; margin: 1rem 0;">
+          <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante, cela m'a également permis de remettre mes bases à niveau."</em>
         </p>
-      </div>      
-      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-top: 1rem;">
-        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
-        <p style="color: #2c3e50;">>Rennes — 2006</p>
+        <p style="color: #666; font-size: 0.9rem; text-align: center;">
+          ✅ Année validée - Admissible en L2 — 📝 Cette année de faculté ne donnait pas lieu à l'obtention d'un diplôme
+        </p>
       </div>
-    </div>fffffffffffffffffff
+      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+        <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
+        <p><strong>Rennes — 2006</strong></p>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -505,7 +509,71 @@ description: "Nouvelle direction, Même détermination !"
 <section id="experiences" style="margin:3rem 0;">
   <header style="text-align: center;">
     <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
-  </header>
+  </header><br>
+
+  <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
+    <!-- Expériences en Laboratoire -->
+    <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
+      <h2 style="color: #3498db; margin-bottom: 1rem;"><strong>🔬 Expériences antérieures en Laboratoire</strong></h2>     
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;">AGENT DE MAÎTRISE en laboratoires de sciences</h3>
+        <p style="color: #1abc9c; margin: 0 0 1rem 0; font-weight: bold;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
+        <p style="color: #555; line-height: 1.6; margin: 0;">
+          <strong>Mission :</strong> Référencement des produits chimiques (Intégration d'un outil informatisé), Mise en sécurité des laboratoires, Gestion du matériel et du budget, Aide à la préparation des Travaux Pratiques
+        </p>
+      </div>
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;">INGÉNIEURE D'ÉTUDE en cytogénétique</h3>
+        <p style="color: #1abc9c; margin: 0 0 1rem 0; font-weight: bold;">2010 - INRAE - Angers - 3 ans</p>
+        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0;">
+          Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial BRIO (Breeding Research & Innovation on Ornamentals).
+        </p>
+        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0;"><strong>Mission :</strong></p>
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; padding-left: 1.5rem;">
+          <li>Conception et mise au point de protocoles de cytogénétique moléculaire et de cytométrie de flux</li>
+          <li>Analyses sur 8 genres de plantes ornementales</li>
+          <li>Analyses statistiques inférentielles</li>
+          <li>Etude bibliographique, synthèses et présentations visuelles des études</li>
+          <li>Présentation régulière des résultats avec supports visuels en comités techniques (16 fois/an)</li>
+          <li>Mise au point des protocoles expérimentaux</li>
+          <li>Collaboration avec équipes pluridisciplinaires et partenaires externes</li>
+        </ul>
+        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0;"><strong>Réalisations marquantes :</strong></p>
+        <ul style="color: #555; line-height: 1.6; margin: 0; padding-left: 1.5rem;">
+          <li>Mise en place, maintenance, formation et accompagnement des utilisateurs et complète autonomie sur un cytomètre en flux, en microscopie à fluorescence</li>
+          <li>Organisation des laboratoires de cytologie, de microscopie à fluorescence, de cytométrie de flux : rédaction de manuels utilisateurs, formation et accompagnement des utilisateurs, gestion des stocks, des commandes et des budgets liés aux laboratoires</li>
+          <li>Participation à des conférences internationales (Prague 2012, Paris 2011, Montpellier 2010)</li>
+        </ul>
+      </div>
+    </div>
+    <!-- Expériences en industrie -->
+    <div style="border-left: 4px solid #e74c3c; padding-left: 1.5rem; margin-bottom: 2.5rem;">
+      <h2 style="color: #e74c3c; margin-bottom: 1rem;"><strong>🏭 Expériences antérieures en industrie</strong></h2>    
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0;">Conductrice de lignes automatisées et Opératrice de fabrication</h3>
+        <p style="color: #1abc9c; margin: 0 0 1rem 0; font-weight: bold;">2002-2017 - Chez : Ipsen BioPharma, Valeo, Canon, Thalès Microelectronics, Oberthur Card Systems (Bouches-du-Rhône, Var, Ille-et-Vilaine)</p>
+        <ul style="color: #555; line-height: 1.6; margin: 0; padding-left: 1.5rem;">
+          <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
+          <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
+          <li>Polyvalence et adaptation à différents environnements industriels</li>
+        </ul>
+      </div>
+    </div>
+    <!-- Stages professionnels -->
+    <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
+      <h2 style="color: #9b59b6; margin-bottom: 1rem;"><strong>📚 Stages professionnels</strong></h2>     
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+        <ul style="color: #555; line-height: 1.6; margin: 0; padding-left: 1.5rem;">
+          <li style="margin-bottom: 1rem;">
+            <strong>Stage Licence professionnelle – 2010 (4 mois – demande de prolongement)</strong> – AgroCampus-Ouest, Angers : cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH. Cytogénétique moléculaire chez le rosier, FISH/GISH.
+          </li>
+          <li>
+            <strong>Stage DUT – 2009 (3 mois – demande de prolongement)</strong> – Centre de lutte contre le cancer, Clermont-Ferrand : étude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>  
 </section>
 
 
@@ -530,18 +598,41 @@ description: "Nouvelle direction, Même détermination !"
 <section id="contact" style="margin:3rem 0;">
   <header style="text-align: center;">
     <h1><strong>📫 Contactez-moi</strong></h1>
-  </header><br>
-  <div style="text-align: left; margin: 300px">
-    <p>📧 <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a></p>
-    <div style="height: 0.3rem;"></div>
-    <p>📞 06 18 70 42 77</p>
-    <div style="height: 0.3rem;"></div>
-    <p>💼 <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Mon LinkedIn</a></p>
-    <div style="height: 0.3rem;"></div>
-    <p>👨‍💻 <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a></p>
-    <div style="height: 0.3rem;"></div>   
-    <p>🌐 Montpellier</p>
-    <div style="height: 0.3rem;"></div>  
+  </header>
+  <br>
+  <div style="text-align: center;">
+    <table style="margin: 0 auto; border-collapse: collapse; border: none;">
+      <tr>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📧</td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+          <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📞</td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+          06 18 70 42 77
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">💼</td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+          <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Mon LinkedIn</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">👨‍💻</td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+          <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">🌐</td>
+        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+          Montpellier
+        </td>
+      </tr>
+    </table>
   </div>
 </section>
 <div style="height: 0.3rem;"></div>
