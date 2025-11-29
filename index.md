@@ -614,39 +614,29 @@ description: "Nouvelle direction, Même détermination !"
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
   <br>
-  <div style="width: 100%; text-align: center;">
-    <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none;">
-      <tr>
-        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">📧</td>
-        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
-          <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a>
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">📞</td>
-        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
-          06 18 70 42 77
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">💼</td>
-        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
-          <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Mon LinkedIn</a>
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">👨‍💻</td>
-        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
-          <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a>
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">🌐</td>
-        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
-          Montpellier
-        </td>
-      </tr>
-    </table>
+  <div style="text-align: center;">
+    <div style="display: inline-block; text-align: left;">
+      <p style="margin: 0.5rem 0;">
+        <span style="display: inline-block; width: 30px; text-align: center;">📧</span>
+        <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a>
+      </p>
+      <p style="margin: 0.5rem 0;">
+        <span style="display: inline-block; width: 30px; text-align: center;">📞</span>
+        06 18 70 42 77
+      </p>
+      <p style="margin: 0.5rem 0;">
+        <span style="display: inline-block; width: 30px; text-align: center;">💼</span>
+        <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Mon LinkedIn</a>
+      </p>
+      <p style="margin: 0.5rem 0;">
+        <span style="display: inline-block; width: 30px; text-align: center;">👨‍💻</span>
+        <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a>
+      </p>
+      <p style="margin: 0.5rem 0;">
+        <span style="display: inline-block; width: 30px; text-align: center;">🌐</span>
+        Montpellier
+      </p>
+    </div>
   </div>
 </section>
 <div style="height: 0.3rem;"></div>
