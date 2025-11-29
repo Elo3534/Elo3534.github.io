@@ -524,7 +524,7 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Expériences en Laboratoire -->
     <div style="border-left: 4px solid #3498DB; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498DB; margin-bottom: 1rem; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>     
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 0.5rem;">
+      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
