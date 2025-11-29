@@ -264,7 +264,7 @@ description: "Nouvelle direction, Même détermination !"
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
-          <img src="assets/images/netflix.png" alt="Netflix" style="height: 40px; vertical-align: middle; margin-right: 8px;">
+          <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; vertical-align: middle; margin-right: 8px;">
           <strong>NETFLIX – Analyse stratégique → → POWER BI & DAX – ONLYOFFICE</strong>
         </h3><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
@@ -301,7 +301,9 @@ description: "Nouvelle direction, Même détermination !"
   <div style="border: 1px solid #4b75ffdb; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;"><strong>✈️  AIRCRAFT – ..... → → ......................</strong></h3><br>
+        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
+          <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
+          <strong>✈️  AIRCRAFT – ..... → → ......................</strong></h3><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
@@ -334,7 +336,7 @@ description: "Nouvelle direction, Même détermination !"
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
-          <img src="assets/images/tinder.png" alt="Tinder" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+          <img src="assets/images/tinder.png" alt="Tinder" style="height: 60px; vertical-align: middle; margin-right: 8px;">
           <strong>TINDER – Analyse inférentielle → → Python .............................</strong>
         </h3><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
@@ -369,7 +371,7 @@ description: "Nouvelle direction, Même détermination !"
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
-          <img src="assets/images/ibm.png" alt="IBM" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+          <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; vertical-align: middle; margin-right: 8px;">
           <strong>ATTRITION CHEZ IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
         </h3><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
@@ -513,7 +515,7 @@ description: "Nouvelle direction, Même détermination !"
 <!-- Mes expériences professionnelles -->
 <section id="experiences" style="margin:3rem 0;">
   <header style="text-align: center; font-weight: bold;">
-    <h1> 🤝 Expériences Professionnelles</h1>
+    <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
   </header><br>
 
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
@@ -521,10 +523,10 @@ description: "Nouvelle direction, Même détermination !"
     <div style="border-left: 4px solid #3498DB; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498DB; margin-bottom: 1rem; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>     
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="font-variant: small-caps;">agent de maîtrise</span> en laboratoires de sciences</h3>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
           <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
           <li>Mise en sécurité des laboratoires</li>
           <li>Gestion du budget</li>
@@ -534,10 +536,10 @@ description: "Nouvelle direction, Même détermination !"
         </ul>
       </div>
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="font-variant: small-caps;">ingénieure d'étude</span> en cytogénétique</h3>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2010 - INRAE - Angers - 3 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
-          Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial BRIO (Breeding Research & Innovation on Ornamentals).
+          <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em>
         </p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
@@ -561,8 +563,8 @@ description: "Nouvelle direction, Même détermination !"
     <div style="border-left: 4px solid #FF8C00; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #FF8C00; margin-bottom: 1rem; font-weight: bold;">🏭 Expériences antérieures en industrie</h2>    
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="font-variant: small-caps;">conductrice de lignes</span> automatisées et <span style="font-variant: small-caps; font-weight: bold;">opératrice</span> de fabrication</h3>
-        <p style="color: #555; margin: 0 0 1rem 0; font-weight: bold;">2002-2017 - Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Ille-et-Vilaine)</p>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées et <span style="text-transform: uppercase; font-size: 1.1em;">opératrice</span> de fabrication</h3>
+        <p style="color: #555; margin: 0 0 1rem 0;">2002-2017 - Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
           <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
           <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
@@ -574,11 +576,11 @@ description: "Nouvelle direction, Même détermination !"
     <div style="border-left: 4px solid #8E44AD; padding-left: 1.5rem; margin-bottom: 2rem;">
       <h2 style="color: #8E44AD; margin-bottom: 1rem; font-weight: bold;">📚 Stages professionnels</h2>     
       <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
-        <p style="color: #555; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
+        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
         <p>AgroCampus-Ouest, Angers</p>
-        <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p>
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
-        <p style="color: #555; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
+        <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p></div>
+      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
         <p>Centre de lutte contre le cancer, Clermont-Ferrand</p>
         <p style="text-align: justify;">Etude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).</p>        
       </div>
@@ -731,6 +733,4 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
-
-
 
