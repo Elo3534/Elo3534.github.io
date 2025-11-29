@@ -264,7 +264,7 @@ description: "Nouvelle direction, Même détermination !"
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
-          <img src="assets/images/netflix.png" alt="Netflix" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+          <img src="assets/images/netflix.png" alt="Netflix" style="height: 40px; vertical-align: middle; margin-right: 8px;">
           <strong>NETFLIX – Analyse stratégique → → POWER BI & DAX – ONLYOFFICE</strong>
         </h3><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
