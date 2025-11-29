@@ -303,7 +303,7 @@ description: "Nouvelle direction, Même détermination !"
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
           <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>✈️  AIRCRAFT – ..... → → ......................</strong></h3><br>
+          <strong>AIRCRAFT – ..... → → ......................</strong></h3><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
@@ -612,7 +612,7 @@ description: "Nouvelle direction, Même détermination !"
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
   <br>
-  <div style="text-align: center; margin-left: 100px;">
+  <div style="text-align: center; margin-left: 250px;">
     <table style="margin: 0 auto; border-collapse: collapse; border: none;">
       <tr>
         <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📧</td>
