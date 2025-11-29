@@ -96,7 +96,7 @@ description: "Nouvelle direction, Même détermination !"
   <article style="text-align: center;">
   <h2>🧩 Ce qui me définit</h2>
   
-  <div style="display: inline-block; text-align: center; margin-left: 30px;">
+  <div style="display: inline-block; text-align: center; margin-left: 29px;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
       <tbody>
         <tr>
@@ -486,7 +486,7 @@ description: "Nouvelle direction, Même détermination !"
           ✅ Année validée - Admissible en L2
         </p>
       </div>
-      <div style="background: ##f8f9faf1; padding: 1rem; border-radius: 8px;">
+      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px; margin-bottom: 1rem">
         <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
         <p><strong>Rennes — 2006</strong></p>
       </div>
@@ -524,7 +524,7 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Expériences en Laboratoire -->
     <div style="border-left: 4px solid #3498DB; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498DB; margin-bottom: 1rem; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>     
-      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 0rem">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 0.1rem">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
@@ -614,7 +614,7 @@ description: "Nouvelle direction, Même détermination !"
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
   <br>
-  <div style="text-align: center; margin-left: 300px;">
+  <div style="text-align: center;">
     <table style="margin: 0 auto; border-collapse: collapse; border: none;">
       <tr>
         <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📧</td>
