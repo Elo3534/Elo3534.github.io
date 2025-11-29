@@ -524,7 +524,7 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Expériences en Laboratoire -->
     <div style="border-left: 4px solid #3498DB; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498DB; margin-bottom: 1rem; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>     
-      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 0.1rem">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 0.25rem">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
@@ -577,11 +577,11 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Stages professionnels -->
     <div style="border-left: 4px solid #8E44AD; padding-left: 1.5rem; margin-bottom: 2rem;">
       <h2 style="color: #8E44AD; margin-bottom: 1rem; font-weight: bold;">📚 Stages professionnels</h2>     
-      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px;">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 0.25rem">
         <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
         <p>AgroCampus-Ouest, Angers</p>
         <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p></div>
-      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px;">
+      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px; margin-bottom: 0.25rem">
         <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
         <p>Centre de lutte contre le cancer, Clermont-Ferrand</p>
         <p style="text-align: justify;">Etude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).</p>        
