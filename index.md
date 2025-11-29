@@ -332,7 +332,7 @@ description: "Nouvelle direction, Même détermination !"
   </div> <!-- Fin Projet 2 -->
 
   <!-- Projet 3 Tinder-->
-  <div style="border: 1px solid #FF4B91; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+  <div style="border: 1px solid #FF4B91; border-radius: 10px; padding: 1.5rem; background: #f8f9faf1; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
@@ -367,7 +367,7 @@ description: "Nouvelle direction, Même détermination !"
   </div> <!-- Fin Projet 3 -->
 
   <!-- Projet 4 IBM-->
-  <div style="border: 1px solid #4DA3FF; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem;">
+  <div style="border: 1px solid #4DA3FF; border-radius: 10px; padding: 1.5rem; background: #f8f9faf1; margin-bottom: 2rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h3 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
@@ -441,7 +441,7 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Parcours DATA -->
     <div style="border-left: 4px solid #1F77B4; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #1F77B4; text-align: center;"><strong>📈 Parcours DATA</strong></h2>    
-      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
         <h3 style="color: #1abc9c; margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3>
         <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
           Analyse exploratoire, descriptive et inférentielle de données.<br>
@@ -463,11 +463,11 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Parcours scientifique -->
     <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498db; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>    
-      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
         <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
         <p><strong>Angers — 2010</strong></p>
       </div>   
-      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
         <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
         <p><strong>Clermont-Ferrand — 2009</strong></p>
       </div>
@@ -476,7 +476,7 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Reprise d'étude -->
     <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
       <h2 style="color: #9b59b6; text-align: center; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>     
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem;">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem;">
         <h3 style="color: #1abc9c; margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
         <p><strong>Rennes — 2007</strong></p>
         <p style="color: #555; line-height: 1.6; margin: 1rem 0; test-align: justify;">
@@ -486,7 +486,7 @@ description: "Nouvelle direction, Même détermination !"
           ✅ Année validée - Admissible en L2
         </p>
       </div>
-      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+      <div style="background: ##f8f9faf1; padding: 1rem; border-radius: 8px;">
         <h3 style="color: #1abc9c; margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
         <p><strong>Rennes — 2006</strong></p>
       </div>
@@ -524,11 +524,11 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Expériences en Laboratoire -->
     <div style="border-left: 4px solid #3498DB; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498DB; margin-bottom: 1rem; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>     
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;  margin-bottom: 0.25rem">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 0rem">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1rem; padding-left: 1.5rem;">
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
           <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
           <li>Mise en sécurité des laboratoires</li>
           <li>Gestion du budget</li>
@@ -537,7 +537,7 @@ description: "Nouvelle direction, Même détermination !"
           <li>Mise au point des protocoles expérimentaux pour les travaux pratiques</li>
         </ul>
       </div>
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2010 - INRAE - Angers - 3 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
@@ -564,7 +564,7 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Expériences en industrie -->
     <div style="border-left: 4px solid #FF8C00; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #FF8C00; margin-bottom: 1rem; font-weight: bold;">🏭 Expériences antérieures en industrie</h2>    
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées et <span style="text-transform: uppercase; font-size: 1.1em;">opératrice</span> de fabrication</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2002-2017 - Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
@@ -577,11 +577,11 @@ description: "Nouvelle direction, Même détermination !"
     <!-- Stages professionnels -->
     <div style="border-left: 4px solid #8E44AD; padding-left: 1.5rem; margin-bottom: 2rem;">
       <h2 style="color: #8E44AD; margin-bottom: 1rem; font-weight: bold;">📚 Stages professionnels</h2>     
-      <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+      <div style="background: #f8f9faf1; padding: 1.5rem; border-radius: 8px;">
         <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
         <p>AgroCampus-Ouest, Angers</p>
         <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p></div>
-      <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+      <div style="background: #f8f9faf1; padding: 1rem; border-radius: 8px;">
         <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
         <p>Centre de lutte contre le cancer, Clermont-Ferrand</p>
         <p style="text-align: justify;">Etude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).</p>        
@@ -735,4 +735,5 @@ description: "Nouvelle direction, Même détermination !"
     <img src="assets/images/localisation.png" alt="Localisation" style="width: 30px; height: 30px;">
   </a>
 </nav>
+
 
