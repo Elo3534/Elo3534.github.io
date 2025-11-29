@@ -614,8 +614,8 @@ description: "Nouvelle direction, Même détermination !"
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
   <br>
-  <div style="text-align: center;">
-    <table style="display: inline-block; margin: 0 auto; border-collapse: collapse; border: none; text-align: left;">
+  <div style="width: 100%; text-align: center;">
+    <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none;">
       <tr>
         <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">📧</td>
         <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
