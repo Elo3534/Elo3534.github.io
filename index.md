@@ -450,7 +450,7 @@ description: "Nouvelle direction, Même détermination !"
         <p><strong>Montpellier — 2025</strong></p>
         <p style="color: #555;">
           Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
-          Formation en Bootcamp : FULLSTACK DATA ANALYSIS chez Jedha Academy 
+          Formation en <strong>Bootcamp : FULLSTACK DATA ANALYSIS</strong> chez Jedha Academy 
         </p>
       </div>
       <h3 style="color: #1abc9c; text-align: center;"><strong>🏅 Certifications Editeurs</strong></h3>
@@ -615,34 +615,34 @@ description: "Nouvelle direction, Même détermination !"
   </header>
   <br>
   <div style="text-align: center;">
-    <table style="margin: 0 auto; border-collapse: collapse; border: none;">
+    <table style="display: inline-block; margin: 0 auto; border-collapse: collapse; border: none; text-align: left;">
       <tr>
-        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📧</td>
-        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">📧</td>
+        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
           <a href="mailto:heinryelodie@hotmail.fr">heinryelodie@hotmail.fr</a>
         </td>
       </tr>
       <tr>
-        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📞</td>
-        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">📞</td>
+        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
           06 18 70 42 77
         </td>
       </tr>
       <tr>
-        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">💼</td>
-        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">💼</td>
+        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
           <a href="https://www.linkedin.com/in/elodie-heinry" target="_blank">Mon LinkedIn</a>
         </td>
       </tr>
       <tr>
-        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">👨‍💻</td>
-        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">👨‍💻</td>
+        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
           <a href="https://github.com/Elo3534" target="_blank">Mon GitHub</a>
         </td>
       </tr>
       <tr>
-        <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">🌐</td>
-        <td style="text-align: left; padding: 0.3rem 0.5rem; border: none;">
+        <td style="text-align: center; padding: 0.5rem 0.5rem; border: none; width: 40px;">🌐</td>
+        <td style="text-align: left; padding: 0.5rem 1rem; border: none;">
           Montpellier
         </td>
       </tr>
