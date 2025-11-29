@@ -459,6 +459,7 @@ description: "Nouvelle direction, Même détermination !"
         Hubspot CMR for Marketers — 2025
       </p>
     </div>
+    <div style="height: 0.3rem;"></div>
     <!-- Parcours scientifique -->
     <div style="border-left: 4px solid #3498db; padding-left: 1.5rem; margin-bottom: 2.5rem;">
       <h2 style="color: #3498db; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>    
@@ -471,6 +472,7 @@ description: "Nouvelle direction, Même détermination !"
         <p><strong>Clermont-Ferrand — 2009</strong></p>
       </div>
     </div>
+    <div style="height: 0.3rem;"></div>
     <!-- Reprise d'étude -->
     <div style="border-left: 4px solid #9b59b6; padding-left: 1.5rem; margin-bottom: 2rem;">
       <h2 style="color: #9b59b6; text-align: center; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>     
@@ -612,7 +614,7 @@ description: "Nouvelle direction, Même détermination !"
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
   <br>
-  <div style="text-align: center; margin-left: 250px;">
+  <div style="text-align: center; margin-left: 300px;">
     <table style="margin: 0 auto; border-collapse: collapse; border: none;">
       <tr>
         <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; width: 30px;">📧</td>
