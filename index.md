@@ -230,9 +230,70 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong> 🛠️ Compétences</strong></h1>
   </header>
 </section>
-<p class="text-center">ajout icones des logiciels</p>
-<p class="text-center">
-<img src="assets/images/netflix.png" alt="Netflix" style="height: 25px; vertical-align: middle; margin-right: 8px;">
+<section id="competences" class="container mb-3" style="text-align: center;">
+  <header>
+    <h1><strong>🛠️ Compétences</strong></h1>
+  </header>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem; text-align: left;">
+        <!-- Colonne 1 : Technique -->
+    <div>
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem;">📊 Analyse & Traitement</h3>
+      <ul style="list-style: none; padding-left: 0;">
+        <li><strong>Python</strong> (Pandas, NumPy, Statsmodels, SciPy, Scikit-Learn)</li>
+        <li><strong>Excel</strong>, <strong>Power Query</strong>, <strong>DAX</strong></li>
+        <li>Analyse statistique (descriptive, inférentielle, prédictive)</li>
+        <li>A/B Testing, tests d'hypothèses, régression</li>
+      </ul>
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem; margin-top: 1.5rem;">📈 Visualisation & BI</h3>
+      <ul style="list-style: none; padding-left: 0;">
+        <li><strong>Power BI</strong>, <strong>Tableau</strong>, <strong>Looker Studio</strong></li>
+        <li>Python (Matplotlib, Plotly, Seaborn)</li>
+        <li><strong>Deepnote</strong> pour l'analyse collaborative</li>
+      </ul>
+    </div>
+    <!-- Colonne 2 : Data Engineering & ML -->
+    <div>
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem;">🗄️ Bases de données & ETL</h3>
+      <ul style="list-style: none; padding-left: 0;">
+        <li><strong>SQL</strong> (jointures, CTE, requêtes complexes)</li>
+        <li><strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>Snowflake</strong>, <strong>BigQuery</strong></li>
+        <li><strong>AWS</strong>, <strong>DBT</strong>, pipelines <strong>ETL/ELT</strong></li>
+        <li>Modélisation de données (relationnelles, schéma en étoile)</li>
+      </ul>
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem; margin-top: 1.5rem;">🤖 Modélisation & Machine Learning</h3>
+      <ul style="list-style: none; padding-left: 0;">
+        <li>Régression linéaire/logistique, Decision Tree, Random Forest, KNN</li>
+        <li><strong>Feature engineering</strong>, <strong>Scikit-Learn</strong>, <strong>Dataiku</strong></li>
+      </ul>
+    </div>
+    <!-- Colonne 3 : Métier & Soft Skills -->
+    <div>
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem;">🎯 Compétences Métier</h3>
+      <ol style="padding-left: 1.2rem;">
+        <li>Traduire des besoins métier en problématiques data</li>
+        <li>Définir et suivre des KPI métier</li>
+        <li>Raconter des histoires avec les données (Storytelling)</li>
+        <li>Développer des solutions Business Intelligence</li>
+        <li>Travailler en méthode Agile</li>
+      </ol>  
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem; margin-top: 1.5rem;">💪 Soft Skills</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+        <span class="skill-tag">Adaptabilité</span>
+        <span class="skill-tag">Esprit d'analyse</span>
+        <span class="skill-tag">Raisonnement analytique</span>
+        <span class="skill-tag">Autonomie</span>
+        <span class="skill-tag">Collaboration</span>
+        <span class="skill-tag">Pédagogie</span>
+        <span class="skill-tag">Curiosité intellectuelle</span>
+        <span class="skill-tag">Résolution de problèmes</span>
+      </div> 
+      <h3 style="color: var(--primary); border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem; margin-top: 1.5rem;">🌍 Langues</h3>
+      <p><strong>Français</strong> : langue maternelle<br>
+      <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p>
+    </div>
+  </div>
+</section>
 </p>
 
 <!-- CV et haut de page -->
