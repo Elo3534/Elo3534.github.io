@@ -24,6 +24,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
 .btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
+#experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
 </style>
 
 <!-- En-tête avec photo -->
@@ -423,7 +424,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <h2 style="color: #1F77B4; text-align: center;"><strong>📈 Parcours DATA</strong></h2>
       <div class="content-block">
         <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3>
-        <p><strong>Montpellier — Novembre 2025</strong></p>
+        <p><strong>Montpellier – Novembre 2025</strong></p>
         <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
           Analyse exploratoire, descriptive et inférentielle de données.<br>
           Direction de projets de gestion de données.
@@ -435,8 +436,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       </div>
       <h3 style="color: var(--primary); text-align: center;"><strong>🏅 Certifications Editeurs</strong></h3>
       <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
-        Google Analytics 4 (GA4) — 2025<br>
-        Hubspot CMR for Marketers — 2025
+        Google Analytics 4 (GA4) – 2025<br>
+        Hubspot CMR for Marketers – 2025
       </p>
     </div>
     <div style="height: 0.3rem;"></div>
@@ -445,11 +446,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <h2 style="color: #1bcafaff; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>
       <div class="content-block">
         <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
-        <p><strong>Angers — 2010</strong></p>
+        <p><strong>Angers – 2010</strong></p>
       </div>
       <div class="content-block">
         <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
-        <p><strong>Clermont-Ferrand — 2009</strong></p>
+        <p><strong>Clermont-Ferrand – 2009</strong></p>
       </div>
     </div>
     <div style="height: 0.3rem;"></div>
@@ -458,17 +459,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <h2 style="color: #9b59b6; text-align: center; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>
       <div class="content-block">
         <h3 style="color: var(--primary); margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
-        <p><strong>Rennes — 2007</strong></p>
+        <p><strong>Rennes – 2007</strong></p>
         <p style="color: #555; line-height: 1.6; margin: 1rem 0; test-align: justify;">
           <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante."</em>
         </p>
         <p style="color: #666; font-size: 0.9rem; text-align: center;">
-          ✅ Année validée - Admissible en L2
+          ✅ Année validée – Admissible en L2
         </p>
       </div>
       <div class="content-block">
         <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
-        <p><strong>Rennes — 2006</strong></p>
+        <p><strong>Rennes – 2006</strong></p>
       </div>
     </div>
   </div>
@@ -487,6 +488,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <!--séparation-->
 <div class="hr-sep"></div>
 
+
 <!-- Mes expériences professionnelles -->
 <section id="experiences" class="container mb-3" style="text-align: center;">
   <header class="text-center" style="font-weight: bold;">
@@ -499,7 +501,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <h2 style="color: #1bcafaff; margin-bottom: 1rem; text-align: center; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2017 — Lycée privé — Aix-en-Provence — 7 ans</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">2017 – Lycée privé – Aix-en-Provence – 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
           <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
@@ -512,7 +514,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       </div>
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2010 — INRAE — Angers — 3 ans</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">2010 – INRAE – Angers – 3 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
           <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em>
         </p>
@@ -539,7 +541,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <h2 style="color: #FF8C00; margin-bottom: 1rem; text-align: center; font-weight: bold;">🏭 Expériences antérieures en industrie</h2>
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées et <span style="text-transform: uppercase; font-size: 1.1em;">opératrice</span> de fabrication</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">Entre 2002 et 2017 — Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">Entre 2002 et 2017 – Ipsen BioPharma – Valeo – Canon – Thalès Microelectronics – Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
           <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
           <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
@@ -551,11 +553,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <div class="timeline-section" style="border-color: #8E44AD;">
       <h2 style="color: #8E44AD; margin-bottom: 1rem; text-align: center; font-weight: bold;">📚 Stages professionnels</h2>
       <div class="content-block">
-        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle — 2010 (4 mois par demande de prolongement)</p>
+        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
         <p>AgroCampus-Ouest, Angers</p>
         <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p></div>
       <div class="content-block">
-        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT — 2009 (3 mois par demande de prolongement)</p>
+        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
         <p>Centre de lutte contre le cancer, Clermont-Ferrand</p>
         <p style="text-align: justify;">Etude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).</p>
       </div>
