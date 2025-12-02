@@ -233,10 +233,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div style="max-width: 700px; margin: 2rem auto 0;">
     <!-- Bloc Techniques -->
     <div>
-      <div style="font-size: 2rem; margin-bottom: 1rem;">
-        📊📈
-      </div>
-      <h3 style="color: #159957; padding-bottom: 0.5rem;">Techniques</h3>
+      <h2>📊📈 Techniques</h2>
       <p style="text-align: left; margin: 1rem 0;">
             <!-- Logos -->
     <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
@@ -255,7 +252,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; width: auto;">
     </div>
     <!-- Compétences Métier -->
-    <h3 style="color: #159957; padding-bottom: 0.5rem;">🎯 Compétences Métier</h3>
+    <h2>🎯 Compétences Métier</h2>
     <ul style="list-style: none; padding-left: 0; margin: 1.5rem 0;">
       <li>• <strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong></li>
       <li>• Définir et suivre des <strong>KPI métier</strong></li>
@@ -264,7 +261,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <li>• Travailler en <strong>méthode Agile</strong></li>
     </ul>
     <!-- Soft Skills -->
-    <h3 style="color: #159957; padding-bottom: 0.5rem; margin-top: 2rem;">💪 Soft Skills</h3>
+    <h2>💪 Soft Skills</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.5rem 0;">
       <span class="skill-tag">Adaptabilité</span>
       <span class="skill-tag">Esprit d'analyse</span>
@@ -276,7 +273,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <span class="skill-tag">Résolution de problèmes</span>
     </div> 
     <!-- Langues -->
-    <h3 style="color: #159957; padding-bottom: 0.5rem; margin-top: 2rem;">🌍 Langues</h3>
+    <h2>🌍 Langues</h2>
     <p><strong>Français</strong> : langue maternelle<br>
     <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p>
   </div>
