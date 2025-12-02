@@ -225,11 +225,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <div class="hr-sep"></div>
 
 <!-- Mes compétences -->
-<section id="competences" class="container mb-3">
-  <header class="text-center">
-    <h1><strong> 🛠️ Compétences</strong></h1>
-  </header>
-</section>
 <section id="competences" class="container mb-3" style="text-align: center;">
   <header>
     <h1><strong>🛠️ Compétences</strong></h1>
