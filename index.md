@@ -363,8 +363,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
           <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong><p>ATTRITION CHEZ IBM – Analyse prédictive</p>
-          <p>→ → Tableau & Python – Microsoft Power Point et Word</strong></p>
+          <strong>ATTRITION CHEZ IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au <strong>feature engineering</strong>,
