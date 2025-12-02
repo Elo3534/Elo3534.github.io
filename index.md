@@ -230,7 +230,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>🛠️ Compétences</strong></h1>
   </header>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;">
+  <div style="max-width: 700px; margin: 2rem auto 0;">
     <!-- Bloc Techniques -->
     <div>
       <div style="font-size: 2rem; margin-bottom: 1rem;">
@@ -238,39 +238,50 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       </div>
       <h3 style="color: #159957; padding-bottom: 0.5rem;">Techniques</h3>
       <p style="text-align: left; margin: 1rem 0;">
+            <!-- Logos -->
+    <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+      <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; width: auto;">
+      <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; width: auto;">
+    </div>
         <strong>Analyse & Traitement :</strong> Python (Pandas, NumPy, Statsmodels), Excel, Power Query, DAX<br><br>
         <strong>Visualisation & BI :</strong> Power BI, Tableau, Looker Studio, Matplotlib<br><br>
         <strong>Bases de données & ETL :</strong> SQL, PostgreSQL, Snowflake, BigQuery, AWS, DBT<br><br>
         <strong>Modélisation & ML :</strong> Régression, Decision Tree, Feature Engineering, Scikit-Learn
       </p>
     </div>
-    <!-- Bloc Compétences Métier & Soft Skills -->
-    <div>
-      <h3 style="color: #159957; padding-bottom: 0.5rem;">🎯 Compétences Métier</h3>
-      <ul style="list-style: none; padding-left: 0; text-align: left;">
-        <li>• <strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong></li>
-        <li>• Définir et suivre des <strong>KPI métier</strong></li>
-        <li>• Raconter des histoires avec les données (<strong>Storytelling</strong>)</li>
-        <li>• Développer des <strong>solutions Business Intelligence</strong></li>
-        <li>• Travailler en <strong>méthode Agile</strong></li>
-      </ul>
-      <h3 style="color: #159957; padding-bottom: 0.5rem; margin-top: 1.5rem;">💪 Soft Skills</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-        <span class="skill-tag">Adaptabilité</span>
-        <span class="skill-tag">Esprit d'analyse</span>
-        <span class="skill-tag">Raisonnement analytique</span>
-        <span class="skill-tag">Autonomie</span>
-        <span class="skill-tag">Collaboration</span>
-        <span class="skill-tag">Pédagogie</span>
-        <span class="skill-tag">Curiosité intellectuelle</span>
-        <span class="skill-tag">Résolution de problèmes</span>
-      </div> 
-      <h3 style="color: #159957; padding-bottom: 0.5rem; margin-top: 1.5rem;">🌍 Langues</h3>
-      <p><strong>Français</strong> : langue maternelle<br>
-      <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p>
+    <!-- Logos -->
+    <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+      <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; width: auto;">
+      <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; width: auto;">
     </div>
+    <!-- Compétences Métier -->
+    <h3 style="color: #159957; padding-bottom: 0.5rem;">🎯 Compétences Métier</h3>
+    <ul style="list-style: none; padding-left: 0; margin: 1.5rem 0;">
+      <li>• <strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong></li>
+      <li>• Définir et suivre des <strong>KPI métier</strong></li>
+      <li>• Raconter des histoires avec les données (<strong>Storytelling</strong>)</li>
+      <li>• Développer des <strong>solutions Business Intelligence</strong></li>
+      <li>• Travailler en <strong>méthode Agile</strong></li>
+    </ul>
+    <!-- Soft Skills -->
+    <h3 style="color: #159957; padding-bottom: 0.5rem; margin-top: 2rem;">💪 Soft Skills</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.5rem 0;">
+      <span class="skill-tag">Adaptabilité</span>
+      <span class="skill-tag">Esprit d'analyse</span>
+      <span class="skill-tag">Raisonnement analytique</span>
+      <span class="skill-tag">Autonomie</span>
+      <span class="skill-tag">Collaboration</span>
+      <span class="skill-tag">Pédagogie</span>
+      <span class="skill-tag">Curiosité intellectuelle</span>
+      <span class="skill-tag">Résolution de problèmes</span>
+    </div> 
+    <!-- Langues -->
+    <h3 style="color: #159957; padding-bottom: 0.5rem; margin-top: 2rem;">🌍 Langues</h3>
+    <p><strong>Français</strong> : langue maternelle<br>
+    <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p>
   </div>
 </section>
+
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
