@@ -488,7 +488,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <div class="hr-sep"></div>
 
 <!-- Mes expériences professionnelles -->
-<section id="experiences" class="container mb-3" style="text-align: center;>
+<section id="experiences" class="container mb-3" style="text-align: center;">
   <header class="text-center" style="font-weight: bold;">
     <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
   </header><br>
