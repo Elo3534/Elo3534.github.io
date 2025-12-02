@@ -260,7 +260,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #e50914;">
           <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>NETFLIX – Analyse stratégique → → POWER BI & DAX – ONLYOFFICE</strong>
+          <strong>NETFLIX – Analyse stratégique<br>→ → POWER BI & DAX – ONLYOFFICE</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           Création d'un <strong>dashboard interactif Power BI</strong> avec mesures <strong>DAX</strong> avancées via <strong>Power Query</strong> pour analyser la stratégie de contenu de Netflix.
@@ -297,7 +297,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
           <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>AIRCRAFT – ..... → → ......................</strong></h2><br>
+          <strong>AIRCRAFT – .....<br>→ → ......................</strong></h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
@@ -330,7 +330,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
           <img src="assets/images/tinder.png" alt="Tinder" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>TINDER – Analyse inférentielle → → Python .............................</strong>
+          <strong>TINDER – Analyse inférentielle<br>→ → Python .............................</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
@@ -364,7 +364,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
           <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>ATTRITION CHEZ IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
+          <strong>ATTRITION CHEZ IBM – Analyse prédictive<br>→ → Tableau & Python – Microsoft Power Point et Word</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au <strong>feature engineering</strong>,
