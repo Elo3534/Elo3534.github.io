@@ -4,7 +4,7 @@ title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
 ---
 <style>
-/* Styles unifiés - Aucun changement visuel */
+/* Styles unifiés*/
 :root { --primary: #1abc9c; --secondary: #159957; }
 body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .text-center { text-align: center; }
@@ -24,6 +24,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
 .btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
+.experiences_ul {display: inline-block; text-align: left; margin-left: 0; padding-left: 1.5rem;}
 </style>
 
 <!-- En-tête avec photo -->
@@ -76,8 +77,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </nav>
 
-<!-- Séparation -->
-<hr class="hr-sep">
+<!--séparation-->
+<div class="hr-sep"></div>
 
 <!-- À propos -->
 <section id="apropos" class="container mb-3">
@@ -220,8 +221,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </footer>
 <div style="height: 0.3rem;"></div>
 
-<!-- Séparation -->
-<hr class="hr-sep">
+<!--séparation-->
+<div class="hr-sep"></div>
 
 <!-- Mes compétences -->
 <section id="competences" class="container mb-3">
@@ -244,8 +245,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </footer>
 <div style="height: 0.3rem;"></div>
 
-<!-- Séparation -->
-<hr class="hr-sep">
+<!--séparation-->
+<div class="hr-sep"></div>
 
 <!-- Mes projets DATA -->
 <section id="projets" class="container mb-3">
@@ -257,10 +258,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div class="project-card" style="border-color: #e50914;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #e50914;">
+        <h2 style="margin: 0 0 0.5rem 0; color: #e50914;">
           <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; vertical-align: middle; margin-right: 8px;">
           <strong>NETFLIX – Analyse stratégique → → POWER BI & DAX – ONLYOFFICE</strong>
-        </h3><br>
+        </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           Création d'un <strong>dashboard interactif Power BI</strong> avec mesures <strong>DAX</strong> avancées via <strong>Power Query</strong> pour analyser la stratégie de contenu de Netflix.
         </p>
@@ -294,9 +295,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div class="project-card" style="border-color: #4b75ffdb;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
+        <h2 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
           <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>AIRCRAFT – ..... → → ......................</strong></h3><br>
+          <strong>AIRCRAFT – ..... → → ......................</strong></h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
@@ -327,10 +328,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div class="project-card" style="border-color: #FF4B91;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
+        <h2 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
           <img src="assets/images/tinder.png" alt="Tinder" style="height: 60px; vertical-align: middle; margin-right: 8px;">
           <strong>TINDER – Analyse inférentielle → → Python .............................</strong>
-        </h3><br>
+        </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>................................</strong>
         </p>
@@ -361,10 +362,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div class="project-card" style="border-color: #4DA3FF;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
+        <h2 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
           <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>ATTRITION CHEZ IBM – Analyse prédictive → → Tableau & Python – Microsoft Power Point et Word</strong>
-        </h3><br>
+          <strong><p>ATTRITION CHEZ IBM – Analyse prédictive</p>
+          <p>→ → Tableau & Python – Microsoft Power Point et Word</strong></p>
+        </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au <strong>feature engineering</strong>,
           à l'analyse exploratoire (<strong>EDA</strong>) et à la modélisation prédictive (<strong>Machine Learning</strong>).
@@ -407,8 +409,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </footer>
 <div style="height: 0.3rem;"></div>
 
-<!-- Séparation -->
-<hr class="hr-sep">
+<!--séparation-->
+<div class="hr-sep"></div>
 
 <!-- Mes formations et certifications -->
 <section id="formation" class="container mb-3">
@@ -423,11 +425,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <h2 style="color: #1F77B4; text-align: center;"><strong>📈 Parcours DATA</strong></h2>
       <div class="content-block">
         <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3>
+        <p><strong>Montpellier — Novembre 2025</strong></p>
         <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
           Analyse exploratoire, descriptive et inférentielle de données.<br>
           Direction de projets de gestion de données.
         </p>
-        <p><strong>Montpellier — 2025</strong></p>
         <p style="color: #555;">
           Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
           Formation en <strong>Bootcamp : FULLSTACK DATA ANALYSIS</strong> chez Jedha Academy
@@ -441,8 +443,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <div style="height: 0.3rem;"></div>
     <!-- Parcours scientifique -->
-    <div class="timeline-section" style="border-color: #3498db;">
-      <h2 style="color: #3498db; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>
+    <div class="timeline-section" style="border-color: #1bcafaff;">
+      <h2 style="color: #1bcafaff; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>
       <div class="content-block">
         <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
         <p><strong>Angers — 2010</strong></p>
@@ -484,24 +486,24 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </footer>
 <div style="height: 0.3rem;"></div>
 
-<!-- Séparation -->
-<hr class="hr-sep">
+<!--séparation-->
+<div class="hr-sep"></div>
 
 <!-- Mes expériences professionnelles -->
-<section id="experiences" class="container mb-3">
+<section id="experiences" class="container mb-3" style="text-align: center;>
   <header class="text-center" style="font-weight: bold;">
     <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
   </header><br>
 
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
     <!-- Expériences en Laboratoire -->
-    <div class="timeline-section" style="border-color: #3498DB;">
-      <h2 style="color: #3498DB; margin-bottom: 1rem; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>
+    <div class="timeline-section" style="border-color: #1bcafaff;">
+      <h2 style="color: #1bcafaff; margin-bottom: 1rem; text-align: center; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2017 - Lycée privé – Aix-en-Provence - 7 ans</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">2017 — Lycée privé — Aix-en-Provence — 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
+        <ul class="experiences_ul" style="color: #555;">
           <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
           <li>Mise en sécurité des laboratoires</li>
           <li>Gestion du budget</li>
@@ -512,12 +514,12 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       </div>
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2010 - INRAE - Angers - 3 ans</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">2010 — INRAE — Angers — 3 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
           <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em>
         </p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
+        <ul class="experiences_ul" style="color: #555;">
           <li>Conception et mise au point de protocoles de cytogénétique moléculaire et de cytométrie de flux</li>
           <li>Analyses sur 8 genres de plantes ornementales</li>
           <li>Analyses statistiques inférentielles</li>
@@ -527,7 +529,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <li>Collaboration avec équipes pluridisciplinaires et partenaires externes</li>
         </ul>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Réalisations marquantes :</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem; text-align: justify;">
+        <ul class="experiences_ul" style="color: #555;">
           <li>Mise en place, maintenance, formation et accompagnement des utilisateurs et complète autonomie sur un cytomètre en flux, en microscopie à fluorescence</li>
           <li>Organisation des laboratoires de cytologie, de microscopie à fluorescence, de cytométrie de flux : rédaction de manuels utilisateurs, formation et accompagnement des utilisateurs, gestion des stocks, des commandes et des budgets liés aux laboratoires</li>
           <li>Participation à des conférences internationales (Prague 2012, Paris 2011, Montpellier 2010)</li>
@@ -536,11 +538,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Expériences en industrie -->
     <div class="timeline-section" style="border-color: #FF8C00;">
-      <h2 style="color: #FF8C00; margin-bottom: 1rem; font-weight: bold;">🏭 Expériences antérieures en industrie</h2>
+      <h2 style="color: #FF8C00; margin-bottom: 1rem; text-align: center; font-weight: bold;">🏭 Expériences antérieures en industrie</h2>
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées et <span style="text-transform: uppercase; font-size: 1.1em;">opératrice</span> de fabrication</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2002-2017 - Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
+        <p style="color: #555; margin: 0 0 1rem 0;">Entre 2002 et 2017 — Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
+        <ul class="experiences_ul" style="color: #555;">
           <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
           <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
           <li>Polyvalence et adaptation à différents environnements industriels</li>
@@ -549,13 +551,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Stages professionnels -->
     <div class="timeline-section" style="border-color: #8E44AD;">
-      <h2 style="color: #8E44AD; margin-bottom: 1rem; font-weight: bold;">📚 Stages professionnels</h2>
+      <h2 style="color: #8E44AD; margin-bottom: 1rem; text-align: center; font-weight: bold;">📚 Stages professionnels</h2>
       <div class="content-block">
-        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
+        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle — 2010 (4 mois par demande de prolongement)</p>
         <p>AgroCampus-Ouest, Angers</p>
         <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p></div>
       <div class="content-block">
-        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
+        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT — 2009 (3 mois par demande de prolongement)</p>
         <p>Centre de lutte contre le cancer, Clermont-Ferrand</p>
         <p style="text-align: justify;">Etude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).</p>
       </div>
@@ -573,8 +575,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </footer>
 <div style="height: 0.3rem;"></div>
 
-<!-- Séparation -->
-<hr class="hr-sep">
+<!--séparation-->
+<div class="hr-sep"></div>
 
 <!-- Mon contact -->
 <section id="contact" class="container mb-3">
