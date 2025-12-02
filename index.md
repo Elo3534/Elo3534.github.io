@@ -24,7 +24,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
 .btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
-.experiences_ul {display: inline-block; text-align: left; margin-left: 0; padding-left: 1.5rem;}
 </style>
 
 <!-- En-tête avec photo -->
@@ -503,7 +502,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">2017 — Lycée privé — Aix-en-Provence — 7 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
-        <ul class="experiences_ul" style="color: #555;">
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
           <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
           <li>Mise en sécurité des laboratoires</li>
           <li>Gestion du budget</li>
@@ -519,7 +518,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em>
         </p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
-        <ul class="experiences_ul" style="color: #555;">
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
           <li>Conception et mise au point de protocoles de cytogénétique moléculaire et de cytométrie de flux</li>
           <li>Analyses sur 8 genres de plantes ornementales</li>
           <li>Analyses statistiques inférentielles</li>
@@ -529,7 +528,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <li>Collaboration avec équipes pluridisciplinaires et partenaires externes</li>
         </ul>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Réalisations marquantes :</p>
-        <ul class="experiences_ul" style="color: #555;">
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem; text-align: justify;">
           <li>Mise en place, maintenance, formation et accompagnement des utilisateurs et complète autonomie sur un cytomètre en flux, en microscopie à fluorescence</li>
           <li>Organisation des laboratoires de cytologie, de microscopie à fluorescence, de cytométrie de flux : rédaction de manuels utilisateurs, formation et accompagnement des utilisateurs, gestion des stocks, des commandes et des budgets liés aux laboratoires</li>
           <li>Participation à des conférences internationales (Prague 2012, Paris 2011, Montpellier 2010)</li>
@@ -542,7 +541,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées et <span style="text-transform: uppercase; font-size: 1.1em;">opératrice</span> de fabrication</h3>
         <p style="color: #555; margin: 0 0 1rem 0;">Entre 2002 et 2017 — Ipsen BioPharma — Valeo — Canon — Thalès Microelectronics — Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
-        <ul class="experiences_ul" style="color: #555;">
+        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
           <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
           <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
           <li>Polyvalence et adaptation à différents environnements industriels</li>
