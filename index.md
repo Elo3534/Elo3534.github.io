@@ -19,7 +19,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 14px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; }
+.skill-tag { display: inline-block; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; line-height: 1.2;  white-space: nowrap;}
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -321,11 +321,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
         </div>        
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Power Query</span>
-          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Data Modeling</span>
-          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Dashboard</span>
-          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Visualisation</span>
-          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #e50914;">Power Query</span>
+          <span class="skill-tag" style="background: #e50914;">Data Modeling</span>
+          <span class="skill-tag" style="background: #e50914;">Dashboard</span>
+          <span class="skill-tag" style="background: #e50914;">Visualisation</span>
+          <span class="skill-tag" style="background: #e50914;">Analyse exploratoire EDA</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
@@ -360,10 +360,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
         </div>  
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">......</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">......</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
@@ -404,9 +404,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
         </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #FF4B91; vertical-align: middle;">Analyse exploratoire EDA</span>
-          <span class="skill-tag" style="background: #FF4B91; vertical-align: middle;">Analyse descriptive</span>
-          <span class="skill-tag" style="background: #FF4B91; vertical-align: middle;">Analyse inférentielle</span>
+          <span class="skill-tag" style="background: #FF4B91;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #FF4B91;">Analyse descriptive</span>
+          <span class="skill-tag" style="background: #FF4B91;">Analyse inférentielle</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
@@ -449,11 +449,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
         </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Machine Learning</span>
-          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Feature Engineering</span>
-          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Analyse Prédictive</span>
-          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Analyse exploratoire EDA</span>
-          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Microsoft Office</span>
+          <span class="skill-tag" style="background: #4DA3FF;">Machine Learning</span>
+          <span class="skill-tag" style="background: #4DA3FF;">Feature Engineering</span>
+          <span class="skill-tag" style="background: #4DA3FF;">Analyse Prédictive</span>
+          <span class="skill-tag" style="background: #4DA3FF;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #4DA3FF;">Microsoft Office</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
