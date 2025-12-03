@@ -19,7 +19,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 14px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; line-height: 1.2;  white-space: nowrap;}
+.skill-tag { display: inline-block; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; line-height: 1.2;  white-space: nowrap; height: 24px; box-sizing: border-box;}
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -233,23 +233,38 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div style="max-width: 700px; margin: 2rem auto 0;">
     <!-- Bloc Techniques -->
     <div>
-      <h2>📊📈 Techniques</h2>
+      <h2>📈 Techniques</h2>
       <p style="text-align: left; margin: 1rem 0;">
-            <!-- Logos -->
-    <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
-      <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; width: auto;">
-      <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; width: auto;">
-    </div>
-        <strong>Analyse & Traitement :</strong> Python (Pandas, NumPy, Statsmodels), Excel, Power Query, DAX<br><br>
-        <strong>Visualisation & BI :</strong> Power BI, Tableau, Looker Studio, Matplotlib<br><br>
-        <strong>Bases de données & ETL :</strong> SQL, PostgreSQL, Snowflake, BigQuery, AWS, DBT<br><br>
-        <strong>Modélisation & ML :</strong> Régression, Decision Tree, Feature Engineering, Scikit-Learn
+        <strong>Analyse & Traitement :</strong> Python (Pandas, NumPy, Statsmodels), Excel, Power Query, DAX
+          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+            <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
+            <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
+            <img src="assets/images/NumPy.png" alt="NumPy" style="height: 60px; width: auto;">        
+            <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;">
+            <img src="assets/images/Excel.jpg" alt="Excel" style="height: 60px; width: auto;">
+            <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 60px; width: auto;">
+            <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
+          </div><br><br>
+        <strong>Visualisation & BI :</strong> Power BI, Tableau, Looker Studio, Matplotlib
+          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+            <img src="assets/images/Power_BI.png" alt="Power BI" style="height: 60px; width: auto;">
+            <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
+            <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 60px; width: auto;">     
+            <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
+          </div><br><br>
+        <strong>Bases de données & ETL :</strong> SQL, MySQL, Snowflake, DBT
+          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+            <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
+            <img src="assets/images/MySQL.png" alt="Tableau" style="height: 60px; width: auto;">
+            <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">     
+            <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
+          </div><br><br>
+        <strong>Modélisation & ML :</strong> Régression, Decision Tree, Feature Engineering, Scikit-Learn, Dataiku
+          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+            <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 60px; width: auto;">            
+            <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 60px; width: auto;">
+          </div><br><br>
       </p>
-    </div>
-    <!-- Logos -->
-    <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
-      <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; width: auto;">
-      <img src="assets/images/netflix.png" alt="Netflix" style="height: 60px; width: auto;">
     </div>
     <!-- Compétences Métier -->
     <h2>🎯 Compétences Métier</h2>
@@ -354,7 +369,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
-        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
           <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
           <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
           <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
