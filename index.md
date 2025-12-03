@@ -264,7 +264,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 60px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 60px; width: auto;">
           </div>
-      </p>
+      </p><br>
     </div>
     <!-- Compétences Métier -->
     <h2>🎯 Compétences Métier</h2>
@@ -290,7 +290,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <!-- Langues -->
     <h2>🌍 Langues</h2>
     <p><strong>Français</strong> : langue maternelle<br>
-    <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p><br><br>
+    <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p><br>
   </div>
 </section>
 
