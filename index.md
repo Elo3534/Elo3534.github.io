@@ -234,8 +234,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <!-- Bloc Techniques -->
     <div>
       <h2>📈 Techniques</h2><br><br>
-      <p style="text-align: left; margin: 1rem 0;">
-        <strong>Analyse & Traitement :</strong> Python, Pandas, NumPy, Statsmodels, Excel, Power Query, DAX<br><br>  
+      <p style="text-align: center; margin: 1rem 0;">
+        <strong>Analyse & Traitement :</strong><br>Python, Pandas, NumPy, Statsmodels, Excel, Power Query, DAX<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
@@ -244,26 +244,26 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/Excel.jpg" alt="Excel" style="height: 60px; width: auto;">
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 60px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
-          </div><br><br>
-        <strong>Visualisation & BI :</strong> Power BI, Tableau, Looker Studio, Matplotlib<br><br>  
+          </div><br>
+        <strong>Visualisation & BI :</strong><br>Power BI, Tableau, Looker Studio, Matplotlib<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 60px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 60px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
-          </div><br><br>
-        <strong>Bases de données & ETL :</strong> SQL, MySQL, Snowflake, DBT<br><br>  
+          </div><br>
+        <strong>Bases de données & ETL :</strong><br>SQL, MySQL, Snowflake, DBT<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 60px; width: auto;">
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
-          </div><br><br>
-        <strong>Modélisation & ML :</strong> Régression, Decision Tree, Feature Engineering, Scikit-Learn, Dataiku<br><br>  
+          </div><br>
+        <strong>Modélisation & ML :</strong><br>Régression, Decision Tree, Feature Engineering, Scikit-Learn, Dataiku<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 60px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 60px; width: auto;">
-          </div><br><br>
+          </div>
       </p>
     </div>
     <!-- Compétences Métier -->
@@ -274,7 +274,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <li>• Raconter des histoires avec les données (<strong>Storytelling</strong>)</li>
       <li>• Développer des <strong>solutions Business Intelligence</strong></li>
       <li>• Travailler en <strong>méthode Agile</strong></li>
-    </ul><br><br>  
+    </ul><br> 
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
     <div style="text-align: center; margin: 1.5rem 0;">
@@ -286,11 +286,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <span class="skill-tag">Pédagogie</span>
       <span class="skill-tag">Curiosité intellectuelle</span>
       <span class="skill-tag">Résolution de problèmes</span>
-    </div><br><br>   
+    </div><br> 
     <!-- Langues -->
     <h2>🌍 Langues</h2>
     <p><strong>Français</strong> : langue maternelle<br>
-    <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p>
+    <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p><br><br>
   </div>
 </section>
 
