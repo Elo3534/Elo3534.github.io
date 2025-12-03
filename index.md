@@ -280,7 +280,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <div style="text-align: center; margin: 1.5rem 0;">
       <span class="skill-tag">Raisonnement analytique</span>
       <span class="skill-tag">Esprit d'analyse</span>
-      <span class="skill-tag;">Adaptabilité</span>
+      <span class="skill-tag">Adaptabilité</span>
       <span class="skill-tag">Autonomie</span>
       <span class="skill-tag">Collaboration</span>
       <span class="skill-tag">Pédagogie</span>
