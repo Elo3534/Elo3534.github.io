@@ -19,7 +19,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 14px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-flex; align-items: center; justify-content: center; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: baseline; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box;}
+.skill-tag { display: inline-flex; align-items: center; justify-content: center; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box; line-height: 1;}
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -235,7 +235,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <div>
       <h2>📈 Techniques</h2><br><br>
       <p style="text-align: left; margin: 1rem 0;">
-        <strong>Analyse & Traitement :</strong> Python (Pandas, NumPy, Statsmodels), Excel, Power Query, DAX<br>
+        <strong>Analyse & Traitement :</strong> Python, Pandas, NumPy, Statsmodels, Excel, Power Query, DAX<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
@@ -245,21 +245,21 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 60px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
           </div><br><br>
-        <strong>Visualisation & BI :</strong> Power BI, Tableau, Looker Studio, Matplotlib<br>
+        <strong>Visualisation & BI :</strong> Power BI, Tableau, Looker Studio, Matplotlib<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 60px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 60px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
           </div><br><br>
-        <strong>Bases de données & ETL :</strong> SQL, MySQL, Snowflake, DBT<br>
+        <strong>Bases de données & ETL :</strong> SQL, MySQL, Snowflake, DBT<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 60px; width: auto;">
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
           </div><br><br>
-        <strong>Modélisation & ML :</strong> Régression, Decision Tree, Feature Engineering, Scikit-Learn, Dataiku<br>
+        <strong>Modélisation & ML :</strong> Régression, Decision Tree, Feature Engineering, Scikit-Learn, Dataiku<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 60px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 60px; width: auto;">
@@ -274,11 +274,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <li>• Raconter des histoires avec les données (<strong>Storytelling</strong>)</li>
       <li>• Développer des <strong>solutions Business Intelligence</strong></li>
       <li>• Travailler en <strong>méthode Agile</strong></li>
-    </ul>
+    </ul><br><br>  
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.5rem 0; vertical-align: middle;">
-      <span class="skill-tag; white-space: nowrap;">Adaptabilité</span>
+      <span class="skill-tag;">Adaptabilité</span>
       <span class="skill-tag">Esprit d'analyse</span>
       <span class="skill-tag">Raisonnement analytique</span>
       <span class="skill-tag">Autonomie</span>
@@ -286,7 +286,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <span class="skill-tag">Pédagogie</span>
       <span class="skill-tag">Curiosité intellectuelle</span>
       <span class="skill-tag">Résolution de problèmes</span>
-    </div> 
+    </div><br><br>     
     <!-- Langues -->
     <h2>🌍 Langues</h2>
     <p><strong>Français</strong> : langue maternelle<br>
@@ -336,7 +336,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
         </div>        
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #e50914; white-space: nowrap;">Power Query</span>
+          <span class="skill-tag" style="background: #e50914;">Power Query</span>
           <span class="skill-tag" style="background: #e50914;">Data Modeling</span>
           <span class="skill-tag" style="background: #e50914;">Dashboard</span>
           <span class="skill-tag" style="background: #e50914;">Visualisation</span>
@@ -375,7 +375,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
         </div>  
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4b75ffdb; white-space: nowrap;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
           <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
           <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
           <span class="skill-tag" style="background: #4b75ffdb;">......</span>
@@ -419,7 +419,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
         </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #FF4B91; white-space: nowrap;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #FF4B91;">Analyse exploratoire EDA</span>
           <span class="skill-tag" style="background: #FF4B91;">Analyse descriptive</span>
           <span class="skill-tag" style="background: #FF4B91;">Analyse inférentielle</span>
         </div>
@@ -464,7 +464,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
         </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4DA3FF; white-space: nowrap;">Machine Learning</span>
+          <span class="skill-tag" style="background: #4DA3FF;">Machine Learning</span>
           <span class="skill-tag" style="background: #4DA3FF;">Feature Engineering</span>
           <span class="skill-tag" style="background: #4DA3FF;">Analyse Prédictive</span>
           <span class="skill-tag" style="background: #4DA3FF;">Analyse exploratoire EDA</span>
