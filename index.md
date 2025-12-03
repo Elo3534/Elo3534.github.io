@@ -356,7 +356,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
           <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
-          <img src="assets/images/DBT.PNG" alt="DBT" style="height: 60px; width: auto;">
+          <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
           <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
         </div>  
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
@@ -396,10 +396,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
           <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
           <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
-          <img src="assets/images/Plotly.png" alt="Plotly" style="height: 60px; width: auto;">          
+          <img src="assets/images/Plotly.png" alt="Plotly" style="height: 60px; width: auto;"><br>         
           <img src="assets/images/scipy.png" alt="SciPy" style="height: 60px; width: auto;">
           <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
-          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;">
+          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;"><br>
           <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;">
           <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
         </div>
@@ -441,10 +441,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
           <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
           <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
-          <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;">          
+          <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;"><br>          
           <img src="assets/images/scipy.png" alt="SciPy" style="height: 60px; width: auto;">                 
           <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
-          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;">
+          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;"><br>
           <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
           <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
         </div>
