@@ -233,7 +233,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div style="max-width: 700px; margin: 2rem auto 0;">
     <!-- Bloc Techniques -->
     <div>
-      <h2>📈 Techniques</h2><br><br>
+      <h2>📈 Techniques</h2><br>
       <p style="text-align: center; margin: 1rem 0;">
         <strong>Analyse & Traitement :</strong><br>Python, Pandas, NumPy, Statsmodels, Excel, Power Query, DAX<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
