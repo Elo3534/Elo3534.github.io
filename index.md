@@ -18,7 +18,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .contact-icon img { width: 30px; height: 30px; }
 .nav-btn { display: inline-block; padding: 6px 14px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
-.project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; }
+.project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
 .skill-tag { display: inline-block; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; }
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
