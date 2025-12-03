@@ -397,14 +397,14 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
           <img src="assets/images/tinder.png" alt="Tinder" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>TINDER – Analyse inférentielle<br>→ → Python .............................</strong>
+          <strong>TINDER – Analyse inférentielle<br>→ → Python, Pandas, NumPy, Statsmodels, SciPy, Matplotlib, Seaborn, Plotly</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
-          <strong>................................</strong>
+          <strong>Analyse descriptive et inférentielle sur les critères de sélection lors de speed-dating expérimentaux.</strong>
         </p>
         <div style="height: 0.3rem;"></div>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
-          <em><strong>Objectif métier :</strong> ..................</em>
+          <em><strong>Objectif métier :</strong>Optimiser la stratégie de matching en identifiant les critères de sélection réels, au-delà des déclarations, pour améliorer la pertinence des recommandations par l'application et ainsi l'engagement des abonnés.</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
