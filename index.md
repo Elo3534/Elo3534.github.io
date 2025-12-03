@@ -316,9 +316,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+          <img src="assets/images/Power_BI.png" alt="Power BI" style="height: 60px; width: auto;">
+          <img src="assets/images/DAX.png" alt="DAX" style="height: 60px; width: auto;">
+        </div>        
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #e50914;">Power BI</span>
-          <span class="skill-tag" style="background: #e50914;">DAX</span>
           <span class="skill-tag" style="background: #e50914;">Power Query</span>
           <span class="skill-tag" style="background: #e50914;">Data Modeling</span>
           <span class="skill-tag" style="background: #e50914;">Dashboard</span>
@@ -352,6 +354,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+          <img src="assets/images/SQL.png" alt="SQL" style="height: 60px; width: auto;">
+          <img src="assets/images/DBT.png" alt="DBT" style="height: 60px; width: auto;">
+          <img src="assets/images/Snowflake.png" alt="Snowflake" style="height: 60px; width: auto;">
+        </div>  
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
           <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
@@ -386,8 +393,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+          <img src="assets/images/Python.png" alt="Python" style="height: 60px; width: auto;">
+          <img src="assets/images/pandas.png" alt="Pandas" style="height: 60px; width: auto;">
+          <img src="assets/images/Plotly.png" alt="Plotly" style="height: 60px; width: auto;">          
+          <img src="assets/images/scipy.png" alt="SciPy" style="height: 60px; width: auto;">
+          <img src="assets/images/matplotlib.png" alt="Matplotlib" style="height: 60px; width: auto;">
+          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;">
+          <img src="assets/images/statsmodels.png" alt="Statsmodels" style="height: 60px; width: auto;">
+          <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
+        </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #FF4B91;">Python</span>
           <span class="skill-tag" style="background: #FF4B91;">Analyse exploratoire EDA</span>
           <span class="skill-tag" style="background: #FF4B91;">Analyse descriptive</span>
           <span class="skill-tag" style="background: #FF4B91;">Analyse inférentielle</span>
@@ -422,13 +438,21 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+          <img src="assets/images/Python.png" alt="Python" style="height: 60px; width: auto;">
+          <img src="assets/images/pandas.png" alt="Pandas" style="height: 60px; width: auto;">
+          <img src="assets/images/statsmodels.png" alt="Statsmodels" style="height: 60px; width: auto;">          
+          <img src="assets/images/scipy.png" alt="SciPy" style="height: 60px; width: auto;">                 
+          <img src="assets/images/matplotlib.png" alt="Matplotlib" style="height: 60px; width: auto;">
+          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;">
+          <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
+          <img src="assets/images/Tableau.png" alt="Tableau" style="height: 60px; width: auto;">
+        </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #4DA3FF;">Machine Learning</span>
           <span class="skill-tag" style="background: #4DA3FF;">Feature Engineering</span>
           <span class="skill-tag" style="background: #4DA3FF;">Analyse Prédictive</span>
           <span class="skill-tag" style="background: #4DA3FF;">Analyse exploratoire EDA</span>
-          <span class="skill-tag" style="background: #4DA3FF;">Tableau</span>
-          <span class="skill-tag" style="background: #4DA3FF;">Python</span>
           <span class="skill-tag" style="background: #4DA3FF;">Microsoft Office</span>
         </div>
         <div style="height: 0.3rem;"></div>
