@@ -262,7 +262,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </ul>
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.5rem 0;">
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.5rem 0; vertical-align: middle;">
       <span class="skill-tag">Adaptabilité</span>
       <span class="skill-tag">Esprit d'analyse</span>
       <span class="skill-tag">Raisonnement analytique</span>
@@ -321,11 +321,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
         </div>        
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #e50914;">Power Query</span>
-          <span class="skill-tag" style="background: #e50914;">Data Modeling</span>
-          <span class="skill-tag" style="background: #e50914;">Dashboard</span>
-          <span class="skill-tag" style="background: #e50914;">Visualisation</span>
-          <span class="skill-tag" style="background: #e50914;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Power Query</span>
+          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Data Modeling</span>
+          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Dashboard</span>
+          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Visualisation</span>
+          <span class="skill-tag" style="background: #e50914; vertical-align: middle;">Analyse exploratoire EDA</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
@@ -360,10 +360,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
         </div>  
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb;">......</span>
+          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">.....</span>
+          <span class="skill-tag" style="background: #4b75ffdb; vertical-align: middle;">......</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
@@ -393,7 +393,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
-        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
           <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
           <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
           <img src="assets/images/Plotly.png" alt="Plotly" style="height: 60px; width: auto;"><br>         
@@ -404,9 +404,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
         </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #FF4B91;">Analyse exploratoire EDA</span>
-          <span class="skill-tag" style="background: #FF4B91;">Analyse descriptive</span>
-          <span class="skill-tag" style="background: #FF4B91;">Analyse inférentielle</span>
+          <span class="skill-tag" style="background: #FF4B91; vertical-align: middle;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #FF4B91; vertical-align: middle;">Analyse descriptive</span>
+          <span class="skill-tag" style="background: #FF4B91; vertical-align: middle;">Analyse inférentielle</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
@@ -438,7 +438,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
-        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
+        <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
           <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
           <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
           <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;"><br>          
@@ -449,11 +449,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
         </div>
         <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4DA3FF;">Machine Learning</span>
-          <span class="skill-tag" style="background: #4DA3FF;">Feature Engineering</span>
-          <span class="skill-tag" style="background: #4DA3FF;">Analyse Prédictive</span>
-          <span class="skill-tag" style="background: #4DA3FF;">Analyse exploratoire EDA</span>
-          <span class="skill-tag" style="background: #4DA3FF;">Microsoft Office</span>
+          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Machine Learning</span>
+          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Feature Engineering</span>
+          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Analyse Prédictive</span>
+          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #4DA3FF; vertical-align: middle;">Microsoft Office</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
