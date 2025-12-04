@@ -359,13 +359,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
           <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>AIRCRAFT – .....<br>→ → ......................</strong></h2><br>
+          <strong>AIRCRAFT – Infrastructure de données et analyse descriptive<br>→ → SQL – Snowflake – DBT – Deepnote</strong></h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
-          <strong>................................</strong>
+          <strong>Construction de l'infrastructure des données et analyses pour le secteur aérien, intérêt pour l'efficacité opérationnelle de la flotte, la charge des aéroports et la performance financière historique des compagnies aériennes.</strong>
         </p>
         <div style="height: 0.3rem;"></div>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
-          <em><strong>Objectif métier :</strong> ..................</em>
+          <em><strong>Objectif métier :</strong>Évaluer les ressources opérationnelles (flotte, aéroports) et identifier des leviers de croissance afin d'améliorer les performances des aéroports et des compagnies aériennes à l'étude.</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -373,6 +373,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
           <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
           <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
+          <img src="assets/images/deepnote.png" alt="Deepnote" style="height: 60px; width: auto;">
         </div>  
         <div style="text-align: center; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
@@ -397,7 +398,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
           <img src="assets/images/tinder.png" alt="Tinder" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>TINDER – Analyse inférentielle<br>→ → Python, Pandas, NumPy, Statsmodels, SciPy, Matplotlib, Seaborn, Plotly</strong>
+          <strong>TINDER – Analyse inférentielle<br>→ → Python – Pandas – NumPy – Statsmodels – SciPy – Matplotlib – Seaborn – Plotly – SciKit-Learn</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Analyse descriptive et inférentielle sur les critères de sélection lors de speed-dating expérimentaux.</strong>
@@ -440,7 +441,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
           <img src="assets/images/ibm.png" alt="IBM" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>ATTRITION CHEZ IBM – Analyse prédictive<br>→ → Tableau & Python – Microsoft Power Point et Word</strong>
+          <strong>ATTRITION CHEZ IBM – Analyse prédictive<br>→ → Tableau & Python – Microsoft Power Point – Word</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Identification des drivers d'attrition</strong> chez IBM grâce au <strong>feature engineering</strong>,
