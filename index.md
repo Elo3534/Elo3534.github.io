@@ -376,15 +376,16 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/deepnote.png" alt="Deepnote" style="height: 60px; width: auto;">
         </div>  
         <div style="text-align: center; margin: 1.5rem 0;">
-          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb;">.....</span>
-          <span class="skill-tag" style="background: #4b75ffdb;">......</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">Data Engineering</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">Schéma en étoile</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">Documentation</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">Analyse exploratoire EDA</span>
+          <span class="skill-tag" style="background: #4b75ffdb;">Analyse descriptive</span>
         </div>
         <div style="height: 0.3rem;"></div>
         <!-- Bouton centré -->
         <div style="text-align: center; margin-top: 1rem;">
-          <a href="https://github.com/Elo3534/...................." target="_blank" class="nav-btn">
+          <a href="https://github.com/Elo3534/Aircraft_DBT_SNOWFLAKE" target="_blank" class="nav-btn">
             👨‍💻 Voir le projet sur GitHub
           </a>
         </div>
