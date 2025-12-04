@@ -359,7 +359,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
           <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
-          <strong>AIRCRAFT – Infrastructure de données et analyse descriptive<br>→ → SQL – Snowflake – DBT – Deepnote</strong></h2><br>
+          <strong>AIRCRAFT – Infrastructure des données et analyse<br>→ → SQL – Snowflake – DBT – Deepnote</strong></h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
           <strong>Construction de l'infrastructure des données et analyses pour le secteur aérien, intérêt pour l'efficacité opérationnelle de la flotte, la charge des aéroports et la performance financière historique des compagnies aériennes.</strong>
         </p>
