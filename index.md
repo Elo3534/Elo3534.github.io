@@ -55,7 +55,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <img src="assets/images/github.png" alt="GitHub">
   </a>
   <!-- CV -->
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="contact-icon" title="Mon CV">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="contact-icon" title="Mon CV">
     <img src="assets/images/cv.png" alt="CV">
   </a>
   <!-- Localisation -->
@@ -213,7 +213,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="btn-cv">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
     📄 Téléchargez mon CV
   </a><br>
 
@@ -297,7 +297,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="btn-cv">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
     📄 Téléchargez mon CV
   </a><br>
 
@@ -486,7 +486,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="btn-cv">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
     📄 Téléchargez mon CV
   </a><br>
 
@@ -563,7 +563,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="btn-cv">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
     📄 Téléchargez mon CV
   </a><br>
 
@@ -653,7 +653,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="btn-cv">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
     📄 Téléchargez mon CV
   </a><br>
 
@@ -751,7 +751,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="https://github.com/Elo3534" target="_blank" class="contact-icon" title="Mon GitHub">
     <img src="assets/images/github.png" alt="GitHub">
   </a>
-  <a href="/assets/pdf/CV_Elodie_HEINRY.pdf" target="_blank" class="contact-icon" title="Mon CV">
+  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="contact-icon" title="Mon CV">
     <img src="assets/images/cv.png" alt="CV">
   </a>
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" class="contact-icon" title="Ma localisation">
