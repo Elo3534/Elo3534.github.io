@@ -323,7 +323,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <strong>NETFLIX – Analyse stratégique<br>→ → POWER BI & DAX – ONLYOFFICE</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
-          Création d'un <strong>dashboard interactif Power BI</strong> avec mesures <strong>DAX</strong> avancées via <strong>Power Query</strong> pour analyser la stratégie de contenu de Netflix.
+          Création d'un <strong>dashboard interactif Power BI</strong> pour analyser la stratégie de contenu de Netflix, incluant des mesures <strong>DAX</strong> avancées sur un modèle de données préparé avec <strong>Power Query</strong>.
         </p>
         <div style="height: 0.3rem;"></div>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
