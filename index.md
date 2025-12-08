@@ -758,3 +758,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <img src="assets/images/localisation.png" alt="Localisation">
   </a>
 </nav>
+<footer>
+  &copy; 2025 Élodie HEINRY – Tous droits réservés
+</footer>
