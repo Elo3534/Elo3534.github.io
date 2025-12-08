@@ -74,7 +74,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="#contact" class="nav-btn">Contact</a>
   <br>
   <br>
-  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
+  <strong>Disponible pour un CDI/CDD en tant que Data Analyst / Analytics Engineer sur Montpellier et alentours</strong>
 </nav>
 
 <!--séparation-->
@@ -87,19 +87,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </header>
 
   <article class="text-center">
-    <p>Je suis <strong>Data Analyst</strong>, avec un parcours scientifique axé sur l'analyse et l'expérimentation.<br>
-    Je transforme la donnée en <strong>outils décisionnels simples, fiables, élégants, utiles et actionnables.</strong><br>
-    Avec deux reconversions réussies et une expérience scientifique solide en laboratoire, mon parcours démontre des qualités précieuses dans le domaine de la Data :</p>
-    <div style="height: 0.3rem;"></div>
-    <ul style="text-align: left; display: inline-block;">
-      <li>ma <strong>persévérance</strong> et ma <strong>motivation</strong> face aux défis complexes,</li>
-      <li>ma <strong>forte capacité d'adaptation</strong> et <strong>d'apprentissage</strong>,</li>
-      <li>ma <strong>curiosité intellectuelle</strong> toujours en éveil.</li>
-    </ul>
+    <p><strong>Reconvertie après un bootcamp intensif (Jedha), je combine <strong>rigueur technique</strong>, <strong>autonomie</strong>, et <strong>orientation résultats</strong>.<br>
+    Data Analyst orientée décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>.<br>
+    J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
+    Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation et de la preuve</strong>.<br>
+    Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
+    Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement exigeant et collaboratif.</p>
   </article><br><br>
-
-  <article class="text-center">
-  <h2>🧩 Ce qui me définit</h2>
 
   <div style="display: inline-block; text-align: center; margin-left: 29px;">
     <table style="border-collapse: collapse; border: none; margin: 0 auto;">
@@ -172,43 +166,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </tr>
       </tbody>
     </table>
-  </div>
-</article><br><br>
-
-  <article class="text-center">
-    <h2>🚀 Ma valeur ajoutée</h2>
-    <p>
-      ✔ <strong>Définir une stratégie data</strong> alignée sur les objectifs métier et orientée vers la création de valeur.<br>
-          <div style="height: 0.1rem;"></div>
-      ✔ <strong>Traduire des données complexes</strong> en insights clairs et compréhensibles pour une prise de décision éclairée.<br>
-          <div style="height: 0.1rem;"></div>
-      ✔ Allier <strong>expertise technique</strong> (SQL, Python, outils de BI type Power BI) et <strong>pédagogie</strong> pour autonomiser les équipes.<br>
-          <div style="height: 0.1rem;"></div>
-      ✔ <strong>Concevoir et déployer</strong> des tableaux de bord et des outils d'aide à la décision fiables, documentés et évolutifs.<br>
-          <div style="height: 0.1rem;"></div>
-      ✔ <strong>Garantir</strong> une profonde rigueur analytique et méthodologique sur l'ensemble des processus.
-    </p>
-  </article><br><br>
-
-  <article class="text-center">
-    <h2>🌱 Ce que je recherche</h2>
-    <p>Un poste de <strong>Data Analyst</strong> dans un <strong>environnement exigeant</strong> où la data est au cœur de la stratégie et de la prise de décision.<br>
-        <div style="height: 0.1rem;"></div>
-      Je souhaite m'investir dans des projets <strong>concrets</strong>, à <strong>fort impact</strong>, alliant <strong>logique</strong>, <strong>innovation</strong> et <strong>travail d'équipe.</strong></p>
-  </article><br><br>
-
-  <article class="text-center">
-    <h2>📌 Ma méthodologie</h2>
-    <p>
-      <strong>Comprendre le besoin</strong><br>
-      <strong>↓</strong><br>
-      <strong>Analyser les données</strong><br>
-      <strong>↓</strong><br>
-      <strong>Clarifier et transmettre les résultats</strong><br>
-      <strong>↓</strong><br>
-      <strong>Proposer des actions</strong>
-    </p>
-  </article>
+  </div><br><br>
 </section>
 
 <!-- CV et haut de page -->
@@ -237,13 +195,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <p style="text-align: center; margin: 1rem 0;">
         <strong>Analyse & Traitement :</strong><br>Python, Pandas, NumPy, Statsmodels, Excel, Power Query, DAX<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-            <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
-            <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
-            <img src="assets/images/NumPy.png" alt="NumPy" style="height: 60px; width: auto;">        
-            <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;">
-            <img src="assets/images/Excel.jpg" alt="Excel" style="height: 60px; width: auto;">
-            <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 60px; width: auto;">
-            <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
+            <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
+            <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
+            <img src="assets/images/NumPy.png" alt="NumPy" style="height: 40px; width: auto;">        
+            <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 40px; width: auto;">
+            <img src="assets/images/Excel.jpg" alt="Excel" style="height: 40px; width: auto;">
+            <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
+            <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div><br>
         <strong>Visualisation & BI :</strong><br>Power BI, Tableau, Looker Studio, Matplotlib<br><br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
@@ -289,8 +247,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div><br> 
     <!-- Langues -->
     <h2>🌍 Langues</h2>
-    <p><strong>Français</strong> : langue maternelle<br>
-    <strong>Anglais</strong> : Niveau B2 - Compétences professionnelles techniques</p><br>
+    <p><strong>Français</strong> : Natif<br>
+    <strong>Anglais</strong> : Niveau B2</p><br>
   </div>
 </section>
 
@@ -332,8 +290,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem;">
-          <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 60px; width: auto;">
-          <img src="assets/images/DAX.PNG" alt="DAX" style="height: 60px; width: auto;">
+          <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
+          <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
         </div>        
         <div style="text-align: center; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #e50914;">Power Query</span>
@@ -707,19 +665,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <article class="container text-center">
   <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
-    <strong>🎮🎯 L'Experte en énigmes tordues</strong> - Mon cerveau adore les défis qui se terminent par un 'EURÊKA !' Parce que la vie sans casse-tête, c'est comme du code sans bug : c'est suspect...
+    🎯 Passionnée par la résolution d’énigmes complexes (<strong>logique + créativité</strong>).
     <br><br>
-    <strong>🌿🐾 L'Émerveillée</strong> - La nature est ma source d'inspiration préférée ! Je m'extasie devant un documentaire animalier et j'adore observer les animaux. Spoiler : ils sont meilleurs acteurs que nous.
+    🌿 Connectée à la nature et toujours prête à voyager (<strong>énergie, curiosité</strong>).
     <br><br>
-    <strong>✈️🧳 L'Aventurière</strong> - Mon passeport a plus de tampons que mon carnet de notes. Mon sens de l'orientation ? 'Aller là où mon œil est attiré'. Prochaine destination : là où il y a de l'eau et des sourires à partager.
-    <br><br>
-    <strong>💦💧 La Sirène</strong> - Si on me cherche, checkez les plans d'eau. C'est mon élément de prédilection, là où je puise énergie et sérénité, que ce soit en nageant, en pratiquant une activité nautique ou simplement en le contemplant.
-    <br><br>
-    <strong>💬🤝 La Social Butterfly</strong> - Une bonne conversation, des fous rires, des débats passionnés... c'est mon carburant social préféré.
-    <br><br>
-    <strong>📚 La Curieuse Littéraire</strong> - Entre deux datasets, mon esprit analytique s'évade dans les enquêtes policières, se nourrit de journalisme d'investigation et s'émeut devant la vérité humaine des romans intimistes.
-    <br><br>
-    <strong>🔧🔨 La Bricoleuse Philosophe</strong> - Mes mains aiment créer pendant que mon cerveau déconstruit les problèmes. Et parfois, les deux s'emmêlent ! 75% de réussite en bricolage, 100% en détermination !
+    📚 Lectrice assidue d’enquêtes et de journalisme d’investigation (<strong>esprit critique</strong>).
     <br><br>
     En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
   </p>
