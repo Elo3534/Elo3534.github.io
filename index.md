@@ -19,7 +19,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; align-items: center; justify-content: center; background: var(--secondary); color: black; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box; line-height: 1;}
+.skill-tag { display: inline-block; align-items: center; justify-content: center; color: black; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; white-space: nowrap;  }
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -90,7 +90,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>.<br>
     Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
     Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement exigeant et collaboratif.</p>
-  </article><br><br>
+  </article><br>
 </section>
 
 
@@ -246,10 +246,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-          <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
-          <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
-          <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">
-          <img src="assets/images/deepnote.png" alt="Deepnote" style="height: 60px; width: auto;">
+          <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
+          <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
+          <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">
+          <img src="assets/images/deepnote.png" alt="Deepnote" style="height: 40px; width: auto;">
         </div>  
         <div style="text-align: center; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #4b75ffdb;">Data Engineering</span>
@@ -287,14 +287,14 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-          <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
-          <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
-          <img src="assets/images/Plotly.png" alt="Plotly" style="height: 60px; width: auto;"><br>         
-          <img src="assets/images/scipy.png" alt="SciPy" style="height: 60px; width: auto;">
-          <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
-          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;"><br>
-          <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;">
-          <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
+          <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
+          <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
+          <img src="assets/images/Plotly.png" alt="Plotly" style="height: 40px; width: auto;"><br>         
+          <img src="assets/images/scipy.png" alt="SciPy" style="height: 40px; width: auto;">
+          <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
+          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 40px; width: auto;"><br>
+          <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 40px; width: auto;">
+          <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 40px; width: auto;">
         </div>
         <div style="text-align: center; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #FF4B91;">Analyse exploratoire EDA</span>
@@ -332,14 +332,14 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
         <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-          <img src="assets/images/Python.JPG" alt="Python" style="height: 60px; width: auto;">
-          <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 60px; width: auto;">
-          <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 60px; width: auto;"><br>          
-          <img src="assets/images/scipy.png" alt="SciPy" style="height: 60px; width: auto;">                 
-          <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
-          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 60px; width: auto;"><br>
-          <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 60px; width: auto;">
-          <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
+          <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
+          <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
+          <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 40px; width: auto;"><br>          
+          <img src="assets/images/scipy.png" alt="SciPy" style="height: 40px; width: auto;">                 
+          <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
+          <img src="assets/images/seaborn.png" alt="Seaborn" style="height: 40px; width: auto;"><br>
+          <img src="assets/images/Scikit_learn.png" alt="SciKit-Learn" style="height: 40px; width: auto;">
+          <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
         </div>
         <div style="text-align: center; margin: 1.5rem 0;">
           <span class="skill-tag" style="background: #4DA3FF;">Machine Learning</span>
@@ -379,7 +379,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>🎓 Formations & Certifications</strong></h1>
   </header>
   <br><br>
-
+  <table>
+    <tr><th>Année</th><th>Diplôme / Certification</th><th>Lieu / Organisme</th></tr>
+    <tr><td>nov-2025</td><td><strong>CDSD – Conception & Développement en Sciences de Données (Bac+4)</strong></td><td>Montpellier</td></tr>
+    <tr><td>2024-2025</td><td><strong>Bootcamp Fullstack Data Analysis – Jedha Academy</strong></td><td>Montpellier</td></tr>
+    <tr><td>2009-2010</td><td>Licence pro Biologie <strong>Analytique & Expérimentale</strong></td><td>Angers</td></tr>
+    <tr><td>2007-2009</td><td>DUT Génie Biologique</td><td>Clermont-Ferrand</td></tr>
+  </table>
   <div class="text-center" style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
     <!-- Parcours DATA -->
     <div class="timeline-section" style="border-color: #1F77B4;">
@@ -458,72 +464,33 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </header><br>
 
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
-    <!-- Expériences en Laboratoire -->
-    <div class="timeline-section" style="border-color: #1bcafaff;">
-      <h2 style="color: #1bcafaff; margin-bottom: 1rem; text-align: center; font-weight: bold;">🔬 Expériences antérieures en Laboratoire</h2>
-      <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2017 – Lycée privé – Aix-en-Provence – 7 ans</p>
-        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">2017 à 2024 – Lycée privé – Aix-en-Provence</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
           <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
           <li>Mise en sécurité des laboratoires</li>
           <li>Gestion du budget</li>
-          <li>Gestion du matériel</li>
-          <li>Aide à la préparation des Travaux Pratiques</li>
-          <li>Mise au point des protocoles expérimentaux pour les travaux pratiques</li>
+          <li>Aide à la préparation et mise au point des Travaux Pratiques</li>
         </ul>
-      </div>
-      <div class="content-block">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2010 – INRAE – Angers – 3 ans</p>
+        <p style="color: #555; margin: 0 0 1rem 0;">2010 à 2013 – INRAE – Angers – 3 ans</p>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
           <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em>
         </p>
-        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Mission :</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
           <li>Conception et mise au point de protocoles de cytogénétique moléculaire et de cytométrie de flux</li>
-          <li>Analyses sur 8 genres de plantes ornementales</li>
           <li>Analyses statistiques inférentielles</li>
-          <li>Etude bibliographique, synthèses et présentations visuelles des études</li>
-          <li>Présentation régulière des résultats avec supports visuels en comités techniques (16 fois/an)</li>
-          <li>Mise au point des protocoles expérimentaux</li>
+          <li>Etude bibliographique, Synthèses et Visualisations</li>
           <li>Collaboration avec équipes pluridisciplinaires et partenaires externes</li>
         </ul>
-        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; font-weight: bold;">Réalisations marquantes :</p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem; text-align: justify;">
-          <li>Mise en place, maintenance, formation et accompagnement des utilisateurs et complète autonomie sur un cytomètre en flux, en microscopie à fluorescence</li>
-          <li>Organisation des laboratoires de cytologie, de microscopie à fluorescence, de cytométrie de flux : rédaction de manuels utilisateurs, formation et accompagnement des utilisateurs, gestion des stocks, des commandes et des budgets liés aux laboratoires</li>
-          <li>Participation à des conférences internationales (Prague 2012, Paris 2011, Montpellier 2010)</li>
-        </ul>
-      </div>
-    </div>
-    <!-- Expériences en industrie -->
-    <div class="timeline-section" style="border-color: #FF8C00;">
-      <h2 style="color: #FF8C00; margin-bottom: 1rem; text-align: center; font-weight: bold;">🏭 Expériences antérieures en industrie</h2>
-      <div class="content-block">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées et <span style="text-transform: uppercase; font-size: 1.1em;">opératrice</span> de fabrication</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">Entre 2002 et 2017 – Ipsen BioPharma – Valeo – Canon – Thalès Microelectronics – Oberthur Card Systems (Bouches-du-Rhône, Var, Maine-et-Loie, Ille-et-Vilaine)</p>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées</h3>
+        <p style="color: #555; margin: 0 0 1rem 0;">2002 à 2007 et 2014 à 2017 – Ipsen BioPharma, Thalès Microelectronics, Oberthur Card Systems, :
+        ...</p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
           <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
           <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
           <li>Polyvalence et adaptation à différents environnements industriels</li>
         </ul>
-      </div>
-    </div>
-    <!-- Stages professionnels -->
-    <div class="timeline-section" style="border-color: #8E44AD;">
-      <h2 style="color: #8E44AD; margin-bottom: 1rem; text-align: center; font-weight: bold;">📚 Stages professionnels</h2>
-      <div class="content-block">
-        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage Licence professionnelle – 2010 (4 mois par demande de prolongement)</p>
-        <p>AgroCampus-Ouest, Angers</p>
-        <p style="text-align: justify;">Cytogénétique moléculaire et localisation de rétrotransposons par GISH/FISH chez le rosier.</p></div>
-      <div class="content-block">
-        <p style="color: #2c3e50; margin: 0 0 1rem 0; font-weight: bold;">Stage DUT – 2009 (3 mois par demande de prolongement)</p>
-        <p>Centre de lutte contre le cancer, Clermont-Ferrand</p>
-        <p style="text-align: justify;">Etude des effets des phyto-oestrogènes du soja sur des cellules cancéreuses (cytométrie en flux, Western Blotting).</p>
-      </div>
-    </div>
   </div>
 </section>
 
