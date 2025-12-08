@@ -96,8 +96,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <div class="hr-sep"></div>
 
 <!-- Mes compétences -->
-<section id="competences" class="container mb-3">
-  <header class="text-align:center">
+<section id="competences" class="container mb-3"  style="text-align: center;">
+  <header>
     <h1><strong>🛠️ Compétences</strong></h1>
   </header>
   
@@ -526,11 +526,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <article class="container text-center">
   <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
     🎯 Passionnée par la résolution d’énigmes complexes (<strong>logique + créativité</strong>).
-    <br><br>
+    <br>
     🌿 Connectée à la nature et toujours prête à voyager (<strong>énergie, curiosité</strong>).
-    <br><br>
+    <br>
     📚 Lectrice assidue d’enquêtes et de journalisme d’investigation (<strong>esprit critique</strong>).
-    <br><br>
+    <br>
     En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
   </p>
 </article><br>
