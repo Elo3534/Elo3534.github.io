@@ -58,7 +58,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <!-- Localisation -->
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" class="contact-icon" title="Ma localisation">
     <img src="assets/images/localisation.png" alt="Localisation">
-  </a>
+  </a><br>
   <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </nav><br><br>
 
@@ -81,7 +81,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; text-indent: 2rem;">
+  <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; text-indent: 2rem; display: inline-block;">
     <p>
     Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
     Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
@@ -102,8 +102,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   
 <!-- Bloc Techniques -->
   <div>
-    <h2>📈 Compétences Techniques</h2><br>
-      <p style="margin-left: 3rem;"><strong>Analyse & Traitement :</strong></p> 
+    <h2 style="text-align: center;">📈 Compétences Techniques</h2><br>
+      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p> 
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
@@ -113,29 +113,30 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div><br>
-      <p style="margin-left: 3rem;"><strong>Visualisation & BI :</strong></p>
+      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Visualisation & BI</strong></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 40px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
           </div><br>
-      <p style="margin-left: 3rem;"><strong>Bases de données & ETL :</strong></p>
+      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Bases de données & ETL</strong></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
           </div><br>
-      <p style="margin-left: 3rem;"><strong>Modélisation & ML :</strong>Régression, Decision Tree, Feature Engineering</p>  
+      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Modélisation & ML</strong></p><br>
+      <p style="margin-left: 3rem;"><em> Régression, Decision Tree, Feature Engineering</em></p>  
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
       <br>
 <!-- Compétences Métier -->
-    <h2>🎯 Compétences Métier</h2>
-    <p style="margin-left: 3rem;">
+    <h2 style="text-align: center;">🎯 Compétences Métier</h2>
+    <p style="margin: 0 auto;">
       ✔️<strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
       ✔️ Définir et suivre des <strong>KPI métier</strong><br>
       ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
@@ -143,8 +144,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       ✔️ Travailler en <strong>méthode Agile</strong><br>
     </p><br> 
     <!-- Soft Skills -->
-    <h2>💪 Soft Skills</h2>
-    <p style="margin-left: 3rem;">
+    <h2 style="text-align: center;">💪 Soft Skills</h2>
+    <p style="margin: 0 auto;">
       📊 Raisonnement analytique<br>
       🔍 Esprit d'analyse<br>
       🎯 Rigueur<br>
@@ -157,13 +158,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       💪Autonomie<br> 
     </p><br> 
     <!-- Langues -->
-    <h2>🌍 Langues</h2>
-    <p style="margin-left: 3rem;"><strong>Français</strong> : Natif<br>
+    <h2 style="text-align: center;">🌍 Langues</h2>
+    <p style="margin: 0 auto;"><strong>Français</strong> : Natif<br>
     <strong>Anglais</strong> : B2</p>
   </div>
 </section>
-
-
 
 
 <!-- CV et haut de page -->
@@ -381,7 +380,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <tr><td>2009-2010</td><td>Licence pro Biologie <strong>Analytique & Expérimentale</strong></td><td>Angers</td></tr>
     <tr><td>2007-2009</td><td>DUT Génie Biologique</td><td>Clermont-Ferrand</td></tr>
   </table>
-  <div class="content-block">
+  <div>
     <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
           - Analyse exploratoire, descriptive et inférentielle de données.<br>
           - Direction de projets de gestion de données.<br></h3>
@@ -390,30 +389,16 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
           2024 à 2025 :Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha
       </p>
-  <div class="content-block">
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
       <p><strong>Angers – 2009 à 2010</strong></p>
-  </div>
-  <div class="content-block">
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
       <p><strong>Clermont-Ferrand – 2007 à 2009</strong></p>
-  </div>
-    <div style="height: 0.3rem;"></div>
-    <!-- Reprise d'étude -->
-    <div class="timeline-section" style="border-color: #9b59b6;">
-      <h2 style="color: #9b59b6; text-align: center; margin-bottom: 1rem;"><strong>💪 Reprise d'étude</strong></h2>
-      <div class="content-block">
-        <h3 style="color: var(--primary); margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
-        <p><strong>Rennes – 2007</strong></p>
-        <p style="color: #666; font-size: 0.9rem; text-align: center;">
-          ✅ Année validée – Admissible en L2
-        </p>
-      </div>
-      <div class="content-block">
-        <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
-        <p><strong>Rennes – 2006</strong></p>
-      </div>
-    </div>
+    <h3 style="color: var(--primary); margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
+      <p><strong>Rennes – 2007</strong></p>
+      <p style="color: #666; font-size: 0.9rem; text-align: center;">
+          ✅ Année validée – Admissible en L2</p>
+    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
+      <p><strong>Rennes – 2006</strong></p>
   </div>
 </section>
 
