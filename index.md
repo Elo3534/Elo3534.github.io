@@ -19,7 +19,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; align-items: center; justify-content: center; color: black; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; white-space: nowrap;  }
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -83,12 +82,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article style="text-align:justify; margin-left: 2rem;margin-right: 2rem;">
+  <article style="text-align:justify; margin-left: 2.5rem;margin-right: 2.5rem;">
     <p>
-    Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>.<br>
-    J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
-    Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>.<br>
-    Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
+    Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
+    Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
     Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement exigeant et collaboratif.</p>
   </article><br>
 </section>
@@ -99,18 +96,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <div class="hr-sep"></div>
 
 <!-- Mes compétences -->
-<section id="competences" class="container mb-3" style="text-align: center;">
-  <header>
+<section id="competences" class="container mb-3">
+  <header class="text-align:center">
     <h1><strong>🛠️ Compétences</strong></h1>
   </header>
   
   <div style="max-width: 700px; margin: 2rem auto 0;">
     <!-- Bloc Techniques -->
     <div>
-      <h2>📈 Techniques</h2><br>
-      <p style="text-align:justify; margin-left: 2rem;margin-right: 2rem;">
-        <strong>Analyse & Traitement :</strong><br> 
-          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+      <h2>📈 Compétences Techniques</h2><br>
+      <p style="margin-left: 2.5rem;"><strong>Analyse & Traitement :</strong></p><br> 
+          <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
             <img src="assets/images/NumPy.png" alt="NumPy" style="height: 40px; width: auto;">        
@@ -119,31 +115,31 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div><br>
-        <strong>Visualisation & BI :</strong><br> 
-          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+      <p style="margin-left: 2.5rem;"><strong>Visualisation & BI :</strong></p><br>
+          <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 40px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
           </div><br>
-        <strong>Bases de données & ETL :</strong><br>
-          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+      <p style="margin-left: 2.5rem;"><strong>Bases de données & ETL :</strong></p><br>
+          <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
           </div><br>
-        <strong>Modélisation & ML :</strong><br>Régression, Decision Tree, Feature Engineering<br>  
-          <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
+      <p style="margin-left: 2.5rem;"><strong>Modélisation & ML :</strong><br>Régression, Decision Tree, Feature Engineering</p><br>  
+          <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
-      </p><br>
+      <br>
     </div>
     <!-- Compétences Métier -->
     <h2>🎯 Compétences Métier</h2>
-    <p style="list-style: none; padding-left: 0; margin-left: 2rem;">
-      ✔️<strong>- Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
+    <p style="margin-left: 2.5rem;">
+      ✔️<strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
       ✔️ Définir et suivre des <strong>KPI métier</strong><br>
       ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
       ✔️ Développer des <strong>solutions Business Intelligence</strong><br>
@@ -151,18 +147,18 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </p><br> 
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
-    <div style="text-align: left; margin-left: 2rem;">
-      <span class="skill-tag">📊 Raisonnement analytique</span><br>
-      <span class="skill-tag">🔍 Esprit d'analyse</span><br>
-      <span class="skill-tag">🎯 Rigueur</span><br>
-      <span class="skill-tag">🤝 Communication</span><br>
-      <span class="skill-tag">💪 Adaptabilité</span><br>
-      <span class="skill-tag">🎯 Résolution de problèmes</span><br>
-      <span class="skill-tag">🤝 Pédagogie</span><br>
-      <span class="skill-tag">🔍 Curiosité intellectuelle</span><br>
-      <span class="skill-tag">💡 Amélioration continue</span><br>
-      <span class="skill-tag">💪Autonomie</span><br> 
-    </div><br> 
+    <p style="margin-left: 2.5rem;">
+      📊 Raisonnement analytique<br>
+      🔍 Esprit d'analyse<br>
+      🎯 Rigueur<br>
+      🤝 Communication<br>
+      💪 Adaptabilité<br>
+      🎯 Résolution de problèmes<br>
+      🤝 Pédagogie<br>
+      🔍 Curiosité intellectuelle<br>
+      💡 Amélioration continue<br>
+      💪Autonomie<br> 
+    </p><br> 
     <!-- Langues -->
     <h2>🌍 Langues</h2>
     <p><strong>Français</strong> : Natif<br>
@@ -380,47 +376,29 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </header>
   <br><br>
   <table>
-    <tr><th>Année</th><th>Diplôme / Certification</th><th>Lieu / Organisme</th></tr>
+    <tr><th>Année</th><th>Diplôme / Certification</th><th>Lieu</th></tr>
     <tr><td>nov-2025</td><td><strong>CDSD – Conception & Développement en Sciences de Données (Bac+4)</strong></td><td>Montpellier</td></tr>
     <tr><td>2024-2025</td><td><strong>Bootcamp Fullstack Data Analysis – Jedha Academy</strong></td><td>Montpellier</td></tr>
     <tr><td>2009-2010</td><td>Licence pro Biologie <strong>Analytique & Expérimentale</strong></td><td>Angers</td></tr>
     <tr><td>2007-2009</td><td>DUT Génie Biologique</td><td>Clermont-Ferrand</td></tr>
   </table>
-  <div class="text-center" style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
-    <!-- Parcours DATA -->
-    <div class="timeline-section" style="border-color: #1F77B4;">
-      <h2 style="color: #1F77B4; text-align: center;"><strong>📈 Parcours DATA</strong></h2>
-      <div class="content-block">
-        <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3>
-        <p><strong>Montpellier – Novembre 2025</strong></p>
-        <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
-          Analyse exploratoire, descriptive et inférentielle de données.<br>
-          Direction de projets de gestion de données.
-        </p>
-        <p style="color: #555;">
-          Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
-          Formation en <strong>Bootcamp : FULLSTACK DATA ANALYSIS</strong> chez Jedha Academy
-        </p>
-      </div>
-      <h3 style="color: var(--primary); text-align: center;"><strong>🏅 Certifications Editeurs</strong></h3>
+  <div class="content-block">
+    <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
+          - Analyse exploratoire, descriptive et inférentielle de données.<br>
+          - Direction de projets de gestion de données.<br></h3>
+      <p><strong>Montpellier – Novembre 2025</strong></p>
       <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
-        Google Analytics 4 (GA4) – 2025<br>
-        Hubspot CMR for Marketers – 2025
+          Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
+          2024 à 2025 :Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha
       </p>
-    </div>
-    <div style="height: 0.3rem;"></div>
-    <!-- Parcours scientifique -->
-    <div class="timeline-section" style="border-color: #1bcafaff;">
-      <h2 style="color: #1bcafaff; text-align: center;"><strong>🔬 Parcours SCIENCES</strong></h2>
-      <div class="content-block">
-        <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
-        <p><strong>Angers – 2010</strong></p>
-      </div>
-      <div class="content-block">
-        <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
-        <p><strong>Clermont-Ferrand – 2009</strong></p>
-      </div>
-    </div>
+  <div class="content-block">
+    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
+      <p><strong>Angers – 2009 à 2010</strong></p>
+  </div>
+  <div class="content-block">
+    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
+      <p><strong>Clermont-Ferrand – 2007 à 2009</strong></p>
+  </div>
     <div style="height: 0.3rem;"></div>
     <!-- Reprise d'étude -->
     <div class="timeline-section" style="border-color: #9b59b6;">
@@ -428,9 +406,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <div class="content-block">
         <h3 style="color: var(--primary); margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
         <p><strong>Rennes – 2007</strong></p>
-        <p style="color: #555; line-height: 1.6; margin: 1rem 0; test-align: justify;">
-          <em>"J'ai voulu évaluer mes capacités d'apprentissage avant de me lancer dans une formation diplômante."</em>
-        </p>
         <p style="color: #666; font-size: 0.9rem; text-align: center;">
           ✅ Année validée – Admissible en L2
         </p>
