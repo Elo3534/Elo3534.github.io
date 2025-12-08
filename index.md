@@ -503,7 +503,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <!-- Moi, en plus -->
 <header class="text-center">
   <h1><strong>👁️ Vous vouliez en savoir plus ?</strong></h1>
-</header><br>
+</header>
 
 <article>
   <p style="text-align: left; margin: 0 auto; width: max-content;">
