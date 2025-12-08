@@ -13,7 +13,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .container { max-width: 900px; margin-left: auto; margin-right: auto; padding-left: 1rem; padding-right: 1rem; }
 
 /* Éléments récurrents */
-.profile-pic { width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; }
+.profile-pic { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; }
 .contact-icon { display: inline-flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 50%; background: var(--primary); margin: 10px; text-decoration: none; }
 .contact-icon img { width: 30px; height: 30px; }
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
@@ -24,6 +24,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
 .btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
+.tech-block {border: 1px solid #ddd; border-radius: 12px; padding: 1.5rem; margin: 2rem auto; max-width: 900px; background: #fafafa;}
+
+
 #experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
 </style>
 
@@ -60,7 +63,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <img src="assets/images/localisation.png" alt="Localisation">
   </a><br>
   <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
-</nav><br><br>
+</nav><br>
 
 <!-- Navigation rapide -->
 <nav class="text-center mb-2" aria-label="Navigation principale">
@@ -85,7 +88,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <p>
     Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
     Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
-    Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement exigeant et collaboratif.</p>
+    Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement <strong>exigeant et collaboratif</strong>.</p>
   </article><br>
 </section>
 
@@ -103,6 +106,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <!-- Bloc Techniques -->
   <div>
     <h2 style="text-align: center;">📈 Compétences Techniques</h2><br>
+    <!-- Analyse & Traitement -->
+    <div class="tech-block">
       <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p> 
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
@@ -112,31 +117,40 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/Excel.jpg" alt="Excel" style="height: 40px; width: auto;">
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
-          </div><br>
+          </div>
+    </div><br>
+    <!-- Visualisation & BI -->
+    <div class="tech-block">
       <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Visualisation & BI</strong></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 40px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
-          </div><br>
+          </div>
+    </div><br>
+    <!-- Bases de données & ETL -->
+    <div class="tech-block">
       <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Bases de données & ETL</strong></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
-          </div><br>
-      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Modélisation & ML</strong></p><br>
+          </div>
+    </div><br>
+    <!-- Modélisation & ML -->
+    <div class="tech-block">
+      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Modélisation & ML</strong></p>
       <p style="margin-left: 3rem;"><em> Régression, Decision Tree, Feature Engineering</em></p>  
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
-      <br>
+    </div><br>
 <!-- Compétences Métier -->
     <h2 style="text-align: center;">🎯 Compétences Métier</h2>
-    <p style="margin: 0 auto;">
+    <p style="margin: 0 auto; text-align: left; width: max-content;">
       ✔️<strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
       ✔️ Définir et suivre des <strong>KPI métier</strong><br>
       ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
@@ -145,7 +159,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </p><br> 
     <!-- Soft Skills -->
     <h2 style="text-align: center;">💪 Soft Skills</h2>
-    <p style="margin: 0 auto;">
+    <p style="margin: 0 auto; text-align: left; width: max-content;">
       📊 Raisonnement analytique<br>
       🔍 Esprit d'analyse<br>
       🎯 Rigueur<br>
@@ -159,7 +173,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </p><br> 
     <!-- Langues -->
     <h2 style="text-align: center;">🌍 Langues</h2>
-    <p style="margin: 0 auto;"><strong>Français</strong> : Natif<br>
+    <p style="margin: 0 auto; text-align: left; width: max-content;"><strong>Français</strong> : Natif<br>
     <strong>Anglais</strong> : B2</p>
   </div>
 </section>
@@ -373,17 +387,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>🎓 Formations & Certifications</strong></h1>
   </header>
   <br><br>
-  <table>
-    <tr><th>Année</th><th>Diplôme / Certification</th><th>Lieu</th></tr>
-    <tr><td>nov-2025</td><td><strong>CDSD – Conception & Développement en Sciences de Données (Bac+4)</strong></td><td>Montpellier</td></tr>
-    <tr><td>2024-2025</td><td><strong>Bootcamp Fullstack Data Analysis – Jedha Academy</strong></td><td>Montpellier</td></tr>
-    <tr><td>2009-2010</td><td>Licence pro Biologie <strong>Analytique & Expérimentale</strong></td><td>Angers</td></tr>
-    <tr><td>2007-2009</td><td>DUT Génie Biologique</td><td>Clermont-Ferrand</td></tr>
-  </table>
+  
   <div>
-    <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
-          - Analyse exploratoire, descriptive et inférentielle de données.<br>
-          - Direction de projets de gestion de données.<br></h3>
+    <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3><br>
+    <h3 style="margin-left: 1.5rem;">- Analyse exploratoire, descriptive et inférentielle de données.<br>
+      - Direction de projets de gestion de données.<br></h3>
       <p><strong>Montpellier – Novembre 2025</strong></p>
       <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
           Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
@@ -393,10 +401,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <p><strong>Angers – 2009 à 2010</strong></p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
       <p><strong>Clermont-Ferrand – 2007 à 2009</strong></p>
-    <h3 style="color: var(--primary); margin: 0 0 1rem 0;">🎓 <strong>Licence Biologie Première Année</strong></h3>
-      <p><strong>Rennes – 2007</strong></p>
-      <p style="color: #666; font-size: 0.9rem; text-align: center;">
-          ✅ Année validée – Admissible en L2</p>
+    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE Biologie Première Année</strong></h3>
+      <p><strong>Rennes – 2007</strong> - Année validée – Admissible en L2</p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
       <p><strong>Rennes – 2006</strong></p>
   </div>
@@ -423,32 +429,24 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </header><br>
 
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> en laboratoires de sciences</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2017 à 2024 – Lycée privé – Aix-en-Provence</p>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> – Lycée privé, Aix-en-Provence – 2017 à 2024</h3>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
-          <li>Référencement des produits chimiques (Intégration d'un outil informatisé)</li>
-          <li>Mise en sécurité des laboratoires</li>
-          <li>Gestion du budget</li>
-          <li>Aide à la préparation et mise au point des Travaux Pratiques</li>
-        </ul>
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2010 à 2013 – INRAE – Angers – 3 ans</p>
+          <li>Référencement produits chimiques et sécurité laboratoire (Intégration d'un outil informatisé)</li>
+          <li>Préparation et mise au point de TP et protocoles expérimentaux</li>
+        </ul><br>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique – INRA, Angers – 2010 à 2013</h3>
         <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
-          <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em>
-        </p>
+          <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em></p>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
-          <li>Conception et mise au point de protocoles de cytogénétique moléculaire et de cytométrie de flux</li>
-          <li>Analyses statistiques inférentielles</li>
-          <li>Etude bibliographique, Synthèses et Visualisations</li>
-          <li>Collaboration avec équipes pluridisciplinaires et partenaires externes</li>
-        </ul>
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées</h3>
-        <p style="color: #555; margin: 0 0 1rem 0;">2002 à 2007 et 2014 à 2017 – Ipsen BioPharma, Thalès Microelectronics, Oberthur Card Systems, :
-        ...</p>
+          <li>Protocoles expérimentaux, <strong>analyses statistiques, reporting visuel</strong></li>
+          <li>Organisation laboratoire, gestion stocks et budgets</li>
+          <li><strong>Collaboration pluridisciplinaire et Visualisations</strong></li>
+        </ul><br>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées – Ipsen, Thalès, Oberthur, ... – 2002 à 2007 et 2014 à 2017</h3>
         <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
-          <li>Conduite de lignes automatisées et semi-automatisées (secteurs militaire, médical, bancaire)</li>
-          <li>Contrôle qualité et respect des procédures (secteur militaire et pharmaceutique)</li>
-          <li>Polyvalence et adaptation à différents environnements industriels</li>
+          <li>Conduite de lignes automatisées</li>
+          <li>Contrôle qualité</li>
+          <li>Polyvalence secteur divers</li>
         </ul>
   </div>
 </section>
@@ -507,14 +505,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <h1><strong>👁️ Vous vouliez en savoir plus ?</strong></h1>
 </header><br>
 
-<article class="container text-center">
-  <p style="line-height: 1.8; color: #555; font-size: 1.1rem; text-align: center; max-width: 700px; margin: 0 auto; font-weight: normal">
-    🎯 Passionnée par la résolution d’énigmes complexes (<strong>logique + créativité</strong>).
-    <br>
-    🌿 Connectée à la nature et toujours prête à voyager (<strong>énergie, curiosité</strong>).
-    <br>
-    📚 Lectrice assidue d’enquêtes et de journalisme d’investigation (<strong>esprit critique</strong>).
-    <br>
+<article>
+  <p style="text-align: left; margin: 0 auto; width: max-content;">
+    🎯 Passionnée par la résolution d’énigmes complexes (<strong>logique + créativité</strong>).<br>
+    🌿 Connectée à la nature et toujours prête à voyager (<strong>énergie, curiosité</strong>).<br>
+    📚 Lectrice assidue d’enquêtes et de journalisme d’investigation (<strong>esprit critique</strong>).<br>
     En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
   </p>
 </article><br>
