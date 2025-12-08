@@ -95,16 +95,15 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <div class="hr-sep"></div>
 
 <!-- Mes compétences -->
-<section id="competences" class="container mb-3"  style="text-align: center;">
+<section id="competences" class="container mb-3">
   <header>
-    <h1><strong>🛠️ Compétences</strong></h1>
+    <h1 style="text-align: center;"><strong>🛠️ Compétences</strong></h1>
   </header>
   
-  <div style="max-width: 700px; margin: 2rem auto 0;">
-    <!-- Bloc Techniques -->
-    <div>
-      <h2>📈 Compétences Techniques</h2><br>
-      <p style="margin-left: 2.5rem;"><strong>Analyse & Traitement :</strong></p><br> 
+<!-- Bloc Techniques -->
+  <div>
+    <h2>📈 Compétences Techniques</h2><br>
+      <p style="margin-left: 3rem;"><strong>Analyse & Traitement :</strong></p> 
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
@@ -114,30 +113,29 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div><br>
-      <p style="margin-left: 2.5rem;"><strong>Visualisation & BI :</strong></p><br>
+      <p style="margin-left: 3rem;"><strong>Visualisation & BI :</strong></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 40px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
           </div><br>
-      <p style="margin-left: 2.5rem;"><strong>Bases de données & ETL :</strong></p><br>
+      <p style="margin-left: 3rem;"><strong>Bases de données & ETL :</strong></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
           </div><br>
-      <p style="margin-left: 2.5rem;"><strong>Modélisation & ML :</strong><br>Régression, Decision Tree, Feature Engineering</p><br>  
+      <p style="margin-left: 3rem;"><strong>Modélisation & ML :</strong>Régression, Decision Tree, Feature Engineering</p>  
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
       <br>
-    </div>
-    <!-- Compétences Métier -->
+<!-- Compétences Métier -->
     <h2>🎯 Compétences Métier</h2>
-    <p style="margin-left: 2.5rem;">
+    <p style="margin-left: 3rem;">
       ✔️<strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
       ✔️ Définir et suivre des <strong>KPI métier</strong><br>
       ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
@@ -146,7 +144,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </p><br> 
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
-    <p style="margin-left: 2.5rem;">
+    <p style="margin-left: 3rem;">
       📊 Raisonnement analytique<br>
       🔍 Esprit d'analyse<br>
       🎯 Rigueur<br>
@@ -160,10 +158,12 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </p><br> 
     <!-- Langues -->
     <h2>🌍 Langues</h2>
-    <p><strong>Français</strong> : Natif<br>
-    <strong>Anglais</strong> : Niveau B2</p><br>
+    <p style="margin-left: 3rem;"><strong>Français</strong> : Natif<br>
+    <strong>Anglais</strong> : B2</p>
   </div>
 </section>
+
+
 
 
 <!-- CV et haut de page -->
