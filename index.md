@@ -19,7 +19,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 14px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; align-items: center; justify-content: center; background: #555; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box; line-height: 1;}
+.skill-tag { display: inline-block; align-items: center; justify-content: center; background: #43f0b0ff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box; line-height: 1;}
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -74,7 +74,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="#contact" class="nav-btn">Contact</a>
   <br>
   <br>
-  <strong>Disponible pour un CDI/CDD en tant que Data Analyst / Analytics Engineer sur Montpellier et alentours</strong>
+  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </nav>
 
 <!--séparation-->
@@ -86,98 +86,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article class="text-center">
-    <p><strong>Reconvertie après un bootcamp intensif (Jedha), je combine <strong>rigueur technique</strong>, <strong>autonomie</strong>, et <strong>orientation résultats</strong>.<br>
-    Data Analyst orientée décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>.<br>
+  <article>
+    <p>
+    Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>.<br>
     J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
-    Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation et de la preuve</strong>.<br>
+    Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>.<br>
     Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
     Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement exigeant et collaboratif.</p>
   </article><br><br>
-
-  <div style="display: inline-block; text-align: center; margin-left: 29px;">
-    <table style="border-collapse: collapse; border: none; margin: 0 auto;">
-      <tbody>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Rigueur</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            🎯
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Amélioration</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Analyse</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            🔍
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Structuration</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Ingéniosité</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            💡
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Sens pratique</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Visualisation</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            📊
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Pédagogie</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Collaboration</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            🤝
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Autonomie</strong>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: right; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Adaptation</strong>
-          </td>
-          <td style="text-align: center; padding: 0.3rem 0.5rem; border: none; font-size: 1.2em;">
-            💪
-          </td>
-          <td style="text-align: left; padding: 0.3rem 0.5rem; border: none; white-space: nowrap;">
-            <strong>Curiosité</strong>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div><br><br>
 </section>
 
-<!-- CV et haut de page -->
-<footer class="text-center mb-1">
-  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
-    📄 Téléchargez mon CV
-  </a><br>
 
-  <a href="#top" class="btn-top">↑ Haut de page</a>
-</footer>
-<div style="height: 0.3rem;"></div>
 
 <!--séparation-->
 <div class="hr-sep"></div>
@@ -235,15 +154,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </ul><br> 
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
-    <div style="text-align: center; margin: 1.5rem 0;">
-      <span class="skill-tag">Raisonnement analytique</span>
-      <span class="skill-tag">Esprit d'analyse</span>
-      <span class="skill-tag">Adaptabilité</span>
-      <span class="skill-tag">Autonomie</span>
-      <span class="skill-tag">Collaboration</span>
-      <span class="skill-tag">Pédagogie</span>
-      <span class="skill-tag">Curiosité intellectuelle</span>
-      <span class="skill-tag">Résolution de problèmes</span>
+    <div style="text-align: left; margin-left: 1.5rem;">
+      <span class="skill-tag">📊 Raisonnement analytique</span>
+      <span class="skill-tag">🔍 Esprit d'analyse</span>
+      <span class="skill-tag">🎯 Rigueur</span>
+      <span class="skill-tag">🤝 Communication</span>
+      <span class="skill-tag">💪 Adaptabilité</span>
+      <span class="skill-tag">🎯 Résolution de problèmes</span>
+      <span class="skill-tag">🤝 Pédagogie</span>
+      <span class="skill-tag">🔍 Curiosité intellectuelle</span>
+      <span class="skill-tag">💡 Amélioration continue</span>
+      <span class="skill-tag">💪Autonomie</span> 
     </div><br> 
     <!-- Langues -->
     <h2>🌍 Langues</h2>
