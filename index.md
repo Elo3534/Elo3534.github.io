@@ -16,10 +16,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .profile-pic { width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; }
 .contact-icon { display: inline-flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 50%; background: var(--primary); margin: 10px; text-decoration: none; }
 .contact-icon img { width: 30px; height: 30px; }
-.nav-btn { display: inline-block; padding: 6px 14px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
+.nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; align-items: center; justify-content: center; background: #43f0b0ff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box; line-height: 1;}
+.skill-tag { display: inline-block; align-items: center; justify-content: center; background: var(--secondary); color: black; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px;   white-space: nowrap;  box-sizing: border-box; line-height: 1;}
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -35,9 +35,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <!-- Accroche -->
 <section class="text-center mb-3" style="line-height: 1.6;">
   <h2 style="color: var(--secondary);">De la Reconversion à la Révélation : Mon Pari Gagnant</h2>
-  <p style="font-size: 1.1rem;">
-    <strong>Rigueur scientifique • Esprit critique & analytique • Innovation • Collaboration • Autonomie</strong>
-  </p>
 </section>
 
 <!-- Icônes de contact -->
@@ -62,7 +59,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" class="contact-icon" title="Ma localisation">
     <img src="assets/images/localisation.png" alt="Localisation">
   </a>
-</nav>
+</nav><br><br>
 
 <!-- Navigation rapide -->
 <nav class="text-center mb-2" aria-label="Navigation principale">
@@ -86,7 +83,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article>
+  <article style="text-align:justify; margin-left: 2rem;margin-right: 2rem;">
     <p>
     Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>.<br>
     J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
@@ -111,8 +108,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <!-- Bloc Techniques -->
     <div>
       <h2>📈 Techniques</h2><br>
-      <p style="text-align: center; margin: 1rem 0;">
-        <strong>Analyse & Traitement :</strong><br>Python, Pandas, NumPy, Statsmodels, Excel, Power Query, DAX<br><br>  
+      <p style="text-align:justify; margin-left: 2rem;margin-right: 2rem;">
+        <strong>Analyse & Traitement :</strong><br> 
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
@@ -122,49 +119,49 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div><br>
-        <strong>Visualisation & BI :</strong><br>Power BI, Tableau, Looker Studio, Matplotlib<br><br>  
+        <strong>Visualisation & BI :</strong><br> 
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-            <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 60px; width: auto;">
-            <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 60px; width: auto;">
-            <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 60px; width: auto;">     
-            <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 60px; width: auto;">
+            <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
+            <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
+            <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 40px; width: auto;">     
+            <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
           </div><br>
-        <strong>Bases de données & ETL :</strong><br>SQL, MySQL, Snowflake, DBT<br><br>  
+        <strong>Bases de données & ETL :</strong><br>
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-            <img src="assets/images/SQL.PNG" alt="SQL" style="height: 60px; width: auto;">
-            <img src="assets/images/MySQL.png" alt="Tableau" style="height: 60px; width: auto;">
-            <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 60px; width: auto;">     
-            <img src="assets/images/dbt.PNG" alt="DBT" style="height: 60px; width: auto;">
+            <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
+            <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
+            <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">     
+            <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
           </div><br>
-        <strong>Modélisation & ML :</strong><br>Régression, Decision Tree, Feature Engineering, Scikit-Learn, Dataiku<br><br>  
+        <strong>Modélisation & ML :</strong><br>Régression, Decision Tree, Feature Engineering<br>  
           <div style="display: flex; justify-content: center; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap;">
-            <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 60px; width: auto;">            
-            <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 60px; width: auto;">
+            <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
+            <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
       </p><br>
     </div>
     <!-- Compétences Métier -->
     <h2>🎯 Compétences Métier</h2>
-    <ul style="list-style: none; padding-left: 0; margin: 1.5rem 0;">
-      <li>• <strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong></li>
-      <li>• Définir et suivre des <strong>KPI métier</strong></li>
-      <li>• Raconter des histoires avec les données (<strong>Storytelling</strong>)</li>
-      <li>• Développer des <strong>solutions Business Intelligence</strong></li>
-      <li>• Travailler en <strong>méthode Agile</strong></li>
-    </ul><br> 
+    <p style="list-style: none; padding-left: 0; margin-left: 2rem;">
+      ✔️<strong>- Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
+      ✔️ Définir et suivre des <strong>KPI métier</strong><br>
+      ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
+      ✔️ Développer des <strong>solutions Business Intelligence</strong><br>
+      ✔️ Travailler en <strong>méthode Agile</strong><br>
+    </p><br> 
     <!-- Soft Skills -->
     <h2>💪 Soft Skills</h2>
-    <div style="text-align: left; margin-left: 1.5rem;">
-      <span class="skill-tag">📊 Raisonnement analytique</span>
-      <span class="skill-tag">🔍 Esprit d'analyse</span>
-      <span class="skill-tag">🎯 Rigueur</span>
-      <span class="skill-tag">🤝 Communication</span>
-      <span class="skill-tag">💪 Adaptabilité</span>
-      <span class="skill-tag">🎯 Résolution de problèmes</span>
-      <span class="skill-tag">🤝 Pédagogie</span>
-      <span class="skill-tag">🔍 Curiosité intellectuelle</span>
-      <span class="skill-tag">💡 Amélioration continue</span>
-      <span class="skill-tag">💪Autonomie</span> 
+    <div style="text-align: left; margin-left: 2rem;">
+      <span class="skill-tag">📊 Raisonnement analytique</span><br>
+      <span class="skill-tag">🔍 Esprit d'analyse</span><br>
+      <span class="skill-tag">🎯 Rigueur</span><br>
+      <span class="skill-tag">🤝 Communication</span><br>
+      <span class="skill-tag">💪 Adaptabilité</span><br>
+      <span class="skill-tag">🎯 Résolution de problèmes</span><br>
+      <span class="skill-tag">🤝 Pédagogie</span><br>
+      <span class="skill-tag">🔍 Curiosité intellectuelle</span><br>
+      <span class="skill-tag">💡 Amélioration continue</span><br>
+      <span class="skill-tag">💪Autonomie</span><br> 
     </div><br> 
     <!-- Langues -->
     <h2>🌍 Langues</h2>
