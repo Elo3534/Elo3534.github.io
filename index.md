@@ -19,6 +19,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
+.skill-tag { display: inline-block; align-items: center; justify-content: center; background: var(--secondary); color: black; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px; white-space: nowrap; box-sizing: border-box; line-height: 1;}
 .content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -58,6 +59,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="https://www.google.com/maps/place/Montpellier,+France" target="_blank" class="contact-icon" title="Ma localisation">
     <img src="assets/images/localisation.png" alt="Localisation">
   </a>
+  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </nav><br><br>
 
 <!-- Navigation rapide -->
@@ -68,9 +70,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="#formation" class="nav-btn">Formation</a>
   <a href="#experiences" class="nav-btn">Expériences</a>
   <a href="#contact" class="nav-btn">Contact</a>
-  <br>
-  <br>
-  <strong>Disponible pour un CDI/CDD sur Montpellier et alentours</strong>
 </nav>
 
 <!--séparation-->
@@ -82,7 +81,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article style="text-align:justify; margin-left: 2.5rem;margin-right: 2.5rem;">
+  <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; text-indent: 2rem;">
     <p>
     Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
     Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
