@@ -162,20 +162,20 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h2 style="text-align: center;">💪 Soft Skills</h2>
     <p style="margin: 0 auto; text-align: left; width: max-content;">
       📊&nbsp;&nbsp;&nbsp;Raisonnement analytique<br>
-      🔍&nbsp;&nbsp;&nbsp;Esprit d'analyse<br>
-      🎯&nbsp;&nbsp;&nbsp;Rigueur<br>
-      🤝&nbsp;&nbsp;&nbsp;Communication<br>
-      💪&nbsp;&nbsp;&nbsp;Adaptabilité<br>
-      🎯&nbsp;&nbsp;&nbsp;Résolution de problèmes<br>
-      🤝&nbsp;&nbsp;&nbsp;Pédagogie<br>
+      🎯&nbsp;&nbsp;&nbsp;Résolution de problèmes data-driven<br>
       🔍&nbsp;&nbsp;&nbsp;Curiosité intellectuelle<br>
       💡&nbsp;&nbsp;&nbsp;Amélioration continue<br>
-      💪&nbsp;&nbsp;&nbsp;Autonomie<br> 
+      🗣️&nbsp;&nbsp;&nbsp;Communication<br>
+      🤝&nbsp;&nbsp;&nbsp;Collaboration<br>
+      📚&nbsp;&nbsp;&nbsp;Pédagogie<br>
+      💪&nbsp;&nbsp;&nbsp;Autonomie<br>
+      🔄&nbsp;&nbsp;&nbsp;Adaptabilité<br>
+      📏&nbsp;&nbsp;&nbsp;Rigueur<br>        
     </p><br> 
     <!-- Langues -->
     <h2 style="text-align: center;">🌍 Langues</h2>
-    <p style="margin: 0 auto; text-align: left; width: max-content;"><strong>Français</strong> : Natif<br>
-    <strong>Anglais</strong> : B2</p>
+    <p style="margin: 0 auto; text-align: left; width: max-content;">Français : Native<br>
+    Anglais : B2</p>
   </div>
 </section>
 
@@ -390,28 +390,28 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <br><br>
   
   <div>
-    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
-      <p><em style="margin-left: 2rem;">- Analyse exploratoire, descriptive et inférentielle de données.</em></p>
-      <p><em style="margin-left: 2rem;">- Direction de projets de gestion de données.</em></p>
+    <h3 class="tech-block" style="color: var(--primary); margin: 0 3 0.5rem 3;">
+      🎓 <strong>2024 à 2025 CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong>, Montpellier
+      <p><em style="margin-left: 2rem;">- Analyse exploratoire, descriptive et inférentielle de données.</em><br>
+      <em style="margin-left: 2rem;">- Direction de projets de gestion de données.</em></p>
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;">
         <strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
       </p>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong>
+      🎓 <strong>2009 à 2010 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong>, Angers
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Angers – 2009 à 2010</strong></p><br>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>
+      🎓 <strong>2007 à 2008 DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>, Clermont-Ferrand
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Clermont-Ferrand – 2007 à 2009</strong></p><br>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>LICENCE Biologie Première Année</strong>
+      🎓 <strong>2007 LICENCE Biologie Première Année</strong>, Rennes
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p><br>
     <h3 style="color: var(--primary); margin-left: 0 3 0.5rem 3;">
-      🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>
+      🎓 <strong>2006 DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>, Rennes
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2006</strong></p>
   </div>
@@ -440,8 +440,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> – Lycée privé, Aix-en-Provence – 2017 à 2024
         </h3>
-          <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 3rem;">
-            <li>Référencement produits chimiques et sécurité laboratoire (Intégration d'un outil informatisé)</li>
+          <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
+            <li>Référencement produits chimiques et sécurité laboratoire</li>
+            <li>Intégration d'un outil informatisé</li>
             <li>Préparation et mise au point de TP et protocoles expérimentaux</li>
           </ul>
         <br><br>
@@ -483,7 +484,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <header class="text-center">
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
-  <br>
+
   <div class="text-center">
     <div style="display: inline-block; text-align: left;">
       <p style="margin: 0.5rem 0;">
@@ -505,7 +506,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <p style="margin: 0.5rem 0;">
         <span style="display: inline-block; width: 30px; text-align: center;">🌐</span>
         Montpellier
-      </p><br>
+      </p>
     </div>
   </div>
 </section>
@@ -530,7 +531,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <!-- haut de page -->
 <footer class="text-center mb-1">
   <a href="#top" class="btn-top">↑ Haut de page</a>
-</footer><br>
+</footer>
 
 <!-- Navigation rapide -->
 <nav class="text-center mb-2" aria-label="Navigation principale">
