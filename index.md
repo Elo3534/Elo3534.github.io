@@ -24,7 +24,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
 .btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
-.tech-block {border: 1px solid #ddd; border-radius: 12px; padding: 1.5rem; margin: 2rem auto; max-width: 900px; background: #fafafa;}
+.tech-block {border: 1px solid var(--primary); border-radius: 12px; padding: 1.5rem; margin: 0.5rem auto; max-width: 900px; background: #fafafa;}
 
 
 #experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
@@ -84,11 +84,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header>
 
-  <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; text-indent: 2rem; display: inline-block;">
-    <p>
-    Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
-    Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
-    Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement <strong>exigeant et collaboratif</strong>.</p>
+  <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; display: inline-block;">
+    <p  style="text-indent: 2rem;">
+      Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br></p>
+    <p  style="text-indent: 2rem;">
+      Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br></p>
+    <p  style="text-indent: 2rem;">
+      Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement <strong>exigeant et collaboratif</strong>.</p>
   </article>
 </section>
 
@@ -108,7 +110,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h2 style="text-align: center;">📈 Compétences Techniques</h2>
     <!-- Analyse & Traitement -->
     <div class="tech-block">
-      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p> 
+      <p style="text-align: center; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p> 
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
@@ -118,7 +120,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
             <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div>
-    </div><br>
+    </div>
     <!-- Visualisation & BI -->
     <div class="tech-block">
       <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Visualisation & BI</strong></p>
