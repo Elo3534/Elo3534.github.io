@@ -24,7 +24,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
 .btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
-.tech-block {border: 1px solid var(--primary); border-radius: 12px; padding: 1.5rem; margin: 0.5rem auto; max-width: 900px; background: #fafafa;}
+.tech-block {border: 1px solid var(--primary); border-radius: 12px; padding: 2rem; margin: 0.5rem auto; max-width: 900px; background: #fafafa;}
 
 
 #experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
@@ -110,7 +110,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <h2 style="text-align: center;">📈 Compétences Techniques</h2>
     <!-- Analyse & Traitement -->
     <div class="tech-block">
-      <p style="text-align: center; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p> 
+      <p style="text-align: center; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p><br> 
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
@@ -123,7 +123,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Visualisation & BI -->
     <div class="tech-block">
-      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Visualisation & BI</strong></p>
+      <p style="text-align: center; text-transform: uppercase;"><strong>Visualisation & BI</strong></p><br>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Power_BI.PNG" alt="Power BI" style="height: 40px; width: auto;">
             <img src="assets/images/Tableau.JPG" alt="Tableau" style="height: 40px; width: auto;">
@@ -133,7 +133,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Bases de données & ETL -->
     <div class="tech-block">
-      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Bases de données & ETL</strong></p>
+      <p style="text-align: center; text-transform: uppercase;"><strong>Bases de données & ETL</strong></p><br>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
@@ -143,7 +143,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Modélisation & ML -->
     <div class="tech-block">
-      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Modélisation & ML</strong><em> (Régression, Decision Tree, Feature Engineering)</em></p>
+      <p style="text-align: center; text-transform: uppercase;"><strong>Modélisation & ML</strong><em> (Régression, Decision Tree, Feature Engineering)</em></p><br>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
@@ -161,16 +161,16 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <!-- Soft Skills -->
     <h2 style="text-align: center;">💪 Soft Skills</h2>
     <p style="margin: 0 auto; text-align: left; width: max-content;">
-      📊  Raisonnement analytique<br>
-      🔍  Esprit d'analyse<br>
-      🎯  Rigueur<br>
-      🤝  Communication<br>
-      💪 Adaptabilité<br>
-      🎯  Résolution de problèmes<br>
-      🤝  Pédagogie<br>
-      🔍  Curiosité intellectuelle<br>
-      💡  Amélioration continue<br>
-      💪  Autonomie<br> 
+      📊&nbsp;&nbsp;&nbsp;Raisonnement analytique<br>
+      🔍&nbsp;&nbsp;&nbsp;Esprit d'analyse<br>
+      🎯&nbsp;&nbsp;&nbsp;Rigueur<br>
+      🤝&nbsp;&nbsp;&nbsp;Communication<br>
+      💪&nbsp;&nbsp;&nbsp;Adaptabilité<br>
+      🎯&nbsp;&nbsp;&nbsp;Résolution de problèmes<br>
+      🤝&nbsp;&nbsp;&nbsp;Pédagogie<br>
+      🔍&nbsp;&nbsp;&nbsp;Curiosité intellectuelle<br>
+      💡&nbsp;&nbsp;&nbsp;Amélioration continue<br>
+      💪&nbsp;&nbsp;&nbsp;Autonomie<br> 
     </p><br> 
     <!-- Langues -->
     <h2 style="text-align: center;">🌍 Langues</h2>
@@ -390,23 +390,30 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <br><br>
   
   <div>
-    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">
-    🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
-    <em style="margin-left: 2rem;">
-      - Analyse exploratoire, descriptive et inférentielle de données.<br>
-      - Direction de projets de gestion de données.</em>
-    </h3><br>
-      <p style="margin-left: 3rem;">
-        <strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha
+    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
+      🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
+      <p><em style="margin-left: 2rem;">- Analyse exploratoire, descriptive et inférentielle de données.</em></p>
+      <p><em style="margin-left: 2rem;">- Direction de projets de gestion de données.</em></p>
+    </h3>
+      <p style="text-align: center; margin-bottom: 1.5rem;">
+        <strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
       </p>
-    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
-      <p style="margin-left: 3remr;"><strong>Angers – 2009 à 2010</strong></p>
-    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
-      <p style="margin-left: 3rem;"><strong>Clermont-Ferrand – 2007 à 2009</strong></p>
-    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE Biologie Première Année</strong></h3>
-      <p style="margin-left: 3rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p>
-    <h3 style="color: var(--primary); margin-left: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
-      <p style="margin-left: 3rem;"><strong>Rennes – 2006</strong></p>
+    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
+      🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong>
+    </h3>
+      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Angers – 2009 à 2010</strong></p><br>
+    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
+      🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>
+    </h3>
+      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Clermont-Ferrand – 2007 à 2009</strong></p><br>
+    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
+      🎓 <strong>LICENCE Biologie Première Année</strong>
+    </h3>
+      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p><br>
+    <h3 style="color: var(--primary); margin-left: 0 3 0.5rem 3;">
+      🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>
+    </h3>
+      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2006</strong></p>
   </div>
 </section>
 
@@ -431,25 +438,30 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </header><br>
 
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> – Lycée privé, Aix-en-Provence – 2017 à 2024</h3>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 1.5rem;">
-          <li>Référencement produits chimiques et sécurité laboratoire (Intégration d'un outil informatisé)</li>
-          <li>Préparation et mise au point de TP et protocoles expérimentaux</li>
-        </ul><br>
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique – INRA, Angers – 2010 à 2013</h3>
-        <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
-          <em>Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial (Breeding Research & Innovation on Ornamentals).</em></p>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
-          <li>Protocoles expérimentaux, <strong>analyses statistiques, reporting visuel</strong></li>
-          <li>Organisation laboratoire, gestion stocks et budgets</li>
-          <li><strong>Collaboration pluridisciplinaire et Visualisations</strong></li>
-        </ul><br>
-        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> automatisées – Ipsen, Thalès, Oberthur, ... – 2002 à 2007 et 2014 à 2017</h3>
-        <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
-          <li>Conduite de lignes automatisées</li>
-          <li>Contrôle qualité</li>
-          <li>Polyvalence secteur divers</li>
-        </ul>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> – Lycée privé, Aix-en-Provence – 2017 à 2024
+        </h3>
+          <ul style="color: #555; line-height: 1.6; margin: 0 0 0.5rem 1.5rem; padding-left: 3rem;">
+            <li>Référencement produits chimiques et sécurité laboratoire (Intégration d'un outil informatisé)</li>
+            <li>Préparation et mise au point de TP et protocoles expérimentaux</li>
+          </ul>
+        <br><br>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique – INRA, Angers – 2010 à 2013
+        </h3>
+          <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
+            <em style="padding-left: 3rem;">Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial.</em></p>
+          <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
+            <li>Protocoles expérimentaux, <strong>analyses statistiques, reporting visuel</strong></li>
+            <li>Organisation laboratoire, gestion stocks et budgets</li>
+            <li><strong>Collaboration pluridisciplinaire et Visualisations</strong></li>
+          </ul>
+        <br><br>
+        <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> – Ipsen, Thalès, Oberthur, ... <br>– 2002 à 2007 et 2014 à 2017
+        </h3>
+          <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
+            <li>Conduite de lignes automatisées</li>
+            <li>Contrôle qualité</li>
+            <li>Polyvalence secteur divers</li>
+          </ul>
   </div>
 </section>
 
