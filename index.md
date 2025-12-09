@@ -15,6 +15,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 /* Éléments récurrents */
 .profile-pic { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; }
 .contact-icon { display: inline-flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 50%; background: var(--primary); margin: 10px; text-decoration: none; }
+.contact-icon img { width: 30px; height: 30px; }
 
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
