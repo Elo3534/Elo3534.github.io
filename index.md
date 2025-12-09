@@ -115,10 +115,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/Python.JPG" alt="Python" style="height: 40px; width: auto;">
             <img src="assets/images/pandas.PNG" alt="Pandas" style="height: 40px; width: auto;">
             <img src="assets/images/NumPy.png" alt="NumPy" style="height: 40px; width: auto;">        
-            <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 40px; width: auto;">
             <img src="assets/images/Excel.jpg" alt="Excel" style="height: 40px; width: auto;">
             <img src="assets/images/power_query.PNG" alt="Power Query" style="height: 40px; width: auto;">
-            <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
           </div>
     </div>
     <!-- Visualisation & BI -->
@@ -133,7 +131,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Bases de données & ETL -->
     <div class="tech-block">
-      <p style="text-align: center; text-transform: uppercase;"><strong>Bases de données & ETL</strong></p><br>
+      <p style="text-align: center; text-transform: uppercase;"><strong>Base de données & ETL</strong></p><br>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/SQL.PNG" alt="SQL" style="height: 40px; width: auto;">
             <img src="assets/images/MySQL.png" alt="Tableau" style="height: 40px; width: auto;">
@@ -143,8 +141,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- Modélisation & ML -->
     <div class="tech-block">
-      <p style="text-align: center; text-transform: uppercase;"><strong>Modélisation & ML</strong><em> (Régression, Decision Tree, Feature Engineering)</em></p><br>
+      <p style="text-align: center; text-transform: uppercase;"><strong>Modélisation & Machine Learning</strong></p><br>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
+            <img src="assets/images/statsmodels.PNG" alt="Statsmodels" style="height: 40px; width: auto;">
+            <img src="assets/images/DAX.PNG" alt="DAX" style="height: 40px; width: auto;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
@@ -154,7 +154,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <p style="margin: 0 auto; text-align: left; width: max-content;">
       ✔️<strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
       ✔️ Définir et suivre des <strong>KPI métier</strong><br>
-      ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
+      ✔️ Raconter des histoires avec les données – <strong>Storytelling</strong><br>
       ✔️ Développer des <strong>solutions Business Intelligence</strong><br>
       ✔️ Travailler en <strong>méthode Agile</strong><br>
     </p>
@@ -208,7 +208,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <strong>NETFLIX – Analyse stratégique<br>→ → POWER BI & DAX – ONLYOFFICE</strong>
         </h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
-          Création d'un <strong>dashboard interactif Power BI</strong> pour analyser la stratégie de contenu de Netflix, incluant des mesures <strong>DAX</strong> avancées sur un modèle de données préparé avec <strong>Power Query</strong>.
+          Création d'un <strong>dashboard interactif Power BI</strong> pour analyser la stratégie de contenu chez Netflix, incluant des mesures <strong>DAX</strong> avancées sur un modèle de données (star schema) préparé avec <strong>Power Query</strong>.
         </p>
         <div style="height: 0.3rem;"></div>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
@@ -246,11 +246,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
           <img src="assets/images/airplane-logo.png" alt="Aircraft" style="height: 60px; vertical-align: middle; margin-right: 8px;">
           <strong>AIRCRAFT – Infrastructure des données et analyse<br>→ → SQL – Snowflake – DBT – Deepnote</strong></h2><br>
         <p style="margin: 0.5rem 0; color: #555; text-align: justify;">
-          <strong>Construction de l'infrastructure des données et analyses pour le secteur aérien, intérêt pour l'efficacité opérationnelle de la flotte, la charge des aéroports et la performance financière historique des compagnies aériennes.</strong>
+          <strong>Construction de l'infrastructure des données et analyses pour le secteur aérien, intérêt pour l'efficacité opérationnelle de la flotte, la charge des aéroports et la performance financière des compagnies aériennes.</strong>
         </p>
         <div style="height: 0.3rem;"></div>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
-          <em><strong>Objectif métier :</strong>Évaluer les ressources opérationnelles (flotte, aéroports) et identifier des leviers de croissance afin d'améliorer les performances des aéroports et des compagnies aériennes à l'étude.</em>
+          <em><strong>Objectif métier :</strong> Évaluer les ressources opérationnelles (flotte, aéroports) et identifier des leviers de croissance afin d'améliorer les performances des aéroports et des compagnies aériennes à l'étude.</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -291,7 +291,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         </p>
         <div style="height: 0.3rem;"></div>
         <p style="margin: 0.5rem 0; color: #555; line-height: 1.5; text-align: justify;">
-          <em><strong>Objectif métier :</strong>Optimiser la stratégie de matching en identifiant les critères de sélection réels, au-delà des déclarations, pour améliorer la pertinence des recommandations par l'application et ainsi l'engagement des abonnés.</em>
+          <em><strong>Objectif métier :</strong> Optimiser la stratégie de matching en identifiant les critères de sélection réels, au-delà des déclarations, pour améliorer la pertinence des recommandations proposées par l'application et ainsi l'engagement des abonnés.</em>
         </p>
         <div style="height: 0.3rem;"></div>
         <!-- Capacités centrées -->
@@ -389,27 +389,40 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </header>
   <br><br>
   
-  <div>
-    <h3 class="tech-block" style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>2024 à 2025 CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong>, Montpellier
-      <p><em style="margin-left: 2rem;">- Analyse exploratoire, descriptive et inférentielle de données.</em><br>
-      <em style="margin-left: 2rem;">- Direction de projets de gestion de données.</em></p>
+  <!-- CDSD -->
+  <div class="tech-block">
+    <h3 style="margin: 0 3 0.5rem 3;">
+      🎓 2024 à 2025 <strong style="color: var(--primary);">– CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong>, Montpellier
+      <ul style="color: var(--primary); margin-left: 3rem; list-style-type: none; padding-left: 0; font-style: italic;">
+        <li> Direction de projets de gestion de données.</li>
+        <li> Analyse exploratoire, descriptive et inférentielle de données</li>
+      </ul>
     </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;">
-        <strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
-      </p>
+      <p style="text-align: center; margin-bottom: 1.5rem;">→ Titre professionnel de niveau bac +4</p>
+  </div><br>
+  <!-- Licence pro -->
+  <div class="tech-block">
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
       🎓 <strong>2009 à 2010 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong>, Angers
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Angers – 2009 à 2010</strong></p><br>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
+  </div><br>
+  <!-- DUT -->
+  <div class="tech-block">
       🎓 <strong>2007 à 2008 DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>, Clermont-Ferrand
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Clermont-Ferrand – 2007 à 2009</strong></p><br>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
+  </div><br>
+  <!-- FAC -->
+  <div class="tech-block">
       🎓 <strong>2007 LICENCE Biologie Première Année</strong>, Rennes
     </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p><br>
+      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p>
+  </div><br>
+  <!-- DAEU -->
+  <div class="tech-block">
     <h3 style="color: var(--primary); margin-left: 0 3 0.5rem 3;">
       🎓 <strong>2006 DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>, Rennes
     </h3>
