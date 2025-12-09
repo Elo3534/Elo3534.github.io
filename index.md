@@ -30,7 +30,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .formation-table {max-width: 900px; margin: 0 auto;}
 .formation-row {display: flex; border: 1px solid #1abc9c; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;}
 .formation-year { flex: 0 0 120px; font-weight: bold; color: black;}
-.formation-detail { flex: 1; padding: 0 2rem 0 1rem; color: var(--primary);}
+.formation-detail { flex: 1; padding: 0 0.5rem 0 0rem; color: var(--primary);}
 .formation-location { flex: 0 0 180px; text-align: right; color: black;}
 
 
@@ -424,7 +424,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- DUT -->
     <div class="formation-row">
-      <div class="formation-year">2007 – 2008</div>
+      <div class="formation-year">2007 – 2009</div>
       <div class="formation-detail">
         <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</strong> - BAC +2
       </div>
