@@ -15,20 +15,29 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 /* Éléments récurrents */
 .profile-pic { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; }
 .contact-icon { display: inline-flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 50%; background: var(--primary); margin: 10px; text-decoration: none; }
-.contact-icon img { width: 30px; height: 30px; }
+
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
-.project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f8f9fa; margin-bottom: 2rem; text-align: center}
-.skill-tag { display: inline-block; align-items: center; justify-content: center; background: var(--secondary); color: black; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px; white-space: nowrap; box-sizing: border-box; line-height: 1;}
-.content-block { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
-.timeline-section { border-left: 4px solid; padding-left: 1.5rem; margin-bottom: 2.5rem; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
-.btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f5f5f5; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
-.tech-block {border: 1px solid var(--primary); border-radius: 12px; padding: 2rem; margin: 0.5rem auto; max-width: 900px; background: #fafafa;}
+.btn-top { display: inline-block; padding: 3px 7px; margin: 5px; background: #f9f9f9; color: var(--primary); text-decoration: none; border-radius: 5px; border: 1px solid var(--primary); }
+
+.skill-tag { display: inline-block; align-items: center; justify-content: center; background: var(--secondary); color: black; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.9rem; margin: 0.25rem; vertical-align: middle; height: 28px; min-width: 60px; white-space: nowrap; box-sizing: border-box; line-height: 1;}
+
+.project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f9f9f9; margin-bottom: 2rem; text-align: center}
+
+.formation-table {max-width: 900px; margin: 0 auto;}
+.formation-row {display: flex; border: 1px solid #1abc9c; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;}
+.formation-year { flex: 0 0 120px; font-weight: bold; color: black;}
+.formation-detail { flex: 1; padding: 0 1rem; color: var(--primary);}
+.formation-location { flex: 0 0 180px; text-align: right; color: black;}
 
 
 #experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
 </style>
+
+
+
+
 
 <!-- En-tête avec photo -->
 <header class="text-center mb-2">
@@ -70,7 +79,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="#apropos" class="nav-btn">À Propos</a>
   <a href="#competences" class="nav-btn">Compétences</a>
   <a href="#projets" class="nav-btn">Projets</a>
-  <a href="#formation" class="nav-btn">Formation</a>
+  <a href="#formations" class="nav-btn">Formations</a>
   <a href="#experiences" class="nav-btn">Expériences</a>
   <a href="#contact" class="nav-btn">Contact</a>
 </nav>
@@ -82,7 +91,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <section id="apropos" class="container mb-3">
   <header class="text-center">
     <h1><strong>👋 À Propos de moi</strong></h1>
-  </header>
+  </header><br>
 
   <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; display: inline-block;">
     <p  style="text-indent: 2rem;">
@@ -101,8 +110,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- Mes compétences -->
 <section id="competences" class="container mb-3">
-  <header>
-    <h1 style="text-align: center;"><strong>🛠️ Compétences</strong></h1>
+  <header class="text-center">
+    <h1><strong>🛠️ Compétences</strong></h1>
   </header><br>
   
   <!-- Bloc Techniques -->
@@ -383,106 +392,66 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <div class="hr-sep"></div>
 
 <!-- Mes formations et certifications -->
-<section id="formation" class="container mb-3">
+<section id="formations" class="container mb-3">
   <header class="text-center">
     <h1><strong>🎓 Formations</strong></h1>
-  </header>
-  <br>
+  </header><br>
   
-  <!-- CDSD -->
-  <div class="tech-block">
-    <h3 style="margin: 0 3 0.5rem 3;">
-      🎓 <span style="font-weight: normal; color: black;">2024 à 2025</span><strong style="color: var(--primary);"> – CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><span style="font-weight: normal; color: black;">, Montpellier</span>
-      <ul style="color: var(--primary); margin-left: 3rem; list-style-type: none; padding-left: 0; font-style: italic;">
-        <li>- Direction de projets de gestion de données.</li>
-        <li>- Analyse exploratoire, descriptive et inférentielle de données</li>
-      </ul>
-    </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;">→ Titre professionnel de niveau bac +4</p>
-  </div><br>
-
-  <!-- Licence pro -->
-  <div class="tech-block">
-    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>2009 à 2010 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale </strong>, Angers
-    </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Angers – 2009 à 2010</strong></p><br>
-    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-  </div><br>
-
-  <!-- DUT -->
-  <div class="tech-block">
-      🎓 <strong>2007 à 2008 DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>, Clermont-Ferrand
-    </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Clermont-Ferrand – 2007 à 2009</strong></p><br>
-    <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-  </div><br>
-  <!-- FAC -->
-  <div class="tech-block">
-      🎓 <strong>2007 LICENCE Biologie Première Année</strong>, Rennes
-    </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p>
-  </div><br>
-  <!-- DAEU -->
-  <div class="tech-block">
-    <h3 style="color: var(--primary); margin-left: 0 3 0.5rem 3;">
-      🎓 <strong>2006 DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>, Rennes
-    </h3>
-      <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2006</strong></p>
-  </div>
-</section>
 
 
 
-<section id="formations">
-  <h2 style="text-align: center; margin-bottom: 2rem;">🎓 Formations</h2>
 
-  <div class="formation-table" style="max-width: 900px; margin: 0 auto; border-collapse: collapse;">
-    <!-- Formation 1 -->
-    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
-      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2024 – 2025</div>
-      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
-        <strong style="color: var(--primary);">CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
-        - Direction de projets de gestion de données.<br>
+  <div class="formation-table">
+    <!-- CDSD -->
+    <div class="formation-row">
+      <div class="formation-year">2024 – 2025</div>
+      <div class="formation-detail">
+        <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD) - BAC +4</strong><br>
+        - Direction de projets de gestion de données<br>
         - Analyse exploratoire, descriptive et inférentielle de données
       </div>
-      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Montpellier</div>
+      <div class="formation-location">Montpellier</div>
     </div>
-    <!-- Formation 2 -->
-    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
-      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2009 – 2010</div>
-      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
-        <strong style="color: var(--primary);">LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</strong>
+    <!-- LICENCE PRO -->
+    <div class="formation-row">
+      <div class="formation-year">2009 – 2010</div>
+      <div class="formation-detail">
+        <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale - BAC +3</strong>
       </div>
-      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Angers</div>
+      <div class="formation-location">Angers</div>
     </div>
-    <!-- Formation 3 -->
-    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
-      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2007 – 2008</div>
-      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
-        <strong style="color: var(--primary);">DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>
+    <!-- DUT -->
+    <div class="formation-row">
+      <div class="formation-year">2007 – 2008</div>
+      <div class="formation-detail">
+        <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques - BAC +2</strong>
       </div>
-      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Clermont-Ferrand</div>
+      <div class="formation-location">Clermont-Ferrand</div>
     </div>
-    <!-- Formation 4 -->
-    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
-      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2007</div>
-      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
-        <strong style="color: var(--primary);">LICENCE Biologie Première Année</strong><br>
-        Année validée (mise à niveau réussie)
+    <!-- FAC -->
+    <div class="formation-row">
+      <div class="formation-year">2007</div>
+      <div class="formation-detail"><strong>LICENCE Biologie Première Année</strong><br>
+        Année validée
       </div>
-      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Rennes</div>
+      <div class="formation-location">Rennes</div>
     </div>
-    <!-- Formation 5 -->
-    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
-      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2006</div>
-      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
-        <strong style="color: var(--primary);">DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>
-      </div>
-      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Rennes</div>
+    <!-- DAEU -->
+    <div class="formation-row">
+      <div class="formation-year">2006</div>
+      <div class="formation-detail">DAEU B - équivalent BAC</div>
+      <div class="formation-location">Rennes</div>
     </div>
   </div>
-</section>
+</section><br>
+
+
+
+
+
+
+
+
 
 
 <!-- CV et haut de page -->
@@ -501,8 +470,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- Mes expériences professionnelles -->
 <section id="experiences" class="container mb-3" style="text-align: center;">
-  <header class="text-center" style="font-weight: bold;">
-    <h1><strong> 🤝 Expériences Professionnelles</strong></h1>
+  <header class="text-center">
+    <h1><strong>🤝 Expériences Professionnelles</strong></h1>
   </header><br>
 
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
