@@ -16,7 +16,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .profile-pic { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; }
 .contact-icon { display: inline-flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 50%; background: var(--primary); margin: 10px; text-decoration: none; }
 .contact-icon img { width: 30px; height: 30px; }
-
 .nav-btn { display: inline-block; padding: 6px 10px; margin: 5px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; }
 .hr-sep { border-top: 2px solid var(--primary); margin: 2rem 0; width: 100%; }
 .btn-cv { display: inline-block; padding: 6px 14px; background: var(--primary); color: white; text-decoration: none; border-radius: 5px; margin: 10px; }
@@ -194,10 +193,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
-    📄 Téléchargez mon CV
-  </a><br>
-
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 <div style="height: 0.3rem;"></div>
@@ -399,10 +394,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <header class="text-center">
     <h1><strong>🎓 Formations</strong></h1>
   </header><br>
-  
-
-
-
 
   <div class="formation-table">
     <!-- CDSD -->
@@ -450,19 +441,8 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 
 
-
-
-
-
-
-
-
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
-    📄 Téléchargez mon CV
-  </a><br>
-
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 <div style="height: 0.3rem;"></div>
@@ -508,10 +488,6 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
-  <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
-    📄 Téléchargez mon CV
-  </a><br>
-
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 <div style="height: 0.3rem;"></div>
