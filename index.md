@@ -25,10 +25,12 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 .project-card { border: 1px solid; border-radius: 10px; padding: 1.5rem; background: #f9f9f9; margin-bottom: 2rem; text-align: center}
 
+.tech-block { border: 1px solid #1abc9c; border-radius: 12px; padding: 1.5rem; margin: 2rem auto; max-width: 900px; background: #f9f9f9;}
+
 .formation-table {max-width: 900px; margin: 0 auto;}
 .formation-row {display: flex; border: 1px solid #1abc9c; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;}
 .formation-year { flex: 0 0 120px; font-weight: bold; color: black;}
-.formation-detail { flex: 1; padding: 0 1rem; color: var(--primary);}
+.formation-detail { flex: 1; padding: 0 2rem 0 1rem; color: var(--primary);}
 .formation-location { flex: 0 0 180px; text-align: right; color: black;}
 
 
@@ -406,7 +408,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <div class="formation-row">
       <div class="formation-year">2024 – 2025</div>
       <div class="formation-detail">
-        <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD) - BAC +4</strong><br>
+        <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong> - BAC +4<br>
         - Direction de projets de gestion de données<br>
         - Analyse exploratoire, descriptive et inférentielle de données
       </div>
@@ -416,7 +418,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <div class="formation-row">
       <div class="formation-year">2009 – 2010</div>
       <div class="formation-detail">
-        <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale - BAC +3</strong>
+        <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</strong> - BAC +3
       </div>
       <div class="formation-location">Angers</div>
     </div>
@@ -424,7 +426,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <div class="formation-row">
       <div class="formation-year">2007 – 2008</div>
       <div class="formation-detail">
-        <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques - BAC +2</strong>
+        <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</strong> - BAC +2
       </div>
       <div class="formation-location">Clermont-Ferrand</div>
     </div>
@@ -439,7 +441,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <!-- DAEU -->
     <div class="formation-row">
       <div class="formation-year">2006</div>
-      <div class="formation-detail">DAEU B - équivalent BAC</div>
+      <div class="formation-detail"><strong>DAEU B</strong> - équivalent BAC</div>
       <div class="formation-location">Rennes</div>
     </div>
   </div>
@@ -477,7 +479,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> – Lycée privé, Aix-en-Provence – 2017 à 2024
         </h3>
-          <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
+          <ul style="color: #384f66ff; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
             <li>Référencement produits chimiques et sécurité laboratoire</li>
             <li>Intégration d'un outil informatisé</li>
             <li>Préparation et mise au point de TP et protocoles expérimentaux</li>
@@ -485,9 +487,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <br><br>
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">ingénieure d'étude</span> en cytogénétique – INRA, Angers – 2010 à 2013
         </h3>
-          <p style="color: #555; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
+          <p style="color: #2c3e50; line-height: 1.6; margin: 0 0 1rem 0; text-align: justify;">
             <em style="padding-left: 3rem;">Analyse cytogénétique de 8 genres de plantes ornementales pour un projet partenarial.</em></p>
-          <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
+          <ul style="color: #384f66ff; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
             <li>Protocoles expérimentaux, <strong>analyses statistiques, reporting visuel</strong></li>
             <li>Organisation laboratoire, gestion stocks et budgets</li>
             <li><strong>Collaboration pluridisciplinaire et Visualisations</strong></li>
@@ -495,7 +497,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
         <br><br>
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">conductrice de lignes</span> – Ipsen, Thalès, Oberthur, ... <br>– 2002 à 2007 et 2014 à 2017
         </h3>
-          <ul style="color: #555; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
+          <ul style="color: #384f66ff; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 1.5rem;">
             <li>Conduite de lignes automatisées</li>
             <li>Contrôle qualité</li>
             <li>Polyvalence secteur divers</li>
