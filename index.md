@@ -31,7 +31,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .formation-row {display: flex; border: 1px solid #1abc9c; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;}
 .formation-year { flex: 0 0 120px; font-weight: bold; color: black;}
 .formation-detail { flex: 1; padding: 0 0.5rem 0 0rem; color: var(--primary);}
-.formation-location { flex: 0 0 180px; text-align: right; color: black;}
+.formation-location { flex-shrink: 1; min-width; 80px, text-align: right; color: black;}
 
 
 #experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
