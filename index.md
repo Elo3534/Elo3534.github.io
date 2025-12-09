@@ -392,10 +392,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <!-- CDSD -->
   <div class="tech-block">
     <h3 style="margin: 0 3 0.5rem 3;">
-      🎓 2024 à 2025 <strong style="color: var(--primary);">– CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong>, Montpellier
+      🎓 <span style="font-weight: normal; color: black;">2024 à 2025</span><strong style="color: var(--primary);"> – CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><span style="font-weight: normal; color: black;">, Montpellier</span>
       <ul style="color: var(--primary); margin-left: 3rem; list-style-type: none; padding-left: 0; font-style: italic;">
-        <li> Direction de projets de gestion de données.</li>
-        <li> Analyse exploratoire, descriptive et inférentielle de données</li>
+        <li>- Direction de projets de gestion de données.</li>
+        <li>- Analyse exploratoire, descriptive et inférentielle de données</li>
       </ul>
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;">→ Titre professionnel de niveau bac +4</p>
@@ -403,7 +403,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <!-- Licence pro -->
   <div class="tech-block">
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
-      🎓 <strong>2009 à 2010 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong>, Angers
+      🎓 <strong>2009 à 2010 LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale </strong>, Angers
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Angers – 2009 à 2010</strong></p><br>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
