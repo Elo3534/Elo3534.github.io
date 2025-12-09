@@ -385,9 +385,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 <!-- Mes formations et certifications -->
 <section id="formation" class="container mb-3">
   <header class="text-center">
-    <h1><strong>🎓 Formations & Certifications</strong></h1>
+    <h1><strong>🎓 Formations</strong></h1>
   </header>
-  <br><br>
+  <br>
   
   <!-- CDSD -->
   <div class="tech-block">
@@ -400,6 +400,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </h3>
       <p style="text-align: center; margin-bottom: 1.5rem;">→ Titre professionnel de niveau bac +4</p>
   </div><br>
+
   <!-- Licence pro -->
   <div class="tech-block">
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
@@ -408,6 +409,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Angers – 2009 à 2010</strong></p><br>
     <h3 style="color: var(--primary); margin: 0 3 0.5rem 3;">
   </div><br>
+
   <!-- DUT -->
   <div class="tech-block">
       🎓 <strong>2007 à 2008 DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>, Clermont-Ferrand
@@ -429,6 +431,59 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <p style="text-align: center; margin-bottom: 1.5rem;"><strong>Rennes – 2006</strong></p>
   </div>
 </section>
+
+
+
+<section id="formations">
+  <h2 style="text-align: center; margin-bottom: 2rem;">🎓 Formations</h2>
+
+  <div class="formation-table" style="max-width: 900px; margin: 0 auto; border-collapse: collapse;">
+    <!-- Formation 1 -->
+    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
+      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2024 – 2025</div>
+      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
+        <strong style="color: var(--primary);">CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
+        - Direction de projets de gestion de données.<br>
+        - Analyse exploratoire, descriptive et inférentielle de données
+      </div>
+      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Montpellier</div>
+    </div>
+    <!-- Formation 2 -->
+    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
+      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2009 – 2010</div>
+      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
+        <strong style="color: var(--primary);">LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</strong>
+      </div>
+      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Angers</div>
+    </div>
+    <!-- Formation 3 -->
+    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
+      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2007 – 2008</div>
+      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
+        <strong style="color: var(--primary);">DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong>
+      </div>
+      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Clermont-Ferrand</div>
+    </div>
+    <!-- Formation 4 -->
+    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
+      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2007</div>
+      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
+        <strong style="color: var(--primary);">LICENCE Biologie Première Année</strong><br>
+        Année validée (mise à niveau réussie)
+      </div>
+      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Rennes</div>
+    </div>
+    <!-- Formation 5 -->
+    <div class="formation-row" style="display: flex; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;">
+      <div class="formation-year" style="flex: 0 0 120px; font-weight: bold; color: black;">2006</div>
+      <div class="formation-detail" style="flex: 1; padding: 0 1rem;">
+        <strong style="color: var(--primary);">DAEU B (Diplôme d'Accès aux Études Universitaires)</strong>
+      </div>
+      <div class="formation-location" style="flex: 0 0 180px; text-align: right;">Rennes</div>
+    </div>
+  </div>
+</section>
+
 
 <!-- CV et haut de page -->
 <footer class="text-center mb-1">
