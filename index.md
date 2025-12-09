@@ -554,7 +554,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <a href="#apropos" class="nav-btn">À Propos</a>
   <a href="#competences" class="nav-btn">Compétences</a>
   <a href="#projets" class="nav-btn">Projets</a>
-  <a href="#formation" class="nav-btn">Formation</a>
+  <a href="#formations" class="nav-btn">Formations</a>
   <a href="#experiences" class="nav-btn">Expériences</a>
   <a href="#contact" class="nav-btn">Contact</a>
 </nav>
