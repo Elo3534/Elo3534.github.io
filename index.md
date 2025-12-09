@@ -390,9 +390,15 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <br><br>
   
   <div>
-    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br><em style="margin-left: 2rem;">- Analyse exploratoire, descriptive et inférentielle de données.<br>
-      - Direction de projets de gestion de données.</em></h3><br>
-      <p style="margin-left: 3rem;"><strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha</p>
+    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">
+    🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br>
+    <em style="margin-left: 2rem;">
+      - Analyse exploratoire, descriptive et inférentielle de données.<br>
+      - Direction de projets de gestion de données.</em>
+    </h3><br>
+      <p style="margin-left: 3rem;">
+        <strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha
+      </p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
       <p style="margin-left: 3remr;"><strong>Angers – 2009 à 2010</strong></p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
