@@ -89,23 +89,23 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br>
     Mon parcours scientifique m’apporte une <strong>méthodologie rigoureuse</strong>, un <strong>raisonnement structuré</strong> et une <strong>maîtrise de l’expérimentation</strong>. Je conçois des <strong>dashboards fiables, modèles de données, analyses exploratoires, pipelines et KPIs</strong> qui améliorent la performance et la prise de décision.<br>
     Je recherche un poste de Data Analyst où la donnée est un <strong>levier stratégique</strong>, dans un environnement <strong>exigeant et collaboratif</strong>.</p>
-  </article><br>
+  </article>
 </section>
-
 
 
 <!--séparation-->
 <div class="hr-sep"></div>
 
+
 <!-- Mes compétences -->
 <section id="competences" class="container mb-3">
   <header>
     <h1 style="text-align: center;"><strong>🛠️ Compétences</strong></h1>
-  </header>
+  </header><br>
   
-<!-- Bloc Techniques -->
+  <!-- Bloc Techniques -->
   <div>
-    <h2 style="text-align: center;">📈 Compétences Techniques</h2><br>
+    <h2 style="text-align: center;">📈 Compétences Techniques</h2>
     <!-- Analyse & Traitement -->
     <div class="tech-block">
       <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Analyse & Traitement</strong></p> 
@@ -128,7 +128,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/Looker_Studio.png" alt="Looker Studio" style="height: 40px; width: auto;">     
             <img src="assets/images/matplotlib.PNG" alt="Matplotlib" style="height: 40px; width: auto;">
           </div>
-    </div><br>
+    </div>
     <!-- Bases de données & ETL -->
     <div class="tech-block">
       <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Bases de données & ETL</strong></p>
@@ -138,17 +138,16 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
             <img src="assets/images/Snowflake.PNG" alt="Snowflake" style="height: 40px; width: auto;">     
             <img src="assets/images/dbt.PNG" alt="DBT" style="height: 40px; width: auto;">
           </div>
-    </div><br>
+    </div>
     <!-- Modélisation & ML -->
     <div class="tech-block">
-      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Modélisation & ML</strong></p>
-      <p style="margin-left: 3rem;"><em> Régression, Decision Tree, Feature Engineering</em></p>  
+      <p style="margin-left: 3rem; text-transform: uppercase;"><strong>Modélisation & ML</strong><em> (Régression, Decision Tree, Feature Engineering)</em></p>
           <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
             <img src="assets/images/Dataiku.png" alt="Dataiku" style="height: 40px; width: auto;">            
             <img src="assets/images/Scikit_learn.png" alt="Scikit_learn" style="height: 40px; width: auto;">
           </div>
-    </div><br>
-<!-- Compétences Métier -->
+    </div>
+    <!-- Compétences Métier -->
     <h2 style="text-align: center;">🎯 Compétences Métier</h2>
     <p style="margin: 0 auto; text-align: left; width: max-content;">
       ✔️<strong>Traduire</strong> des besoins métier en <strong>problématiques data</strong><br>
@@ -156,20 +155,20 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       ✔️ Raconter des histoires avec les données (<strong>Storytelling</strong>)<br>
       ✔️ Développer des <strong>solutions Business Intelligence</strong><br>
       ✔️ Travailler en <strong>méthode Agile</strong><br>
-    </p><br> 
+    </p>
     <!-- Soft Skills -->
     <h2 style="text-align: center;">💪 Soft Skills</h2>
     <p style="margin: 0 auto; text-align: left; width: max-content;">
-      📊 Raisonnement analytique<br>
-      🔍 Esprit d'analyse<br>
-      🎯 Rigueur<br>
-      🤝 Communication<br>
+      📊  Raisonnement analytique<br>
+      🔍  Esprit d'analyse<br>
+      🎯  Rigueur<br>
+      🤝  Communication<br>
       💪 Adaptabilité<br>
-      🎯 Résolution de problèmes<br>
-      🤝 Pédagogie<br>
-      🔍 Curiosité intellectuelle<br>
-      💡 Amélioration continue<br>
-      💪Autonomie<br> 
+      🎯  Résolution de problèmes<br>
+      🤝  Pédagogie<br>
+      🔍  Curiosité intellectuelle<br>
+      💡  Amélioration continue<br>
+      💪  Autonomie<br> 
     </p><br> 
     <!-- Langues -->
     <h2 style="text-align: center;">🌍 Langues</h2>
@@ -389,22 +388,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <br><br>
   
   <div>
-    <h3 style="color: var(--primary); margin-bottom: 0.5rem;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong></h3><br>
-    <h3 style="margin-left: 1.5rem;">- Analyse exploratoire, descriptive et inférentielle de données.<br>
-      - Direction de projets de gestion de données.<br></h3>
-      <p><strong>Montpellier – Novembre 2025</strong></p>
-      <p style="color: #555; line-height: 1.6; margin-top: 0.5rem;">
-          Titre professionnel de niveau bac +4 enregistré au RNCP.<br>
-          2024 à 2025 :Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha
-      </p>
+    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong><br><em style="margin-left: 2rem;">- Analyse exploratoire, descriptive et inférentielle de données.<br>
+      - Direction de projets de gestion de données.</em></h3><br>
+      <p style="margin-left: 3rem;"><strong>Montpellier – Novembre 2025</strong><br>Titre professionnel de niveau bac +4 enregistré au RNCP.<br>Formation en <strong>Bootcamp 'FULLSTACK DATA ANALYSIS'</strong> chez Jedha</p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale (BAEMOVA)</strong></h3>
-      <p><strong>Angers – 2009 à 2010</strong></p>
+      <p style="margin-left: 3remr;"><strong>Angers – 2009 à 2010</strong></p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques (ABB)</strong></h3>
-      <p><strong>Clermont-Ferrand – 2007 à 2009</strong></p>
+      <p style="margin-left: 3rem;"><strong>Clermont-Ferrand – 2007 à 2009</strong></p>
     <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>LICENCE Biologie Première Année</strong></h3>
-      <p><strong>Rennes – 2007</strong> - Année validée – Admissible en L2</p>
-    <h3 style="color: var(--primary); margin: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
-      <p><strong>Rennes – 2006</strong></p>
+      <p style="margin-left: 3rem;"><strong>Rennes – 2007</strong> - Année validée (mise à niveau réussie)</p>
+    <h3 style="color: var(--primary); margin-left: 0 0 0.5rem 0;">🎓 <strong>DAEU B (Diplôme d'Accès aux Études Universitaires)</strong></h3>
+      <p style="margin-left: 3rem;"><strong>Rennes – 2006</strong></p>
   </div>
 </section>
 
@@ -491,11 +485,10 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       <p style="margin: 0.5rem 0;">
         <span style="display: inline-block; width: 30px; text-align: center;">🌐</span>
         Montpellier
-      </p>
+      </p><br>
     </div>
   </div>
 </section>
-<div style="height: 0.3rem;"></div>
 
 <!--séparation-->
 <div class="hr-sep"></div>
@@ -510,7 +503,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     🎯 Passionnée par la résolution d’énigmes complexes (<strong>logique + créativité</strong>).<br>
     🌿 Connectée à la nature et toujours prête à voyager (<strong>énergie, curiosité</strong>).<br>
     📚 Lectrice assidue d’enquêtes et de journalisme d’investigation (<strong>esprit critique</strong>).<br>
-    En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
+    👉 En résumé : <strong>100% curieuse</strong>, <strong>0% routine</strong>, et un <strong>grand sourire</strong> face aux défis !
   </p>
 </article><br>
 
