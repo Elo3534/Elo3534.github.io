@@ -32,7 +32,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 
 .formation-table {max-width: 900px; margin: 0 auto;}
 .formation-row {display: flex; border: 1px solid #1abc9c; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;}
-.formation-year { flex: 0 0 120px; font-weight: bold; color: black;}
+.formation-year { flex: 0 0 100px; font-weight: bold; color: black;}
 .formation-detail { flex: 1; padding: 0 0.3rem 0 0rem; color: var(--primary);}
 .formation-location { flex-shrink: 1; min-width; 80px, text-align: right; color: black;}
 
