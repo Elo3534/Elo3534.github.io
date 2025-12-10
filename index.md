@@ -1,8 +1,11 @@
 ---
+
 layout: default
 title: "Élodie HEINRY | DATA Analyst"
 description: "Nouvelle direction, Même détermination !"
+
 ---
+
 <style>
 /* Styles unifiés*/
 :root { --primary: #1abc9c; --secondary: #159957; }
@@ -30,28 +33,27 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 .formation-table {max-width: 900px; margin: 0 auto;}
 .formation-row {display: flex; border: 1px solid #1abc9c; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; background: #f9f9f9;}
 .formation-year { flex: 0 0 120px; font-weight: bold; color: black;}
-.formation-detail { flex: 1; padding: 0 0.5rem 0 0rem; color: var(--primary);}
+.formation-detail { flex: 1; padding: 0 0.3rem 0 0rem; color: var(--primary);}
 .formation-location { flex-shrink: 1; min-width; 80px, text-align: right; color: black;}
 
 
 #experiences ul {display: inline-block; text-align: left; padding-left: 1.5rem; margin: 0 auto;}
 </style>
 
-
-
-
-
 <!-- En-tête avec photo -->
+
 <header class="text-center mb-2">
   <img src="assets/images/logo.png" alt="Photo d'Élodie HEINRY" class="profile-pic">
 </header>
 
 <!-- Accroche -->
+
 <section class="text-center mb-3" style="line-height: 1.6;">
   <h2 style="color: var(--secondary);">De la Reconversion à la Révélation : Mon Pari Gagnant</h2>
 </section>
 
 <!-- Icônes de contact -->
+
 <nav class="text-center mt-2">
   <!-- Email -->
   <a href="mailto:heinryelodie@hotmail.fr" target="_blank" class="contact-icon" title="Email">
@@ -77,6 +79,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </nav><br>
 
 <!-- Navigation rapide -->
+
 <nav class="text-center mb-2" aria-label="Navigation principale">
   <a href="#apropos" class="nav-btn">À Propos</a>
   <a href="#competences" class="nav-btn">Compétences</a>
@@ -87,15 +90,17 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </nav>
 
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
 <!-- À propos -->
+
 <section id="apropos" class="container mb-3">
   <header class="text-center">
     <h1><strong>👋 À Propos de moi</strong></h1>
   </header><br>
 
-  <article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; display: inline-block;">
+<article style="text-align:justify; margin-left: 3rem; margin-right: 3rem; display: inline-block;">
     <p  style="text-indent: 2rem;">
       Data Analyst orientée <strong>décisionnel</strong>, avec une formation solide en <strong>BI (Power BI, DAX, SQL)</strong> et en <strong>analyses avancées sous Python</strong>. J’aime transformer des données brutes en <strong>outils opérationnels, insights actionnables et recommandations stratégiques</strong>.<br></p>
     <p  style="text-indent: 2rem;">
@@ -105,19 +110,20 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </article>
 </section>
 
-
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
-
 <!-- Mes compétences -->
+
 <section id="competences" class="container mb-3">
   <header class="text-center">
     <h1><strong>🛠️ Compétences</strong></h1>
   </header><br>
-  
-  <!-- Bloc Techniques -->
-  <div>
+
+<!-- Bloc Techniques -->
+
+<div>
     <h2 style="text-align: center;">📈 Compétences Techniques</h2>
     <!-- Analyse & Traitement -->
     <div class="tech-block">
@@ -172,16 +178,16 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     <!-- Soft Skills -->
     <h2 style="text-align: center;">💪 Soft Skills</h2>
     <p style="margin: 0 auto; text-align: left; width: max-content;">
-      📊&nbsp;&nbsp;&nbsp;Raisonnement analytique<br>
-      🎯&nbsp;&nbsp;&nbsp;Résolution de problèmes data-driven<br>
-      🔍&nbsp;&nbsp;&nbsp;Curiosité intellectuelle<br>
-      💡&nbsp;&nbsp;&nbsp;Amélioration continue<br>
-      🗣️&nbsp;&nbsp;&nbsp;Communication<br>
-      🤝&nbsp;&nbsp;&nbsp;Collaboration<br>
-      📚&nbsp;&nbsp;&nbsp;Pédagogie<br>
-      💪&nbsp;&nbsp;&nbsp;Autonomie<br>
-      🔄&nbsp;&nbsp;&nbsp;Adaptabilité<br>
-      📏&nbsp;&nbsp;&nbsp;Rigueur<br>        
+      📊   Raisonnement analytique<br>
+      🎯   Résolution de problèmes data-driven<br>
+      🔍   Curiosité intellectuelle<br>
+      💡   Amélioration continue<br>
+      🗣️   Communication<br>
+      🤝   Collaboration<br>
+      📚   Pédagogie<br>
+      💪   Autonomie<br>
+      🔄   Adaptabilité<br>
+      📏   Rigueur<br>        
     </p><br> 
     <!-- Langues -->
     <h2 style="text-align: center;">🌍 Langues</h2>
@@ -190,24 +196,27 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </div>
 </section>
 
-
 <!-- CV et haut de page -->
+
 <footer class="text-center mb-1">
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 <div style="height: 0.3rem;"></div>
 
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
 <!-- Mes projets DATA -->
+
 <section id="projets" class="container mb-3">
   <header class="text-center">
     <h1><strong>🚀 Mes Projets Data</strong></h1>
   </header><br>
 
-  <!-- Projet 1 Netflix-->
-  <div class="project-card" style="border-color: #e50914;">
+<!-- Projet 1 Netflix-->
+
+<div class="project-card" style="border-color: #e50914;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #e50914;">
@@ -245,8 +254,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
   </div>
 
-  <!-- Projet 2 Aircraft-->
-  <div class="project-card" style="border-color: #4b75ffdb;">
+<!-- Projet 2 Aircraft-->
+
+<div class="project-card" style="border-color: #4b75ffdb;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4b75ffdb;">
@@ -285,8 +295,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
   </div>
 
-  <!-- Projet 3 Tinder-->
-  <div class="project-card" style="border-color: #FF4B91;">
+<!-- Projet 3 Tinder-->
+
+<div class="project-card" style="border-color: #FF4B91;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #FF4B91;">
@@ -328,8 +339,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
   </div>
 
-  <!-- Projet 4 IBM-->
-  <div class="project-card" style="border-color: #4DA3FF;">
+<!-- Projet 4 IBM-->
+
+<div class="project-card" style="border-color: #4DA3FF;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
       <div style="flex: 1;">
         <h2 style="margin: 0 0 0.5rem 0; color: #4DA3FF;">
@@ -377,30 +389,34 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </section>
 
 <!-- CV et haut de page -->
+
 <footer class="text-center mb-1">
   <a href="/assets/CV/CV_Elodie_HEINRY_DataAnalyst.pdf" target="_blank" class="btn-cv">
     📄 Téléchargez mon CV
   </a><br>
 
   <a href="#top" class="btn-top">↑ Haut de page</a>
+
 </footer>
 <div style="height: 0.3rem;"></div>
 
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
 <!-- Mes formations et certifications -->
+
 <section id="formations" class="container mb-3">
   <header class="text-center">
     <h1><strong>🎓 Formations</strong></h1>
   </header><br>
 
-  <div class="formation-table">
+<div class="formation-table">
     <!-- CDSD -->
     <div class="formation-row">
       <div class="formation-year">2024<br>2025</div>
       <div class="formation-detail">
-        <strong>CONCEPTEUR ET DÉVELOPPEUR EN SCIENCES DE DONNÉES (CDSD)</strong> - BAC +4<br>
+        <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong> - BAC +4<br>
         - Direction de projets de gestion de données<br>
         - Analyse exploratoire, descriptive et inférentielle de données
       </div>
@@ -408,7 +424,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- LICENCE PRO -->
     <div class="formation-row">
-      <div class="formation-year">2009 – 2010</div>
+      <div class="formation-year">2009<br>2010</div>
       <div class="formation-detail">
         <strong>LICENCE PROFESSIONNELLE Biologie Analytique et Expérimentale</strong> - BAC +3
       </div>
@@ -416,7 +432,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
     </div>
     <!-- DUT -->
     <div class="formation-row">
-      <div class="formation-year">2007 – 2009</div>
+      <div class="formation-year">2007<br>2009</div>
       <div class="formation-detail">
         <strong>DUT GENIE BIOLOGIQUE en Analyses Biologiques et Biochimiques</strong> - BAC +2
       </div>
@@ -439,25 +455,25 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   </div>
 </section><br>
 
-
-
 <!-- CV et haut de page -->
+
 <footer class="text-center mb-1">
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 <div style="height: 0.3rem;"></div>
 
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
-
 <!-- Mes expériences professionnelles -->
+
 <section id="experiences" class="container mb-3" style="text-align: center;">
   <header class="text-center">
     <h1><strong>🤝 Expériences Professionnelles</strong></h1>
   </header><br>
 
-  <div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
+<div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
         <h3 style="color: #2c3e50; margin: 0 0 0.5rem 0; font-weight: bold;"><span style="text-transform: uppercase; font-size: 1.1em;">agent de maîtrise</span> – Lycée privé, Aix-en-Provence – 2017 à 2024
         </h3>
           <ul style="color: #384f66ff; line-height: 1.6; margin: 0 0 1rem 1.5rem; padding-left: 3rem;">
@@ -487,21 +503,24 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </section>
 
 <!-- CV et haut de page -->
+
 <footer class="text-center mb-1">
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 <div style="height: 0.3rem;"></div>
 
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
 <!-- Mon contact -->
+
 <section id="contact" class="container mb-3">
   <header class="text-center">
     <h1><strong>📫 Contactez-moi</strong></h1>
   </header>
 
-  <div class="text-center">
+<div class="text-center">
     <div style="display: inline-block; text-align: left;">
       <p style="margin: 0.5rem 0;">
         <span style="display: inline-block; width: 30px; text-align: center;">📧</span>
@@ -528,9 +547,11 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </section>
 
 <!--séparation-->
+
 <div class="hr-sep"></div>
 
 <!-- Moi, en plus -->
+
 <header class="text-center">
   <h1><strong>👁️ Vous vouliez en savoir plus ?</strong></h1>
 </header>
@@ -545,11 +566,13 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </article><br>
 
 <!-- haut de page -->
+
 <footer class="text-center mb-1">
   <a href="#top" class="btn-top">↑ Haut de page</a>
 </footer>
 
 <!-- Navigation rapide -->
+
 <nav class="text-center mb-2" aria-label="Navigation principale">
   <a href="#apropos" class="nav-btn">À Propos</a>
   <a href="#competences" class="nav-btn">Compétences</a>
@@ -560,6 +583,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </nav>
 
 <!-- Icônes de contact -->
+
 <nav class="text-center mt-2">
   <a href="mailto:heinryelodie@hotmail.fr" target="_blank" class="contact-icon" title="Email">
     <img src="assets/images/email.png" alt="Email">
@@ -579,5 +603,5 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
 </nav>
 <br>
 <footer style="text-align:center;">
-  &copy; 2025 Élodie HEINRY – Tous droits réservés
+  © 2025 Élodie HEINRY – Tous droits réservés
 </footer>
