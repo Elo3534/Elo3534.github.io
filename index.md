@@ -398,9 +398,9 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
   <div class="formation-table">
     <!-- CDSD -->
     <div class="formation-row">
-      <div class="formation-year">2024 – 2025</div>
+      <div class="formation-year">2024<br>2025</div>
       <div class="formation-detail">
-        <strong>CONCEPTION ET DÉVELOPPEMENT EN SCIENCES DE DONNÉES (CDSD)</strong> - BAC +4<br>
+        <strong>CONCEPTEUR ET DÉVELOPPEUR EN SCIENCES DE DONNÉES (CDSD)</strong> - BAC +4<br>
         - Direction de projets de gestion de données<br>
         - Analyse exploratoire, descriptive et inférentielle de données
       </div>
