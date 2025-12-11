@@ -181,6 +181,7 @@ body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; }
       📊   Raisonnement analytique<br>
       🎯   Résolution de problèmes data-driven<br>
       🔍   Curiosité intellectuelle<br>
+      🧠   Autodidaxie
       💡   Amélioration continue<br>
       🗣️   Communication<br>
       🤝   Collaboration<br>
