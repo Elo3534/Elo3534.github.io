@@ -8,6 +8,7 @@ description: "Nouvelle direction, Même détermination !"
 
 
 
+
 <style>
 /* Styles unifiés*/
 :root { --primary: #1abc9c; --secondary: #159957; }
